@@ -7,7 +7,9 @@ translation, and put it in [`../community/`](../community/). See [CONTRIBUTING](
 > To *improve* a language SWAPMEAT already ships, you don't need these — edit the existing pack in
 > [`../official/`](../official/) instead.
 
-**Not yet populated.** These CSVs are exported from SWAPMEAT's English string tables (they aren't the same
-as the shipped translation packs, which are target-language-only). We'll add `en.UIStrings.csv` and
-`en.GeneratedStrings.csv` here from the current build. Until then, new-language authoring starts by copying
-an existing pack in `../official/` and retranslating.
+Two files, both `Key, Id, English(en)`, exported from SWAPMEAT's English string tables:
+
+- `en.UIStrings.csv` — hand-authored UI text (menus, buttons, messages).
+- `en.GeneratedStrings.csv` — item, ability, creature, and story text.
+
+A blank value in your translation falls back to English in-game, so partial translations are welcome.

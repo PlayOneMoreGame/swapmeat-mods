@@ -27,6 +27,9 @@ for manifest in "${mods[@]}"; do
   if [[ "$locale" == "__BADJSON__" ]]; then err "$name: mod.json is not valid JSON"; continue; fi
   if [[ -z "$locale" ]]; then err "$name: mod.json has no localization.locale"; fi
 
+  author="$(python3 -c 'import json,sys; d=json.load(open(sys.argv[1])); print((d.get("author") or "").strip())' "$manifest" 2>/dev/null || echo "")"
+  if [[ -z "$author" ]]; then err "$name: mod.json has no author (required — it's how players tell two translations of one language apart)"; fi
+
   for table in "${TABLES[@]}"; do
     csv="${base}.${table}.csv"
     if [[ ! -f "$csv" ]]; then err "$name: missing ${name}.${table}.csv (packs need both tables)"; continue; fi

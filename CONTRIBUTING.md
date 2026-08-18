@@ -23,8 +23,18 @@ No Unity, no programming, no build. A translation is a spreadsheet of text.
 Each language is **three files that share a base name**, e.g. `swapmeat-ja.mod.json`,
 `swapmeat-ja.UIStrings.csv`, `swapmeat-ja.GeneratedStrings.csv`:
 
-- **`<base>.mod.json`** — the manifest: the language `locale` (a [BCP-47] code like `ja`, `pt-BR`, `zh-Hans`)
-  and the `displayName` shown in the game's language picker.
+- **`<base>.mod.json`** — the manifest. Required fields: a `name`, an **`author`** (this is required — the
+  game shows it in the language picker so players can tell two translations of the same language apart), and a
+  `localization` block with the language `locale` (a [BCP-47] code like `ja`, `pt-BR`, `zh-Hans`) and a
+  `displayName`. For example:
+  ```json
+  {
+    "schemaVersion": 1,
+    "name": "Better Chinese",
+    "author": "your-name",
+    "localization": { "locale": "zh-Hans", "displayName": "中文" }
+  }
+  ```
 - **`<base>.UIStrings.csv`** and **`<base>.GeneratedStrings.csv`** — the text. Columns are `Key, Id,
   <Language>(<locale>)`. **Translate only the value column.** Leave `Key` and `Id` exactly as they are — they
   match the string to the game.

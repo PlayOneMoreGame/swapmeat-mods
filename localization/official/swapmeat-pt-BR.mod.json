@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "SWAPMEAT Portuguese (Brazil)",
+  "author": "One More Game",
   "localization": {
     "locale": "pt-BR",
     "displayName": "português (Brasil)"

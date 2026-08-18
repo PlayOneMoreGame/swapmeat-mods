@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "SWAPMEAT Japanese",
+  "author": "One More Game",
   "localization": {
     "locale": "ja",
     "displayName": "日本語"

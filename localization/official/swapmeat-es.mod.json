@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "SWAPMEAT Spanish",
+  "author": "One More Game",
   "localization": {
     "locale": "es",
     "displayName": "español"

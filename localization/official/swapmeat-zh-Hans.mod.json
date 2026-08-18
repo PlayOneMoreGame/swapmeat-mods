@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "SWAPMEAT Chinese (Simplified)",
+  "author": "One More Game",
   "localization": {
     "locale": "zh-Hans",
     "displayName": "中文"

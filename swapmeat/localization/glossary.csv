@@ -1,0 +1,272 @@
+English,Spanish(es),Portuguese (Brazil)(pt-BR),Japanese (jp),Korean (ko),Simplified Chinese (zh-CN),Strategy,Check
+!! HUNTERS ENRAGED !!,CAZADORES ENFURECIDOS!!,!! CAÇADORES ENFURECIDOS !!,！！ハンター激怒！！,!!헌터들 격노!!,！！猎人们愤怒了！,threat banner,warn
+!! WET PANTS NOW !!,PANTALONES MOJADOS!,!! HORA DE BORRAR AS CALÇAS !!,！！漏らすなよ！！,!!무서워서 오줌을 지리게 해주마!!,！！吓尿预警！！,threat banner,warn
+Agent Duckstone,Agente Pato Granate,Agente Patapedra,エージェントダックストーン,덕스톤 요원,特工巨石强鸭,creature — transcreate,warn
+Amp Turner,Amp Turner,Espetácula,アンプターナー,앰프 터너,安培翻铲,weapon — transcreate,warn
+Artifact,Artefacto,Artefato,アーティファクト,유물,终极能力,UI term — Ultimate ability system,ignore
+Ascension,Ascension,Ascension,Ascension,Ascension,Ascension,UI term — Appears in format strings; check context,ignore
+AT NT,AT NT,AT NT,AT NT,AT NT,AT NT,creature — transcreate,warn
+Back,Atrás,Voltar,戻る,뒤로,返回,UI term,ignore
+Bad Mr. Frosty,El malvado Sr. Frosty,Geladão Malvadão,バッドミスターフロスティ,나쁜 프로스티 씨,坏坏雪人,weapon — transcreate,warn
+BANISHED !,DESTERRADO!,BANIDO!,退治完了！,추방!,已放逐！,threat banner,warn
+Bean Minion,Legumbirro,Lacaio Grão,ビーンミニオン,빈 하수인,豆豆小兵,transcreate creature,warn
+Beatrice,Beatriz,Beatriz,ベアトリス,베아트리스,蜜翠丝,transcreate robot wasp pun (bee→Bea-trice); one CJK rendering,warn
+Big Ol' Tangus,Viejo Tangus,Grande Tangus,ビッグ・オル・タンガス,빅올드 탱거스,大唐古斯,planet — transcreate,warn
+Bioflux,Bioflujo,Biofluxo,バイオフラックス,바이오플럭스,生物流能枪,weapon — transcreate,warn
+Biomass Surge Mutation,Mutación de Oleada de biomasa,Mutação de Surto de Biomassa,バイオマスサージ・ミューテーション,바이오매스 급등 돌연변이,生物质涌动变异,mutation — transcreate,warn
+Blockhead,Cabeza dura,Cabeção,ブロックヘッド,블록헤드,石脑袋,creature — transcreate,warn
+Bolt Burger,Hamburtrueno,Rebimburguer,ボルトバーガー,볼트 버거,电光飞堡,game-specific — Vehicle name. zh-Hans is the benchmark for creative naming.,warn
+Bolt Rifle,Rifletrueno,Parafuziladeira,ボルトライフル,볼트 소총,电光步枪,weapon — transcreate,warn
+Bombard Core,Núcleo bombardero,Tiro de Bombarda,ボンバードコア,폭격의 핵,轰炸核心,mutation — transcreate,warn
+Boombot,Robobum,Robumbigo,ブームボット,붐봇,爆音宝,transcreate creature; values from Lionbridge 260701 delivery,warn
+Boombox,Boombox,Caixa de Som,ブームボックス,붐박스,低音炮,weapon — transcreate,warn
+Boomfist,Puño explosivo,Punho Explosivo,ブームフィスト,붐피스트,爆拳,weapon — transcreate,warn
+BoxFace,Cajalatada,Caixilson,ボックスフェイス,박스페이스,盒子脸,transcreate creature,warn
+Bozo Balloon,Globo bufón,Balão Bozo,ボゾバルーン,보조 풍선,小丑气球艇,creature — transcreate,warn
+Bramble Skull,Cráneo de zarzas,Crânio de Espinheiro,ブランブルスカル,가시덤불 두개골,荆棘头骨,mutation — transcreate,warn
+Brisketon,Brisketon,Alcatria,ブリスケトン,브리스케톤,腩极星,planet — transcreate,warn
+Broadside,Martillón,Tutulargão,ブロードサイド,브로드사이드,舷炮射手,creature — transcreate,warn
+Brrr Blaster,Explosivo Brr,Canhão C-C-Congelante,ブリュルブラスター,브르르 블래스터,哆嗦爆能枪,weapon — transcreate,warn
+Bugzapper,Mosquitero,Zipinseto,バグザッパー,버그재퍼,电刺蜂人,creature — transcreate,warn
+Burn Barrel,Quemabarril,Barril Flamejante,バーンバレル,불타는 배럴,焚化桶,weapon — transcreate,warn
+Burning,,,,,,status effect — On fire state,warn
+Burnt Brisket Body,Cuerpo de pecho quemado,Corpo de Peito Queimado,焦げたブリスケットの体,불타는 브리스킷 몸통,焦烤胸肉躯体,mutation — transcreate,warn
+Buster,Tronador,Destruidor,バスター,버스터,破坏小子,creature — transcreate,warn
+Buy,Comprar,Comprar,購入,구매,购买,UI term,ignore
+Buzzle,Zumbín,Zum-zum,バズル,버즐,嗡嗡怪,creature — transcreate,warn
+Calypso,Calipso,Calipso,カリプソ,칼립소,卡吕普索,transcreate planet + boss; mythological transliteration,warn
+Carl Rangus,Carl Rangus,Carl Rangus,カール・ランガス,칼 랭거스,卡尔·兰格斯,keep-verbatim character name — verbatim (es/pt) / phonetic (CJK),strict
+Carl’s Childhood Stick,El palo de infancia de Carl,Porrete da Infância de Carl,カールの子ども時代の棒,칼의 유년기 스틱,卡尔的童年木棍,weapon — transcreate,warn
+Cassette Launcher,Lanzador de casetes,Lança-fita,カセットランチャー,카세트 발사기,卡带发射器,weapon — transcreate,warn
+Charmed,Hechizado,Enfeitiçado,魅了,매혹,魅惑,status effect — transcreate; shipped 260813 has drift to reconcile (CND_Name_12/HE_Desc_208),warn
+Chest Nest,Nido en el pecho,Aninhado no Peito,チェストネスト,가슴 둥지,胸巢,mutation — transcreate,warn
+Chilled,,,極寒,,冷硬,status effect — Cold buildup state,warn
+Chomper,Mordelón,Nhom-nhom,チョンパー,촘퍼,冲咬鲨,creature — transcreate,warn
+Clobber Lobber,Golpeador lanzador,Fogueteira,クロッバーロッバー,클로버 로버,重击者,weapon — transcreate,warn
+Clobberbot,Robomoledor,Robô Tancudo,クロッバーボット,클로버봇,重击机器人,transcreate creature,warn
+Coach Dan,Entrenador Dan,Treinador Dan,コーチ・ダン,코치 댄,丹教练,keep-verbatim — keep 'Dan'; translate title 'Coach' (pt title-first per delivery),strict
+Codex,Códice,Códice,図鑑,도감,图鉴,"UI term — Locking existing shipped usage (consistent across 1.x posts). pt-BR ""Códice"" confirmed from current UIStrings (UI_INFOTERMINAL_NAME / UI_CODEX_TITLE_BAR / INFORMATION_TERMINAL_TITLE — consistent across all three). The screen where Rangus Files, enemies, items, and lore are browsed.",ignore
+Coil Heart,Corazón de bobina,Coração de Mola,コイルの心臓,코일 심장,线圈之心,mutation — transcreate,warn
+Cold as Ice,Frío como el hielo,De Gelar o Sangue,コールド・アズ・アイス,서릿발,冷若冰霜,mutation — transcreate,warn
+Collectible Newspaper,Periódico coleccionable,Jornal Colecionável,収集新聞,수집용 신문,收藏报纸,weapon — transcreate,warn
+Completed,Completado,Concluído,完了,완료,已完成,UI term,ignore
+Connor O'Malley,Connor O'Malley,Connor O'Malley,コナー・オマリー,코너 오말리,康纳·欧麦利,keep-verbatim real comedian; zh 欧麦利 per delivery (was 奥马利),strict
+Continue,,,,계속하기,,"UI term — UI button label. ko: 계속하기, not 이어하기 (which implies resuming something paused). Established batch 009 (`UI_MODE_SELECT_CONTINUE_RUN_LBL`).",ignore
+Creeper,Trepador,Teioso,クリーパー,크리퍼,悚行蛛,transcreate creature,warn
+Cryo Heart,Corazón criogénico,Coração Criogênico,クライオの心臓,냉동 심장,冷冻之心,mutation — transcreate,warn
+DANGER !,PELIGRO!,PERIGO!,危険！,위험!,危险！,threat banner,warn
+Dead Meat,Carne muerta,Virou Linguiça,デッドミート,죽은 고기,死肉,game-specific — Death screen title. pt-BR benchmark.,warn
+Deluxe Peeperoni,Peperojoni Deluxe,Peperolho de Luxo,デラックスピーパローニ,디럭스 피퍼로니,至尊香肠眼,creature — transcreate,warn
+Demolitionist,Demoledor,Demolidor,デモリショニスト,철거업자,爆破专家,mutation — transcreate,warn
+Dermal Plate,Placa dérmica,Placa Dérmica,ダーマルプレート,피부 판금,真皮装甲,mutation — transcreate,warn
+Difficulty,Dificultad,Dificuldade,難易度,난이도,难度模式,UI term,ignore
+Difficulty: Blazing,Ardiente,Ardente,激辛,아주매운맛,特辣,UI term — Heat-scale tier 3,ignore
+Difficulty: Hot,Picante,Picante,辛口,매운맛,重辣,UI term — Heat-scale tier 2,ignore
+Difficulty: Medium,Medio,Médio,中辛,보통맛,中辣,UI term — Heat-scale tier 1 (entry). Default order — never a diminutive (Casual/Easy).,ignore
+Difficulty: Nightmare,Pesadilla,Pesadelo,ナイトメア,악몽,噩梦,UI term — Heat-scale tier 4 (top). Established.,ignore
+Dingus,Dingus,Dingus,ディンガス,딩거스,丁古斯,transcreate creature,warn
+Dirtbag,Desmán,Toupodre,ダートバッグ,더트백,土包子,game-specific — Creature name,warn
+Drizzle Rizzle,Llovizna,Conta-gotas,ドリズルリズル,드리즐 리지,黏雨滋滋,weapon — transcreate,warn
+Duckstone,Pato granate,Patapedra,ダックストーン,덕스톤,巨石强鸭,creature — transcreate,warn
+Electric,Eléctrico,Elétrico,電撃,전기,电击,damage type,ignore
+Electrified,,,感電,,电击,status effect,warn
+Emberload,Carga de brasas,Bom de Brasa,エンバーロード,잉걸불 발사기,余烬喷子,weapon — transcreate,warn
+Employee Orientation,Orientación para empleados,Orientação de Funcionários,従業員オリエンテーション,직원 오리엔테이션,员工入职培训,planet — transcreate,warn
+Employee Rank,Rango de empleado,Ranque de Funcionário,従業員ランク,직원 등급,员工等级,UI term — In-universe progression system,ignore
+Encrusted Yeti Eyes,Ojos de yeti incrustados,Olhos de Iéti Incrustados,殻に覆われたイエティの目,수정화된 예티 눈,结壳雪人眼,mutation — transcreate,warn
+Esfera De Carne,Esfera De Carne,Esfera de Carne,エスフェラ・デ・カルネ,고기 구체,血肉之球,planet — transcreate,warn
+Eyeclops,Cíclope,Ciclóptico,アイクロプス,아이클롭스,独眼肉魔,creature — transcreate,warn
+Fire,Fuego,Fogo,火,화염,火焰,damage type,ignore
+Fish Schtick,Truco de pescado,Truque de Peixe,フィッシュシュティック,물고기 개그,咸鱼翻身,weapon — transcreate,warn
+Flair,Estilo,Brasão,フレア,재능,装扮,UI term — Cosmetic system,ignore
+Flak Fingers,Dedos de metralla,Dedos Desastrados,フラックフィンガー,파편 손가락,破片手指,mutation — transcreate,warn
+Flame Flipper,Aleta de llamas,Esquentácula,フレイムフリッパー,불꽃 뒤집개,火焰翻铲,weapon — transcreate,warn
+Flareburst,Explosión de llamarada,Pistolabareda,フレアバースト,플레어버스트,耀焰爆裂,weapon — transcreate,warn
+Forked Lightning,Rayo bifurcado,Relâmpago Bifurcado,分岐する雷,갈라진 번개,分叉闪电,mutation — transcreate,warn
+Franken Beans,Frankenjoles,Franken Grandalhão,フランケンビーンズ,프랑켄 빈즈,弗兰肯豆,transcreate creature pun,warn
+Franken Freak Out,Frankenvania,Surto de Franken,フランケンフリークアウト,프랑켄 프릭아웃,弗兰肯暴走,planet — transcreate,warn
+Franken Meat,Franken Carne,Carne Franken,フランケンミート,프랑켄 고기,弗兰肯肉族,transcreate creature pun,warn
+Freezer Burn Flesh,Carne quemada por congelador,Carne com Queimadura de Congelamento,フリーザーバーンの肉,냉동 화상 살점,冻灼之肉,mutation — transcreate,warn
+Frog,Rana,Sapo,フロッグ,개구리,青蛙,creature — transcreate,warn
+Frost Core,Núcleo helado,Núcleo de Gelo,フロストコア,서리 코어,霜核,mutation — transcreate,warn
+Frostbuck,Frostbuck,Chumbo Gelado,フロストバック,프로스트벅,霜击鹿角,weapon — transcreate,warn
+Frostula,Fróstula,Espátulactite,フロスチュラ,서리주걱,霜冻铲,weapon — transcreate,warn
+Frostwave,Ola de escarcha,Onda de Gelo,フロストウェーブ,냉기파도,寒霜波,weapon — transcreate,warn
+Frozen,,,凍結,,冰冻,status effect — Deep freeze state,warn
+Game Mode,Modo de juego,Modo de Jogo,ゲームモード,게임 모드,游戏模式,UI term,ignore
+Gas Can Launcher,Lanzador de recipientes de gasolina,Lança-latas de Gás,ガス缶ランチャー,가스통 발사기,油罐发射器,weapon — transcreate,warn
+Gift Gland,Glándula de regalo,Glândula de Presente,ギフトグランド,선물 분비샘,赠礼腺体,mutation — transcreate,warn
+Glacial Veins,Venas glaciales,Veios Glaciais,グレイシャルベインズ,빙하 정맥,冰川之脉,mutation — transcreate,warn
+Glacier Shatter,Fragmento de glaciar,Quebra-geleira,グレーシャーシャッター,쇄빙기,崩川,weapon — transcreate,warn
+Globs!,¡Pegotes!,Gosmas!,グロブ！,덩어리!,黏球！,mutation — transcreate,warn
+Gobble Gazer,Guajolote fisgón,Glu Glu Glúteos,ゴブルゲイザー,고블 게이저,火鸡眼,transcreate creature,warn
+Godly Flesh,Carne divina,Carne Divina,神の肉,신성한 살점,神圣之肉,mutation — transcreate,warn
+Golden Spatula,Espátula dorada,Espátula Dourada,ゴールデンスパチュラ,황금 주걱,金铲铲,weapon — transcreate,warn
+Goo Leap,Salto pegajoso,Salto Viscoso,グーリープ,찐득이 도약,咕叽跳,mutation — transcreate,warn
+Goose Pimple,Piel de gallina,Arrepio,鳥肌,소름,鸡皮疙瘩,mutation — transcreate,warn
+Grease Monkey,Grease Monkey,Grease Monkey,グリースモンキー,그리스 몽키,油猴子,creature — transcreate; MT default auto-approved (no prior rule; supersedes Grinderbot),warn
+Grenade Launcher,Lanzagranadas,Lança-granadas,グレネードランチャー,유탄 발사기,榴弹发射器,weapon — transcreate,warn
+Grenade Launchers,Lanzagranadas,Lança-granadas,グレネードランチャー,유탄 발사기,榴弹发射器,weapon family — transcreate,warn
+Grill Ghost,Fantasma a la parrilla,Alma Grelhada,グリルゴースト,그릴 유령,碳烤鬼厨,creature — transcreate,warn
+Grimer,Ensuciador,Chorumeira,グライマー,그리머,格里默,weapon — transcreate,warn
+Grinder,Amoladora,Moedor,グラインダー,그라인더,碾腹怪,creature — transcreate,warn
+Grinderbot,Robomoladora,Robô Moedor,グラインダーボット,그라인더봇,碾腹怪机器人,creature — transcreate,warn
+Grub Launcher,Lanzador de comida,Lança-gororoba,グラブラウンチャー,그럽 발사기,肥虫发射器,weapon — transcreate,warn
+Gunneroid,Artilleroides,Artilheroide,ガンナロイド,거너로이드,仿生枪手,creature — transcreate,warn
+Hair Force One,Presidente Rompecuellos,Aeroperuca,ヘアフォースワン,헤어 포스 원,毛军一号,creature — transcreate,warn
+Ham Hawk,Halcón porcino,Falcão Apresuntado,ハムホーク,햄 독수리,火腿飞鹰,creature — transcreate,warn
+Highbeam,Alta luciérnaga,Farol Alto,ハイビーム,하이빔,高脚镭射怪,transcreate creature,warn
+Hive Burst,Explosión de colmena,Explosão de Colmeia,ハイブバースト,벌집 폭발,蜂巢爆发,mutation — transcreate,warn
+Hot Bod Mutation,Mutación de cuerpo ardiente,Mutação de Corpão Sarado,ホットボッド・ミューテーション,핫 바디 돌연변이,火辣身材变异,mutation — transcreate,warn
+Hot Drop,Caída caliente,Queima-língua,ホットドロップ,열기 투하,热辣空投,weapon — transcreate,warn
+Hotshot,Disparo caliente,Chumbo Grosso,ホットショット,핫샷,刺头,weapon — transcreate,warn
+Ice,Hielo,Gelo,氷,얼음,冰霜,damage type,ignore
+Ice Lance,Lanza de hielo,Lança de Gelo,アイスランス,얼음창,冰矛,weapon — transcreate,warn
+Inferno Cranium,Cráneo infernal,Crânio Infernal,インフェルノの頭蓋骨,지옥 두개골,炼狱头骨,mutation — transcreate,warn
+Jangus,Jangus,Jangus,ジャンガス,장거스,雅古斯,transcreate -angus pun; kept ko 장거스 — Lionbridge sheet's 랭거스 collides with Rangus (flag),warn
+Join Game,Unirse a un juego,Entrar na Partida,ゲームに参加,게임 참가,加入游戏,UI term,ignore
+Judge Crawdaddy,Juez Reptante,Juiz Lagostim,ジャッジ・クロウダディ,크러다디 판사,克劳达迪法官,creature — transcreate,warn
+Junior Senator,Senador junior,Senador Júnior,ジュニアセネター,하원의원,初级参议员,creature — transcreate,warn
+Kicktube,Kicktube,Chuta-bunda,キックチューブ,킥튜브,踢爆筒,weapon — transcreate,warn
+Kidney Charge,Carga de riñón,Carga Renal,キドニーチャージ,신장 충전,肾脏充能,mutation — transcreate,warn
+Kinetic,Cinético,Cinético,物理,운동,动能,damage type,ignore
+Last Chance,Última oportunidad,Última Chance,ラストチャンス,마지막 기회,最后机会,UI term — Death screen,ignore
+Lava Del Rey,Lava Del Rey,Lava Del Rey,ラバ・デル・レイ,라바 델 레이,熔岩女王,planet — transcreate,warn
+Lava Lash,Latigazo de lava,Lava a Jato,ラヴァラッシュ,용암 채찍,熔岩鞭,weapon — transcreate,warn
+Leftovers,Sobras,Sobras,レフトオーバー,잔반,剩饭,mutation — transcreate,warn
+Li'l Tangus,Pequeño Tangus,Pequena Tangus,リル・タンガス,리틀 탱거스,小唐古斯,transcreate planet; 'Li'l' descriptive + Tangus transliterated,warn
+Lightning Gun,Pistola de rayos,Arma de Relâmpagos,ライトニングガン,번개총,闪电枪,weapon — transcreate,warn
+Livewire,Cable de alta tensión,Curto-circuito,ライブワイヤ,활선,火线,weapon — transcreate,warn
+Loadout,,,,,,UI term — Equipment selection screen; establish per-language,ignore
+Looger,Escupiala,Catarrento,ルーガー,루거,黏投怪,creature — transcreate,warn
+Loyal Boombot,Robobum fiel,Robumbigo Fiel,忠実なブームボット,충성스러운 붐봇,忠实的爆音宝,creature — transcreate,warn
+Magnum,Magnum,Magnum,マグナム,매그넘,玛格南,weapon — transcreate,warn
+Magnums,Magnums,Magnuns,マグナム,매그넘,玛格南,weapon family — transcreate,warn
+Mandible Ripper,Destripador de mandíbula,Moedora de Mandíbula,マンディブルリッパー,아래턱 절제기,下颚撕裂者,weapon — transcreate,warn
+Max,Máximo,Máx.,最大,최대,最大,UI term,ignore
+Mean Bean,Legumbirro,Grão Boladão,ミーンビーン,민빈,卑鄙豆,creature — transcreate,warn
+Meat Locker,Almacén de carne,Armário de Carnes,ミートロッカー,고기 보관함,储肉间,game-specific — Location name,warn
+Meat Pug,Pug de carne,Pug de Carne,ミートパグ,고기 퍼그,肉巴哥,creature — transcreate,warn
+Meat Pug Pup,Cachorro pug de carne,Pug de Carne Filhote,ミートパグパップ,고기 퍼그 강아지,肉巴哥幼崽,creature — transcreate,warn
+Micro Jackson,Micro Jackson,Micro Jackson,マイクロジャクソン,마이크로 잭슨,迷你杰克逊,transcreate parody name,warn
+Min,Mínimo,Min.,最小,최소,最小,UI term,ignore
+Minty Fresh Breath,Aliento fresco de menta,Hálito Fresco de Menta,さわやかミントの息,민트 상쾌한 숨결,薄荷清新口气,mutation — transcreate,warn
+Minus-One,Menos uno,Abaixo de Zero,マイナスワン,영하일도,零下一度,weapon — transcreate,warn
+Molten Core,Núcleo fundido,Núcleo Derretido,モルテンコア,녹아내린 핵,熔核,mutation — transcreate,warn
+Monday Night Midterms,Exámenes parciales del lunes por la noche,Sopapos de Segunda à Noite,マンデーナイトミッドタームズ,월요일 밤의 중간고사,周一晚间中期选举,planet — transcreate,warn
+Motherwurst,Madre Salchicha,Mãe Linguiçona,マザーヴルスト,마더부르스트,香肠老母,creature — transcreate,warn
+Mount Dangus,Monte Dangus,Monte Dangus,ダンガス山,댕거스 산,丹格斯山,transcreate planet; 'Mount' descriptive + Dangus transliterated,warn
+Muckshot,Perdigón,Lamacenta,マックスショット,먹샷,污泥弹射枪,weapon — transcreate,warn
+My Name Jeff,Me llamo Jeff,O Pequenino,マイネームジェフ,내 이름은 제프,杰夫为名,weapon — transcreate,warn
+Mystery Meat,Carne misteriosa,Carne Misteriosa,ミステリーミート,정체불명의 고기,神秘肉,game-specific — Artifact tooltip,warn
+Nibbler,Bocadín,Nhac-nhac,ニブラー,니블러,多嘴鱼,creature — transcreate,warn
+Null,Nulo,Nulo,ヌル,널,努尔,transcreate pun creature (Null/Void pair); keep pairing consistent,warn
+Omni Portal,Portal Omni,Omniportal,オムニポータル,전능 포털,全能传送门,planet — transcreate,warn
+OmniMeat,OmniMeat,OmniMeat,オムニミート,옴니미트,全肉之躯,brand/proper noun; MT default auto-approved (zh 全肉之躯 semantic; no phonetic rule set),warn
+Omnikron,Omnikron,Omnikron,オムニクロン,옴니크론,奥姆尼克朗,solar system — transcreate,warn
+Oozooka,Oozoka,Bazucaca,オーズーカー,오주카,淤泥巴祖卡,weapon — transcreate,warn
+Osteopuncture,Osteopuntura,Osteopuntura,骨穿刺,골침,骨针刺,mutation — transcreate,warn
+Paper Bobby,Bobby de papel,Bobby Papel,ペーパーボビー,페이퍼 바비,纸片鲍比,transcreate creature,warn
+Peeperoni,Peperojoni,Peperolho,ピーパローニ,피퍼로니,香肠眼,transcreate creature,warn
+Permafrost Spike,Pico de permahielo,Pico de Permafrost,パーマフロストスパイク,영구동결 가시,永冻尖刺,mutation — transcreate,warn
+Pestie,Pestosito,Pestinha,ペスティ,페스티,坏坏虫,transcreate creature,warn
+Peterium,Peterium,Peterium,ピーテリウム,페테리움,彼得里姆,transcreate planet name,warn
+Phoenix Crest,Cresta de Fénix,Crista de Fênix,フェニックスクレスト,불사조 문장,凤凰冠,mutation — transcreate,warn
+Pistol,Pistola,Pistola,ピストル,권총,手枪,weapon — transcreate,warn
+Pistols,Pistolas,Pistolas,ピストル,권총,手枪,weapon family — transcreate,warn
+Plasma Caster,Lanzaplasma,Canhão de Plasma,プラズマキャスター,플라즈마 캐스터,等离子炮,weapon — transcreate,warn
+Plasma Casters,Lanzaplasma,Canhões de Plasma,プラズマキャスター,플라즈마 캐스터,等离子炮,weapon family — transcreate,warn
+Play,Jugar,Jogar,プレイ,플레이,开始游戏,UI term,ignore
+Poptart,Tarta horneada,Torta na Cara,ポップタルト,팝타르트,爆爆挞,weapon — transcreate,warn
+Pork Barrel Pete,Pedro Marranero,Pete do Partido Porcalhão,ポークバレル・ピート,포크 배럴 피트,猪肉桶皮特,creature — transcreate,warn
+Psychomagnotherem,Psicomagnotérmico,Psicomagnoteremo,サイコマグノセレム,심리자극요법,心理磁疗,mutation — transcreate,warn
+Puke Orb,Orbe Vomitante,Vomitorbe,ゲロオーブ,구토 구체,呕吐球,creature — transcreate,warn
+Pulseforge,Forja de pulsos,Gerador de Pulsão,パルスフォージ,펄스포지,脉冲锻能枪,weapon — transcreate,warn
+Punchline,Remate,Piada Impactante,パンチライン,펀치라인,爆梗左轮,weapon — transcreate,warn
+Pyroclasm,Piroclasma,Piroclasma,パイロクラズム,화쇄류,火山碎屑流,mutation — transcreate,warn
+Quack Ops Spatula,Espátula de operación Quacks,Espátula de Operador Patológico,クワックオプススパチュラ,꽥꽥 옵스 주걱,嘎嘎特遣队员铲子,weapon — transcreate,warn
+Quantity,Cantidad,Quantidade,数量,수량,数量,UI term,ignore
+Quark Lance,Lanza de quark,Lança de Quark,クォークランス,쿼크창,夸克矛,weapon — transcreate,warn
+Rail Gun,Cañón de riel,Canhão Magnético,レールガン,레일건,轨道炮,weapon — transcreate,warn
+Rail Guns,Cañones de riel,Canhões Magnéticos,レールガン,레일건,轨道炮,weapon family — transcreate,warn
+Rambtoe,Rambtoe,Rambtoe,ランブトゥ,램토,狂暴趾,mutation — transcreate,warn
+Random,Aleatorio,Aleatório,ランダム,무작위,随机,solar system — transcreate,ignore
+Rangus,Rangus,Rangus,ランガス,랭거스,兰格斯,keep-verbatim brand/family name — verbatim (es/pt) / phonetic (CJK),strict
+Rangus File,Archivo de Rangus,Arquivo Rangus,ランガスファイル,랭거스 파일,兰格斯档案,"UI term — In-world collectible lore document (`GN_Name_20`). ja/ko transliterate; es/pt-BR/zh-Hans translate (""Rangus archive/file""). Browsed in the Codex.",ignore
+Rangus Meats Corp,Rangus Meats S.A.,Corporação Carnes Rangus,ランガス・ミート社,랭거스 고기 코퍼레이션,兰格斯肉食公司,Keep 'Rangus' (keep-verbatim token); transcreate the rest (new 260701),warn
+Rangus Pilot Spatula,Espátula de piloto de Rangus,Espátula de Piloto da Rangus,ランガスパイロットスパチュラ,랭거스 파일럿 주걱,兰格斯飞行铲,weapon — transcreate,warn
+Rangus Spatula,Espátula de Rangus,Espátula Rangus,ランガススパチュラ,랭거스 주걱,兰格斯铲,weapon — transcreate,warn
+Rank Up,Sube de clasificación,Subiu de Ranque,ランクアップ,등급 상승,等级提升,UI term,ignore
+Referee,Réferi,Árbitro,レフェリー,레프리,裁判,creature — transcreate,warn
+Reset,Reset,Reset,リセット,리셋,瑞赛特,keep-verbatim companion NPC — keep; translate normally as verb/adjective,ignore
+Respawning,Reaparición,Ressurgindo,リスポーン中,리스폰 중,正在重生,UI term,ignore
+Riboflavin,Riboflavina,Riboflavina,リボフラビン,리보플라빈,核黄素,mutation — transcreate,warn
+Rifle,Rifle,Fuzil,ライフル,소총,步枪,weapon — transcreate,warn
+Rifles,Rifles,Fuzis,ライフル,소총,步枪,weapon family — transcreate,warn
+Rocket Launcher,Lanzacohetes,Lança-foguete,ロケットランチャー,로켓 발사기,火箭发射器,weapon — transcreate,warn
+Rocket Launchers,Lanzacohetes,Lança-foguetes,ロケットランチャー,로켓 발사기,火箭发射器,weapon family — transcreate,warn
+Rocketbot,Robocohete,Robô Foguete,ロケットボット,로켓봇,火箭机器人,transcreate creature,warn
+ROX-1,ROX-1,ROX-1,ROX-1,ROX-1,ROX-1,planet — transcreate,warn
+RP (Rank Points),RP,PR,RP,RP,等级点数,UI term,ignore
+Run (game session),partida,partida,,,,"UI term — es/pt-BR: always ""partida"", not ""expedición"", ""ronda"", ""rodada"", or ""missão"".",ignore
+Scorchrail,Tren abrasador,Ferro Flamejante,スコーチレール,그을음의 흔적,灼焰轨道炮,weapon — transcreate,warn
+Scurvion Alpha,Scurvion Alfa,Escurvião Alfa,スカーヴィオンアルファ,스커비온 알파,斯科维昂阿尔法星,transcreate planet name,warn
+Sell,Vender,Vender,売却,판매,出售,UI term,ignore
+Shotgun,Escopeta,Espingarda,ショットガン,산탄총,霰弹枪,weapon — transcreate,warn
+Shotguns,Escopetas,Espingardas,ショットガン,산탄총,霰弹枪,weapon family — transcreate,warn
+Shredder,Desfibradora,Retalhadora,シュレッダー,분쇄기,粉碎机,weapon — transcreate,warn
+Side Quests,Misiones secundarias,Missões Secundárias,サイドクエスト,사이드 퀘스트,支线任务,UI term,ignore
+Slime,Limo,Gosma,スライム,점액,黏液,transcreate / damage-element type — translate normally; not a keep-verbatim name (new 260701),warn
+Slimed,,,スライム,오염,黏袭,"status effect — ko: 오염, not 끈적. zh-Hans: 黏袭, not 黏液; 黏液 = Slime damage type.",warn
+Slimerush,Lanzador de limo,Gosmose,スライムラッシュ,점액러쉬,黏液急袭,weapon — transcreate,warn
+Slurry Stomach Mutation,Mutación de Estómago de lodo,Mutação do Estômago Lamacento,濁液の胃ミューテーション,슬러리 위장 돌연변이,浆糊胃变异,mutation — transcreate,warn
+Slush Rocket,Cohete de aguanieve,Foguete de Degelo,スラッシュロケット,슬러시 로켓,冰沙火箭,weapon — transcreate,warn
+Smart Meat,Carne inteligente,Carne Inteligente,スマートミート,스마트 고기,智能肉,transcreate meat pun; 智能肉 now accepted,warn
+SMGs,Metralletas,Submetralhadoras,SMG,기관단총,冲锋枪,weapon family — transcreate,warn
+Smores,Smores,S'mores,スモアーズ,스모어,棉心脆堡,planet — transcreate,warn
+Snot Lance,Lanza de mocos,Lança de Meleca,スノットランス,콧물창,鼻涕矛,weapon — transcreate,warn
+Snow Squishy,Nieve blandita,Coxão das Neves,スノースクイッシー,눈 스퀴시,雪肉团,mutation — transcreate,warn
+Snowpiercer,Perforador de nieve,Perfura-neve,スノーピアサー,스노우피어서,雪国列车,weapon — transcreate,warn
+Space Bucket,Cubo espacial,Balde Espacial,スペースバケット,우주 양동이,太空桶,creature — transcreate,warn
+Spark Plug,Bujía,Vela de Ignição,スパークプラグ,점화 플러그,火花塞,weapon — transcreate,warn
+Spark Snot,Moco eléctrico,Meleca Faiscante,スパーク鼻水,전기 콧물,电火花鼻涕,mutation — transcreate,warn
+Spicy Queso Touch Mutation,Mutación de Toque de queso picante,Mutação do Toque de Queijo Apimentado,スパイシーケソタッチ・ミューテーション,매운 퀘소 손길 돌연변이,辣味芝士之触变异,mutation — transcreate,warn
+Spine Husk,Cáscara espinada,Casca de Espinha,スパインハスク,척추 껍질,脊椎壳,mutation — transcreate,warn
+Spitfire,Volcán,Cospe-fogo,スピットファイア,스핏파이어,喷火战斗机,weapon — transcreate,warn
+Splatterspat,Salpicaduras,Esparramátula,スプラッタースパット,스플래터스팟,喷溅铲,weapon — transcreate,warn
+Squat Boy,Fortachín,Marombinha,スクワットボーイ,스쿼트 보이,健美男孩,transcreate creature pun (new 260701),warn
+Squat Daddy,Fortachón,Maromba,スクワットダディ,스쿼트 대디,健美老爹,transcreate creature pun,warn
+Squelch,Silenciador,Esmaganhoto,スクウェルチ,끽소리,噗嗤喷射枪,weapon — transcreate,warn
+Squishie,Blandito,Coxão Mole,プニプニ,스퀴시,小肉团子,transcreate player nickname; ja LOCKED to プニプニ (NOT スクイッシー); ability names keep スクイッシー,warn
+Staggered,,,よろめき,,踉跄,"status effect — ja: よろめき, not スタン. ko/es/pt-BR TBD.",warn
+Static Charge,Carga estática,Carga Estática,スタティックチャージ,정전기 충전,静电充能,mutation — transcreate,warn
+Static Click,Clic estático,Clique Estático,スタティッククリック,정전기 클릭,静电咔哒,weapon — transcreate,warn
+Static Spray,Spray estático,Spray Estático,スタティックスプレー,정전기 스프레이,静电扫射,weapon — transcreate,warn
+Sticky Innards,Entrañas pegajosas,Entranhas Pegajosas,スティッキーな内臓,끈적한 내장,黏性内脏,mutation — transcreate,warn
+Stunned,,,スタン,,眩晕,status effect — Distinct from Stagger — check context,warn
+Sub Zeroni,Sub Zeroni,Sub Zeroni,サブ・ゼローニ,서브 제로니,零度意肠,planet — transcreate,warn
+Submachine Gun,Metralleta,Submetralhadora,サブマシンガン,기관단총,冲锋枪,weapon — transcreate,warn
+SWAPMEAT,SWAPMEAT,SWAPMEAT,SWAPMEAT,SWAPMEAT,SWAPMEAT,"keep-verbatim game title — verbatim, ALL CAPS (Lionbridge sheet's ""SwapMeat"" casing is wrong — flag)",strict
+Sweet Tooth,Goloso,Dente Doce,スウィートトゥース,당분 중독,嗜甜牙,mutation — transcreate,warn
+Tangus,Tangus,Tangus,タンガス,탱거스,唐古斯,transcreate -angus pun name,warn
+Tangus Racer,Piloto corredor de Tangus,Corredor de Tangus,タンガスレーサー,탱거스 레이서,唐古斯赛车手,creature — transcreate,warn
+Target Dummy,Maniquí de práctica,Boboneco,ターゲットダミー,표적 더미,目标假人,creature — transcreate,warn
+Tempest,Tempestad,Tempestade,テンペスト,폭풍,节制,mutation — transcreate,warn
+Terminal (ship UI),,,ターミナル,,,"UI term — ja: named ship terminals use ターミナル suffix, not 端末.",ignore
+THREAT IMMINENT !!,AMENAZA INMINENTE!,AMEAÇA IMINENTE!,脅威接近中！！,위협이 임박했습니다!!,威胁迫在眉睫！！,threat banner,warn
+Thunder Chest,Pecho de trueno,Peito de Trovão,サンダーチェスト,천둥 가슴,雷霆胸腔,mutation — transcreate,warn
+Thunderclap,Tronido,Trovão,サンダークラップ,천둥벼락,霹雳雷鸣,weapon — transcreate,warn
+Total Cost,Costo total,Custo Total,総コスト,총 비용,总消耗,UI term,ignore
+Total Earnings,Ganancias totales,Ganhos totais,総収入,총 수익,总收益,UI term,ignore
+Tower,Torre,Torre,タワー,타워,塔楼,creature — transcreate,warn
+Trader Mike,Comerciante Mike,Comerciante Mike,トレーダー・マイク,트레이더 마이크,交易员迈克,keep-verbatim — keep 'Mike'; translate title 'Trader' (pt title-first per delivery; style guide had appositive — flag),strict
+Trigger Finger,Gatillo fácil,Dedo no Gatilho,トリガーフィンガー,방아쇠 손가락,扳机手指,mutation — transcreate,warn
+Void,Vacuo,Vazio,ヴォイド,보이드,沃伊德,transcreate pun creature (pairs with Null); es standardized to Vacuo,warn
+Vol'Kay No,Vol'Kay No,Vul'Ka No,ヴォル・ケイ・ノー,볼'케이 노,沃尔卡诺,creature — transcreate,warn
+Volt Gland,Glándula eléctrica,Glândula de Volt,ボルトグランド,전기 분비샘,伏特腺体,mutation — transcreate,warn
+Weak Point,,,弱点,,薄弱点,"status effect — zh-Hans: 薄弱点, not 弱点",warn
+Wee Beatrice,La pequeña Beatriz,Beatrizinha,ウィーベアトリス,위 베아트리스,小蜜翠丝,creature — transcreate,warn
+What's in the Box,Qué hay en la caja,O Que Tem na Caixa?,箱の中身,상자 안에는 무엇이,盒子里有啥,solar system — transcreate,warn
+Wheelie,Llantín,Calota,ウィーリー,휠리,暴走肉轮,transcreate creature,warn
+Wrangler,Bronco,Domador,ラングラー,랭글러,牧马人,creature — transcreate,warn
+Zorpjet,Zorpjet,Zorpjato,ゾープジェット,조르프젯,佐普喷气怪,transcreate creature,warn

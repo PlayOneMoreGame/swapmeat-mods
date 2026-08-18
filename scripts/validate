@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+# Structural validator for localization mod packs. Blocks malformed PRs before a human looks.
+# Checks, per pack: mod.json is valid JSON with a localization.locale; the two CSVs exist by shared
+# base name; each CSV header starts with "Key,Id,". This is the seed gate — the richer glossary + spell
+# checks (via `omg loc check`) are the documented next step (see the mods design doc).
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+readonly ROOT
+readonly TABLES=("UIStrings" "GeneratedStrings")
+fail=0
+err () { echo >&2 "  FAIL  $1"; fail=1; }
+
+shopt -s nullglob
+mods=("$ROOT"/*/localization/{official,community}/*.mod.json)
+if [[ ${#mods[@]} -eq 0 ]]; then
+  echo >&2 "No packs found — nothing to validate."
+  exit 0
+fi
+
+for manifest in "${mods[@]}"; do
+  base="${manifest%.mod.json}"
+  name="$(basename "$base")"
+  dir="$(dirname "$manifest")"
+
+  locale="$(python3 -c 'import json,sys; d=json.load(open(sys.argv[1])); print(((d.get("localization") or {}).get("locale") or "").strip())' "$manifest" 2>/dev/null || echo "__BADJSON__")"
+  if [[ "$locale" == "__BADJSON__" ]]; then err "$name: mod.json is not valid JSON"; continue; fi
+  if [[ -z "$locale" ]]; then err "$name: mod.json has no localization.locale"; fi
+
+  for table in "${TABLES[@]}"; do
+    csv="${base}.${table}.csv"
+    if [[ ! -f "$csv" ]]; then err "$name: missing ${name}.${table}.csv (packs need both tables)"; continue; fi
+    header="$(head -1 "$csv" | sed 's/\xEF\xBB\xBF//')"   # strip a UTF-8 BOM if present
+    if [[ "$header" != Key,Id,* ]]; then err "$name: ${table}.csv header must start with 'Key,Id,' (got: ${header:0:40})"; fi
+  done
+done
+
+if [[ "$fail" -ne 0 ]]; then
+  echo >&2 "Validation failed."
+  exit 1
+fi
+echo "All packs valid."

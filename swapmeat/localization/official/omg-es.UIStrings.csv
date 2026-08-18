@@ -1,0 +1,1164 @@
+Key,Id,Spanish(es)
+ITEM_NOTIFICATION_STACK_COUNT_FMT,42659474148679680,x{StackCount}
+INTERACTION_PROMPT_TYPE_NONE_FMT,43126879249489920,{ActionText}
+INTERACTION_PROMPT_TYPE_PRESS_FMT,43127706953441280,{BindingText} {ActionText}
+INTERACTION_PROMPT_TYPE_HOLD_FMT,43127738511384576,Mantén apretado {BindingText} para {ActionText}
+INTERACT_PROMPT_HEALTH_GAIN_FMT,43375595235565568,+{HealthGain}
+EVENT_OBJECTIVE_TASKS_FMT,45737656791851008,<nobr>{NumDone}/{NumTodo}</nobr> {Detail}
+EVENT_OBJECTIVE_DAMAGE_ANY_ENEMY_FMT,45684262786031616,Se dañaron <nobr>{NumDamaged}/{NumToDamage}</nobr>
+COMPASS_DISTANCE_FMT,46402692690468864,{Distance}m
+JOIN_GAME_PLAYERNAME_FMT,48095464992530432,El juego de {PlayerName}
+JOIN_GAME_PLAYERCOUNT_FMT,48096123611504640,{Current}/{Max}
+MODE_SELECT_HOST_PUBLIC,214248185856,CREAR PARTIDA PÚBLICA
+MODE_SELECT_HOST_FRIENDS_ONLY,278383288320,Crear partida privada
+MODE_SELECT_HOST_PRIVATE,327255318528,Un jugador
+CARL_TERMINAL_MISSING_MATERIALS,30366100192485376,Materiales faltantes
+CARL_TERMINAL_REQUIRED_MATERIALS_HEADER,30380913715044352,Materiales necesarios:
+MAIN_MENU_SKIP_TUTORIAL,31076355092242432,Omitir tutorial
+MAIN_MENU_DISCORD_SERVER_BUTTON,31076690544287744,Carne fresca en Discord
+MAIN_MENU_DEBUG_HEADER,31076998813048832,Depurar
+MAIN_MENU_UPLOAD_LOGS,31077125934014464,Cargar registros
+MAIN_MENU_WISHLIST,31077254808199168,Lista de deseos en Steam
+MAIN_MENU_MULTIPLAYER,31077375373467648,Multijugador
+MAIN_MENU_OPTIONS,31077450753499136,Opciones
+MAIN_MENU_RESUME,31077530629824512,Reanudar [InputAction:UI/Cancel]
+MAIN_MENU_ABANDON_RUN,31077628587794432,Salir al Lobby
+MAIN_MENU_EXIT,31077710762598400,Salir del juego
+MESSAGE_BOX_QUIT_TITLE,31098413507403776,Salir del juego
+MESSAGE_BOX_QUIT_MESSAGE,31098545544093696,¿Confirmas que deseas salir?
+MESSAGE_BOX_FEEDBACK_TITLE,31099905689772032,Enviar comentarios
+MESSAGE_BOX_FEEDBACK_MESSAGE,31100033314054144,¿Te gustaría realizar una breve encuesta para ayudarnos a mejorar el juego?
+MESSAGE_BOX_FEEDBACK_CONFIRM,31100327628365824,¡Sí!
+MESSAGE_BOX_FEEDBACK_CANCEL_ON_EXIT,31100501750702080,"No, estoy bien"
+MESSAGE_BOX_FEEDBACK_CANCEL,31100557044211712,Quizás más tarde
+MESSAGE_BOX_JOIN_GAME_TITLE,31100726099828736,Unirte a un nuevo juego
+MESSAGE_BOX_JOIN_FRIEND_GAME_MESSAGE,31100789127634944,Te invitaron a unirte al juego de {FriendName}
+MESSAGE_BOX_JOIN_FRIEND_CONFIRM,31104888199962624,Unirse a un juego
+MESSAGE_BOX_JOIN_FRIEND_CANCEL,31104948069457920,"¡No, estoy bien!"
+MESSAGE_BOX_TUTORIAL_REQUIRED_TITLE,31119792659226624,Tutorial obligatorio
+MESSAGE_BOX_TUTORIAL_REQUIRED_MESSAGE,31119917020340224,Debes completar el tutorial antes de unirte a un juego multijugador.<br>¿Quieres comenzar el tutorial ahora?
+MESSAGE_BOX_NETWORK_DISCONNECT_TITLE,31120107987001344,Anfitrión desconectado.
+MESSAGE_BOX_NETWORK_DISCONNECT_MESSAGE,31120173598498816,El anfitrión se desconectó.
+MESSAGE_BOX_NETWORK_TIMEOUT_TITLE,31120286274281472,Error: Tiempo de espera de la red
+MESSAGE_BOX_NETWORK_TIMEOUT_MESSAGE,31120316263555072,Se agotó el tiempo de conexión del cliente al intentar conectarse o enviar/recibir datos.
+MESSAGE_BOX_VERSION_MISMATCH_TITLE,31120753725267968,Falla de coincidencia de versiones
+MESSAGE_BOX_VERSION_MISMATCH_MESSAGE,31120802169479168,No te pudimos unir al juego debido a la diferencia de versiones. Es posible que tanto tú como el anfitrión reinicien el juego para descargar las últimas actualizaciones.
+MESSAGE_BOX_NEW_BUILD_TITLE,31121109494521856,Nueva versión disponible
+MESSAGE_BOX_NEW_BUILD_MESSAGE,31121145544564736,Hay una nueva versión del juego disponible. Haz clic en OK para reiniciar e iniciar la descarga de la actualización.
+MESSAGE_BOX_COMPUTER_OVERHEATING_TITLE,31121364780834816,La computadora se sobrecalienta.
+MESSAGE_BOX_COMPUTER_OVERHEATING_MESSAGE,31121436348243968,¿Deseas reducir la resolución y los cuadros por segundo para favorecer el enfriamiento del equipo?
+MESSAGE_BOX_COMPUTER_OVERHEATING_CONFIRM,31121455612682240,A enfriar
+MESSAGE_BOX_COMPUTER_OVERHEATING_CANCEL,31121502840545280,Que arda
+MESSAGE_BOX_EXIT_GAME_TITLE,31121802745864192,Salir del juego
+MESSAGE_BOX_EXIT_GAME_MESSAGE,31121844806344704,¿Confirmas que quieres abandonar a tus amigos?
+MESSAGE_BOX_EXIT_GAME_CONFIRM,31121881414230016,Salir al menú principal
+MESSAGE_BOX_EXIT_GAME_CANCEL,31121900481536000,Cancelar
+MESSAGE_BOX_EXIT_GAME_SECONDARY,31121914842832896,Salir al escritorio
+MESSAGE_BOX_GAME_FULL_TITLE,31122293072584704,Juego lleno
+MESSAGE_BOX_GAME_FULL_MESSAGE,31122339318980608,"Lo sentimos, el juego ya está lleno. Haz clic en OK para volver al menú principal."
+MESSAGE_BOX_BLOCK_PLAYER_TITLE,31122656211230720,Bloquear jugador
+MESSAGE_BOX_BLOCK_PLAYER_MESSAGE,31122703279710208,Los jugadores bloqueados no pueden unirse a tus juegos y se silencian de forma permanente si están en partidas a los que te unas.<br><br>¿Confirmas que deseas bloquear a {PlayerName}?
+MESSAGE_BOX_BLOCK_PLAYER_CONFIRM,31122718286929920,Bloquear
+MESSAGE_BOX_BLOCK_PLAYER_CANCEL,31122765070196736,Cancelar
+MESSAGE_BOX_RESET_RUN_TITLE,31141105490714624,Reiniciar partida
+MESSAGE_BOX_RESET_RUN_MESSAGE,31141144124448768,¿Confirmas que deseas reiniciar la partida?
+MESSAGE_BOX_ABANDON_RUN_TITLE,31141752260780032,Abandonar esta partida
+MESSAGE_BOX_ABANDON_RUN_MESSAGE,31141795957039104,¿Estás seguro que deseas abandonar la partida y regresar a ROX-1?
+MESSAGE_BOX_ABANDON_RUN_CONFIRM,31141825619156992,Abandonar partida
+MESSAGE_BOX_ABANDON_RUN_CANCEL,31141851095359488,Cancelar
+MESSAGE_BOX_SKIP_TUTORIAL_TITLE,31142106562027520,Omitir tutorial
+MESSAGE_BOX_SKIP_TUTORIAL_MESSAGE,31142143690006528,¿Estás seguro que deseas omitir el tutorial y regresar a la nave?
+MESSAGE_BOX_SKIP_TUTORIAL_CONFIRM,31142158563008512,Omitir tutorial
+MESSAGE_BOX_SKIP_TUTORIAL_CANCEL,31142171938643968,Cancelar
+MESSAGE_BOX_MISSING_ARTIFACT_MESSAGE,31142435298992128,¿Confirmas que deseas continuar sin seleccionar una habilidad definitiva?
+MESSAGE_BOX_RESET_ACCOUNT_TITLE,31142628807401472,Restablecer cuenta
+MESSAGE_BOX_RESET_ACCOUNT_MESSAGE,31142661908848640,¿Confirmas que deseas restablecer tu cuenta?<br>Esto eliminará todo el progreso y lo que hayas desbloqueado hasta el momento.
+MESSAGE_BOX_RESET_ACCOUNT_CONFIRM,31142672679821312,Restablecer cuenta
+MESSAGE_BOX_RESET_ACCOUNT_CANCEL,31142685069795328,Cancelar
+MESSAGE_BOX_VIDEO_SETTINGS_CHANGED_TITLE,31142952192434176,La configuración del video cambió
+MESSAGE_BOX_VIDEO_SETTINGS_CHANGED_MESSAGE,31142986732527616,La configuración del video cambió. ¿Aceptar?<br><br>La configuración se revertirá automáticamente en 5 segundos.
+MESSAGE_BOX_VIDEO_SETTINGS_CHANGED_CONFIRM,31142998338166784,Aceptar cambios
+MESSAGE_BOX_VIDEO_SETTINGS_CHANGED_CANCEL,31143010442928128,Revertir cambios
+MESSAGE_BOX_DEFAULT_CONFIRM,31145012967235584,OK
+MESSAGE_BOX_DEFAULT_CANCEL,31145042352529408,Cancelar
+HUNTER_THREAT_DANGER,35125167033147392,¡PELIGRO!
+HUNTER_THREAT_BANISHED,35125235089924096,¡DESTERRADO!
+HUNTER_THREAT_IMMINENT,35125348260634624,¡AMENAZA INMINENTE!
+HUNTER_THREAT_PANTS,35125431806976000,¡PANTALONES MOJADOS!
+HUNTER_THREAT_ENRAGED,35125494096584704,¡¡CAZADORES ENFURECIDOS!!
+EVENT_HEADER_PRIME,35806126556569600,Directiva principal
+EVENT_HEADER_SECONDARY,35806182923821056,Directiva secundaria
+EVENT_COMPLETE_REWARDS,36526246664855552,Recompensas:
+EVENT_BANNER_PRIME_DIRECTIVE,37577651529965568,¡Directiva principal completada!
+EVENT_BANNER_COMPLETE,37577933345251328,¡Completado!
+EVENT_BANNER_SECONDARY_DIRECTIVE,37581156248444928,¡Directiva secundaria completada!
+WEAPON_SWITCH_CHARGED,37939439253577728,Cargado
+LOADOUT_WEAPON_NONE_TITLE,38383410991849472,Sin armas
+LOADOUT_WEAPON_NONE_DESC,38383462514679808,"Bueno, dispara."
+LOADOUT_ARTIFACT_NONE_TITLE,38383464444059648,Sin artefacto
+LOADOUT_ARTIFACT_NONE_DESC,38383465480052736,Solo una ranura de equipo triste y vacía.
+LOADOUT_FLAIR_NONE_TITLE,38383466306330624,"¡Oye, nada de estilo!"
+LOADOUT_FLAIR_NONE_DESC,38383568223723520,"Quieres expresarte, ¿o no?"
+ITEM_INSPECTION_PROMPT,42642500681195520,Inspeccionar
+ITEM_NOTIFICATION_NEW_ITEM,42646904150941696,¡Nuevo!
+ITEM_RARITY_COMMON,42668023662764032,Común
+ITEM_RARITY_RARE,42668026103848960,Raro
+ITEM_RARITY_EPIC,42668027727044608,Épico
+ITEM_RARITY_LEGENDARY,42668029052444672,Legendario
+ITEM_RARITY_UNCOMMON,42668357307064320,Poco común
+INTERACT_PROMPT_PING,43136443831279616,[InputAction:Gameplay/MarkTarget] Sonido
+DAMAGE_TYPE_FIRE,43142553082519552,Fuego
+DAMAGE_TYPE_ICE,43142575572377600,Hielo
+DAMAGE_TYPE_SLIME,43142609625931776,Limo
+DAMAGE_TYPE_ELECTRIC,43142638340136960,Eléctrico
+DAMAGE_TYPE_KINETIC,43142700797517824,Cinético
+INTERACTION_PROMPT_HOLD_SUCCESS,43183389103087616,¡Éxito!
+EMPLOYEE_RANK_TITLE,38764887885733888,RANGO DE EMPLEADO
+EMPLOYEE_RANK_RANKUP_FMT,38764977085997056,¡SUBE DE CLASIFICACIÓN! +{Value}
+EMPLOYEE_RANK_POINTS_FORMAT,38765036250849280,{Current} / {Total} RP
+EVENT_HUNTER_TIMER_ADVANCED,43479223816413184,Llegada del cazador avanzada
+EVENT_HUNTER_TIMER_DELAYED,43480205547790336,Llegada del cazador atrasada
+EVENT_COMPLETE_NO_REWARDS,43499746143232000,¡Completado!
+MESSAGE_BOX_QUIT_TITLE_HOST,45269738467614720,¿Salir del juego?
+MESSAGE_BOX_QUIT_MESSAGE_HOST,45269853613842432,"¿Confirmas que deseas abandonar esta partida?<br>Eres el anfitrión y si te vas, expulsarás a todos los demás jugadores."
+WISHLIST_ON_STEAM,45665676281503744,Lista de deseos en<br><b>STEAM</b>
+MODE_SELECT_TITLE,45666774727778304,Selección de modo
+MODE_SELECT_JOIN_GAME_TITLE,45666886526951424,Unirse a un juego
+EMERGENCY_TEXT_DEFAULT_TITLE,46144708803489792,Error de inicio de la aplicación
+EMERGENCY_TEXT_DEFAULT_DESCRIPTION,46144714159616000,Un error provocó que la aplicación fallara al iniciarse. Reiniciar la computadora podría solucionar el problema.
+EMERGENCY_TEXT_DEFAULT_FOOTER,46312787621638144,Siempre puedes contactarnos para obtener ayuda en el canal #create-bug-reports en el servidor Discord de SwapMeat.<br>Esta aplicación se cerrará automáticamente en 30 segundos.
+EMERGENCY_TEXT_IO_DESCRIPTION,46312933025574912,"Se produjo un error al leer uno o más archivos durante el inicio. Esto suele ocurrir debido a algún antivirus muy exigente o a que una partida anterior del juego no se cerró por completo.<br>Si el problema persiste, reiniciar la computadora debería eliminar los bloqueos de archivos."
+HARVESTER_CORE,46389181780320256,Núcleo de la cosechadora
+NODE_1,46389232518815744,Nodo 1
+NODE_2,46389312764239872,Nodo 2
+NODE_3,46389348839448576,Nodo 3
+NODE_4,46389350567501824,Nodo 4
+JUMP_PAD,46406064923467776,Plataforma de salto
+MEAT_DISPENSER,46628101025685504,Dispensador de carne
+COACH_DAN,46628101034074112,Entrenador Dan
+ALIEN_BULB,46628101419950080,Bombilla alienígena
+A_FRANKEN_TICKLER,46628101457698816,Un Franken cosquilludo
+INSECT_EGGS,46628101830991872,Huevos de insectos
+SMOKER_1_ACTIVATOR!,46628102149758976,Activador de horno 1
+SMOKER_2_ACTIVATOR!,46628102149758977,Activador de horno 2
+SMOKER_3_ACTIVATOR!,46628102149758978,Activador de horno 3
+A_CAPTURED_SPIDER,46628102279782400,Una araña capturada
+SENTRY_TURRET,46628102288171008,Torreta centinela
+SPAWNING_POOL,46628102346891264,Pozo de reaparición
+JELLY_FORGE,46628102367862784,Forja de jalea
+MEAT_MUSH,46628103278026752,Puré de carne
+TOXIC_SLIME,46628104666341376,Limo tóxico
+EXHAUST_PORT,46628107665268736,Puerto de escape
+TIBBLER'S_HEART,46628108311191552,Corazón de Calipso
+PAYLOAD,46628108462186496,Cargamento
+BOLT_BURGER,46628108516712448,Hamburtrueno
+STEERING_PANEL,46628109204578304,Panel de control
+GOAL!,46628109821140992,¡Meta!
+OPEN_DOOR,46628110437703680,Abrir puerta
+AN_ITEM_CAPSULE,46628112023150592,Una cápsula de objetos
+SECURE_THE_MEAT_CORE!,46628112652296192,¡Asegura el núcleo de carne!
+A_HIVE_TENDRIL,46628112698433536,Un zarcillo de colmena
+MEAT_CORE_SITE,46628112702627840,Sitio del núcleo de carne
+GOOBER_TURRET,46628113809924096,Torreta de maní
+HEALTH_STATION,46628116695605248,Estación de salud
+TIBBLER'S_KIDNEY,46628118494961664,Riñón de Calipso
+THE_MEAT_MARKET,46628120319483904,La carnicería
+MENACING_TENTACLE,46628121766518784,Tentáculo amenazante
+SUPPLY_BOX,46628126061486080,Caja de suministros
+RESEARCHER_POD,46628126124400640,Cápsula de empleados
+UI_ITEM_DESC_FMT,50641214507048960,{attributes:list:|<br>}
+UI_HITEFFECT_DESC_FMT,50658861504258048,{trigger}: {effect}
+MESSAGE_BOX_REBIND_CONFLICT_MSG_FMT,52952037393887232,"La tecla ""{InputPath}"" ya está ligada a ""{ActionName}"", por lo que ahora también deberá asignarse a una nueva tecla."
+MESSAGE_BOX_REBIND_BANNED_MSG_FMT,52961862714585088,"La tecla ""{InputPath}"" ya está ligada a la acción global ""{ActionName} ""."
+HUNTER_ENRAGE_TIMER,53525888526966784,Enfurecerse en:
+UI_UPGRADEGRID_COST_FMT,54269938343337984,Costo: <b>{points}</b> puntos
+WEAPON_DAMAGE_FMT,58681057103306752,Daño: {MinDamage} - {MaxDamage}{ProjectileCount:| x{}}{DamageType: ({})|}
+WEAPON_RATE_FMT,58682157948723200,{ShotsPerSecond:0.00} rondas/s
+WEAPON_CRIT_CHANCE_FMT,58682730970341376,{CritChance:percent()} % / DAÑO x{Damage:0.00}
+WEAPON_EXPOSIVE_RADIUS_FMT,58683047074062336,Radio explosivo: {Radius} m
+WEAPON_HEAL_FMT,58683397642379264,Cantidad de curación: {HealBase}
+WEAPON_HEAL_RADIUS_FMT,58683398825172992,Radio de curación: {Radius}
+UI_UPGRADEGRID_PROGRESSCOUNT_FMT,59426037270831104,{current}/{total}
+EVENT_DESCRIPTION_TIME_FMT,61552718882267136,{EventText} : {TimeoutText}
+EVENT_DESCRIPTION_TIME_ONLY_FMT,61553051326996480,{TimeoutText}
+TUTORIAL_SWAPMEAT,47859765294915584,[InputAction:Interact/Interact] intercambia carne
+PIN_MARKER,46746956646510592,¡FIJAR!
+Tutorial_LEGABILITY,47863131572002816,[InputAction:Gameplay/LegsAbility] habilidad de las piernas
+MODE_SELECT_FRIENDS_ONLY,47782185145458688,(Solo amigos)
+JOIN_GAME_SPECTATE,47816347118198784,Observar
+MENU_COMMON_BACK,47855835508891648,[InputAction:UI/Cancel] Atrás
+JOIN_GAME_PROTOCOL_MISMATCH,48097039647498240,Falla de coincidencia de versiones
+CAVE_ENTRANCE,48527482492321792,Entrada a la cueva
+MESSAGE_BOX_TUTORIAL_SINGLE_PLAYER_TITLE,51432847888605184,Advertencia de tutorial
+MESSAGE_BOX_TUTORIAL_SINGLE_PLAYER_MESSAGE,51432919170801664,"Para repetir el tutorial, debes reiniciar el modo de un jugador. <br>¿Quieres volver al menú principal para empezar la partida de un jugador?"
+MESSAGE_BOX_REBIND_CONFLICT_TITLE,52952033853894656,Conflicto de reasignación de tecla
+MESSAGE_BOX_REBIND_BANNED_TITLE,52961860839731200,No se reasignó la tecla.
+UI_REQUIREMENT_NONE,52948800652697600,Sin requisitos
+UI_REQUIREMENT_PROGRESSFLAG_FMT,52948896446406656,Requiere {flag}
+UI_REQUIREMENT_STAT_RUNSFAILED_FMT,52949023231827968,Fallar {count:plural:{} partida|{} partidas}
+UI_REQUIREMENT_STAT_PLANETSCOMPLETED_FMT,52949166408589312,Escapa de {count:plural:{} planeta|{} planetas}
+UI_REQUIREMENT_STAT_MEATSWAPPED_FMT,52949168367329280,Intercambia {count:plural:{} carne|{} carnes}
+UI_REQUIREMENT_STAT_PLANETSVISITED_FMT,52949169457848320,Visita {count:plural:{} planeta|{} planetas}
+UI_REQUIREMENT_SOLARSYSTEM_FMT,52949170154102784,Completa {system} en {difficulty}{ascension:cond:>0? A{}|}
+UI_REQUIREMENT_PLANET_FMT,52949486878580736,{planet} completado
+UI_REQUIREMENT_EMPLOYEERANK_FMT,52949564150243328,Rango de empleado {rank}
+UI_REQUIREMENT_WEAPONSTAT_OBJECTIVES_FMT,52949730919964672,Completa {count} {count:plural:directiva principal|directivas principales} con {family}
+UI_TERMINAL_WEAPONS_TITLE,53934907058020352,TERMINAL DE ARMAS
+UI_TERMINAL_WEAPONS_BACK,53934967472775168,VOLVER A LA SELECCIÓN DE ARMAS
+UI_TERMINAL_EXIT,53935205264646144,TERMINAL DE SALIDA
+UI_UPGRADEGRID_POINTS_AVAIL,53958569882542080,PUNTOS DISPONIBLES:
+UI_UPGRADEGRID_RANK_UP,53960174602280960,SUBE DE CLASIFICACIÓN
+UI_UPGRADEGRID_WEAPONS,53981706342883328,RANGO DE ARMA
+UI_UPGRADEGRID_MAXRANK,54247495897702400,RANGO MÁXIMO
+UI_UPGRADEGRID_UNLOCK,54247498640777216,DESBLOQUEAR
+UI_UPGRADEGRID_CHALLENGE_TITLE,54322765962928128,DESAFÍO
+UI_UPGRADEGRID_BLOCKED_DESC,54322889858473984,Desbloquea el cuadrado adyacente para revelar el desafío
+UI_UPGRADEGRID_UNLOCKS_TITLE,54323001598926848,Desbloquea:
+MESSAGE_BOX_LOAD_DEMO_PROGRESS_TITLE,55860577653682176,Progreso de migración del demo	
+MESSAGE_BOX_LOAD_DEMO_MESSAGE,55860579570479104,Se encontró el archivo de guardado del demo de SwapMeat. ¿Quieres copiar tu progreso del juego? Se sobrescribirán todos los datos guardados.
+MESSAGE_BOX_LOAD_DEMO_CONFIRM,56092048666587136,Sí
+MESSAGE_BOX_LOAD_DEMO_SECONDARY,56092050369474560,"No, pero recuérdamelo la próxima vez"
+MESSAGE_BOX_LOAD_DEMO_CANCEL,56092051975892992,"No, y no me vuelvas a preguntar de nuevo"
+UI_WEAPONTERMINAL_INSPECT,56189457739538432,INSPECCIONAR ARMA
+CURRENCY_TRADER_TITLE,58576102623272960,Comerciante Mike
+CURRENCY_TRADER_DESCRIPTION,58576262912794624,// Convertir monedas y recursos
+COMMON_BACK,58577423170527232,Atrás
+CARL_TERMINAL_TITLE,58588816691159040,Carl Rangus
+CARL_TERMINAL_DESCRIPTION,58588929878646784,El mejor gerente de este lado de la galaxia
+CARL_TERMINAL_ALL_COMPLETED_ENTRY,58590589204029440,¡Ya lo hiciste todo! Quizás haya más por descubrir mientras exploras esos planetas...
+COMMON_COMPLETED,58590894855544832,Completado
+TRADER_TERMINAL_EMPTY_ENTRY,58591398792781824,No hay recursos en el inventario
+TRADER_TERMINAL_ACTION_SELL,58596954802741248,Vender
+TRADER_TERMINAL_ACTION_EXCHANGE,58597048063090688,Comprar
+TRADER_TERMINAL_ACTION_UNAVAILABLE_NO_CURRENCY,58597098013057024,No hay suficientes fondos
+UI_REQUIREMENTS,58737776349143040,Requisitos:
+,59065052786782208,No puedes reaparecer mientras estás enfurecido
+,59065063629058048,Mantén apretado [InputAction:Interact/Interact] para reaparecer
+ITEM_REWARD_NAME_FMT,63053428530601984,{ItemName}{ItemCount:| +{ItemCount}}
+SUBTITLE_LINE_FMT,63797240152449024,<color=#{SpeakerNameColor}>{SpeakerName}:</color> {SpeakerText}
+Drain Tunnel,64088669405609984,Túnel de drenaje
+Drain Tunnel 2,64091624674459648,Túnel de drenaje 2
+MAIN_MENU_UNSTUCK_BTN_TXT,61894851502731264,¡Me atoré!
+UI_CARLTERMINAL_CLAIM_BTN_CLAIM,63752028576215040,RECLAMAR
+UI_CARLTERMINAL_CLAIM_BTN_CRAFT,63752026911076352,Comprar
+UI_CARLTERMINAL_CLAIM_BTN_CURRENCY_LOCKED,63752030165856256,No hay suficientes fondos
+UI_CARLTERMINAL_CLAIM_BTN_DEMO_LOCKED,63752024679706624,Demo bloqueado
+UI_GALAXYMAP_DEMO_LOCKED,65856258359357440,Demo bloqueado
+UI_TAG_EQUIPPED,63534599735599104,EQUIPADO
+UI_TERMINAL_SMARTMEAT_TITLE,61538986663862272,TERMINAL DE BENEFICIOS DE EMPLEADO
+UI_UGPRADEGRID_SMARTMEAT_SUBCATEGORY,61538997678104576,ERES EL ARMA DEFINITIVA
+UI_UPGRADEGRID_DESC,61619816316788736,Sube de rango para obtener puntos de mejora.
+UI_UPGRADEGRID_MAXDEMORANK,63774850287595520,Rango de demo máximo
+UI_UPGRADEGRID_SMARTMEAT,61538996168155136,CARNE INTELIGENTE
+UI_UPGRADEGRID_WEAPONS_BACK,63713969943076864,VOLVER A LA INSPECCIÓN DE ARMAS
+UI_WEAPON_CRIT_CHANCE_TITLE,63446363281547264,CRÍTICO
+UI_WEAPON_MAGAZINE_TITLE,63446478268391424,TAMAÑO DEL CARGADOR
+UI_WEAPON_RANGE_FMT,63445941418450944,{Range:0.0} m
+UI_WEAPON_RANGE_TITLE,63445794089328640,RANGO
+UI_WEAPON_RATE_TITLE,63445951468003328,TASA
+UI_WEAPONINSPECT_BASEDAMGE_FMT,63374233634332672,DAÑO BASE: {MinDamage} - {MaxDamage}{ProjectileCount:| x{}}
+UI_WEAPONINSPECT_RELOAD_BONUS,63529341047267328,BONIFICACIÓN DE RECARGA:
+UI_WEAPONINSPECT_TEST_WEAPON,63534728131633152,PRUEBA DE RANGO DE TIRO
+UI_WEAPONINSPECT_UNLOCK,63351818913046528,DESBLOQUEAR
+UI_WEAPONINSPECT_UNLOCK_DESC,63364702686666752,El arma se debe desbloquear para desarrollar los rangos de arma.
+UI_WEAPONINSPECT_UPGRADE_DESC,63364711805083648,Completa desafíos para desbloquear mejoras de arma.<br>Sube de rango para ganar puntos de mejora para gastar.
+UI_WEAPONINSPECT_UPGRADES,63351863464943616,MEJORAS DE RANGO
+WEAPON_MAGAZINE_FMT,63446480793362432,{MaxCount}
+HUNTERS_TIMER_FMT,68162259069689856,{SecondsRemaining:secondstotime()}
+HUNTERS_TIMER_REWARD_FMT,68472376516403200,{Count:cond:<0?<color=#FF3667>{}s</color>|+{}s}
+UI_OPTS_LAST_SAVE_TXT,68548738615799808,Último guardado:<br>{0:timespan(less|minute)} atrás<br><br>{Tag}
+EVENT_REWARD_FMT,68757372988809216,{Count}
+UI_OPTS_OPTIONS,67081590919852032,Opciones
+UI_OPTS_MULTIPLAYER,67081471604486144,Multijugador
+UI_OPTS_KEYBIND_BINDING,70421327982292992,Vincular:
+UI_OPTS_KEYBIND_ERROR_MSG,70421794263068672,Esto desactivará otra acción: <br>{OtherActionName}<br>¿Confirmas que deseas continuar?
+UI_OPTS_BUILD_INFO,71065577514266624,Plataforma: {PlatformName}    |    Build: {BuildId}    |    Hash del protocolo: {ProtocolHash}
+DIAMOND,66974994580406272,Diamante
+MESSAGE_BOX_LEAVE_CONFIRM,69161157897678848,Salir del juego
+MESSAGE_BOX_LEAVE_HOST_TITLE,69160751356375040,¿Abandonar la partida?
+MESSAGE_BOX_LEAVE_HOST_TXT,69160978603765760,"¿Confirmas que deseas abandonar esta partida?<br>Eres el anfitrión y si te vas, expulsarás a todos los demás jugadores."
+MESSAGE_BOX_LEAVE_TITLE,69160074362155008,¿Salir del juego?
+MESSAGE_BOX_LEAVE_TXT,69160855006015488,¿Confirmas que deseas abandonar el juego?
+MESSAGE_BOX_RETURN_CONFIRM,69163340810612736,Abandonar partida
+MESSAGE_BOX_RETURN_HOST_TXT,69163346871382016,¿Confirmas que deseas abandonar la partida?<br>Eres el anfitrión y todos los demás jugadores regresarán contigo.
+MESSAGE_BOX_RETURN_TITLE,69163337862017024,¿Abandonar partida?
+MESSAGE_BOX_RETURN_TXT,69163343302029312,¿Estás seguro que quieres abandonar la partida?
+MODE_SELECT_CREATE_FRIENDS_DESC,71007351351472128,Los amigos pueden encontrar tu partida y unirse a ella.
+MODE_SELECT_CREATE_FRIENDS_TITLE,71007349887660032,Amigos
+MODE_SELECT_CREATE_PUBLIC_DESC,71007348780363776,"Todos pueden unirse, ¡ideal para streaming!"
+MODE_SELECT_CREATE_PUBLIC_TITLE,71007346976813056,Público
+MODE_SELECT_CREATE_SOLO_DESC,71007345391366144,Juega solo o invita a otros a unirse.
+MODE_SELECT_CREATE_SOLO_TITLE,71007343826890752,Privado
+MODE_SELECT_FRIENDS_GAME,70420085428121600,Amigos
+MODE_SELECT_FRIENDS_GAME_DESC,70420318446874624,Los amigos pueden encontrar tu partida y unirse a ella.
+MODE_SELECT_GAME_MODE_TITLE,71011334463877120,Modo de juego
+MODE_SELECT_JOIN_BTN,70420672118976512,Unirse a un juego
+MODE_SELECT_PLAY_BT,71007312436719616,Jugar
+MODE_SELECT_PLAY_BTN,70420636043767808,Jugar
+MODE_SELECT_PUBLIC_GAME,70420047901683712,Público
+MODE_SELECT_PUBLIC_GAME_DESC,70420200670818304,"Todos pueden unirse, ¡ideal para streaming!"
+MODE_SELECT_SOLO_GAME,70420012703084544,Privado
+MODE_SELECT_SOLO_GAME_DESC,70420126205145088,Juega solo o invita a otros a unirse.
+Open Hatch,70668568375361536,Abrir escotilla
+OPTS_MULTIPLAYER_CURRENT_TEAM,69865368843120640,Equipo actual
+OPTS_MULTIPLAYER_ENABLE_OBSERVERS,69865544915808256,Habilitar observadores
+OPTS_MULTIPLAYER_MANAGE_BLOCKS,69865680991612928,Administrar lista de personas bloqueadas...
+PROTECTIVE_CRSYSTAL,66975109500141568,Cristal protector
+SHIELD_GENERATOR,66975448525733888,Generador de escudo
+UI_BLOCKLIST_TITLE,69854086446379008,Lista de personas bloqueadas
+UI_BLOCKLIST_UNBLOCK_BTN,69854165966188544,Desbloquear
+UI_COMPASS_E,68109962709032960,E
+UI_COMPASS_N,68109857843044352,N
+UI_COMPASS_NE,68109928332517376,NE
+UI_COMPASS_NW,68110126031036416,NW
+UI_COMPASS_S,68110021160853504,S
+UI_COMPASS_SE,68109993440698368,SE
+UI_COMPASS_SW,68110069386960896,SW
+UI_COMPASS_W,68110099468509184,W
+UI_MULTIPLAYER_BLOCKLIST_HELP_MESSAGE,70426187016368128,"Consulta y administra la lista de usuarios que agregaste a tu lista de personas bloqueadas.<br><br>Los usuarios bloqueados no podrán unirse a las partidas que organices. Si tú y el usuario bloqueado se unen a una partida que cree un tercero, el usuario bloqueado estará automáticamente silenciado para ti."
+UI_MULTIPLAYER_BLOCKLIST_HELP_TITLE,70426179655364608,Administrar lista de personas bloqueadas
+UI_MULTIPLAYER_OBSERVER_HELP_MESSAGE,70426781500239872,"Activa o desactiva la posibilidad de que un cuarto jugador se conecte a tus partidas únicamente en modo observador. Los observadores no pueden participar en el chat de voz, pero pueden ver la partida desde la perspectiva del anfitrión o de cualquier jugador conectado."
+UI_MULTIPLAYER_OBSERVER_HELP_TITLE,70426780619436032,Habilitar observadores
+UI_OPTS_ACCOUNT_RESET_BTN,70352075493404672,Restablecer cuenta
+UI_OPTS_ACCOUNT_RESET_MESSAGE,70434640048877568,"<b>¡Advertencia!</b><br><br>Restablecerás el progreso de la cuenta a su estado inicial, lo que borrará todo el progreso del juego y los elementos desbloqueados."
+UI_OPTS_ACCOUNT_RESET_TITLE,70434638551511040,Restablecer cuenta
+UI_OPTS_ACCOUNT_TAB,68549317450723328,Cuenta
+UI_OPTS_ACCOUNT_UNSTUCK_BTN,70352078584606720,¡Me atoré!
+UI_OPTS_ACCOUNT_UNSTUCK_MESSAGE,70434646139006976,A veces te caes y no puedes levantarte. A veces estás entre la espada y la pared.<br><br>Esto te ayudará a reaparecer en el último punto de reaparición relevante.
+UI_OPTS_ACCOUNT_UNSTUCK_TITLE,70434644754886656,Desatorarse
+UI_OPTS_ACCOUNT_UPLOAD_LOGS_BTN,70352077099823104,Cargar registros
+UI_OPTS_ACCOUNT_UPLOAD_LOGS_MESSAGE,70434643219771392,Sube tus registros de juego a OMG para su análisis y depuración.
+UI_OPTS_ACCOUNT_UPLOAD_LOGS_TITLE,70434641781125120,Cargar registros de depuración
+UI_OPTS_ADVANCED_GROUP,70287955960197120,Avanzado
+UI_OPTS_AUDIO_DIALOGUE_VOL,70324071845261312,Volumen de diálogo
+UI_OPTS_AUDIO_DIALOGUE_VOL_MESSAGE,70415465322573824,Controla el volumen del diálogo que aparece en las interacciones de imagen en imagen durante el juego. También controla el volumen del diálogo durante las escenas cinemáticas.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de sonido.
+UI_OPTS_AUDIO_DIALOGUE_VOL_TITLE,70415464353689600,Volumen de diálogo
+UI_OPTS_AUDIO_ENEMIES_VOL,70324078786834432,Volumen de enemigos
+UI_OPTS_AUDIO_ENEMIES_VOL_MESSAGE,70417417343266816,Controla el volumen de los efectos de sonido procedentes de los enemigos.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de sonido.
+UI_OPTS_AUDIO_ENEMIES_VOL_TITLE,70417416386965504,Volumen de enemigos
+UI_OPTS_AUDIO_ENVIRONMENT_VOL,70324083664809984,Volumen del entorno
+UI_OPTS_AUDIO_ENVIRONMENT_VOL_MESSAGE,70417712496439296,"Controla el volumen de los sonidos ambientales del entorno del juego, como el agua, los campos de fuerza, los pitidos y sonidos electrónicos.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de sonido."
+UI_OPTS_AUDIO_ENVIRONMENT_VOL_TITLE,70417711691132928,Volumen del entorno
+UI_OPTS_AUDIO_MASTER_VOL,70324061531467776,Volumen general
+UI_OPTS_AUDIO_MASTER_VOL_MESSAGE,70415212070498304,Controla el volumen general de todo el audio del juego.
+UI_OPTS_AUDIO_MASTER_VOL_TITLE,70415210757681152,Volumen general
+UI_OPTS_AUDIO_MUSIC_VOL,70324070058487808,Volumen de la música
+UI_OPTS_AUDIO_MUSIC_VOL_MESSAGE,70415382266966016,Controla el volumen de las pistas de música de fondo.
+UI_OPTS_AUDIO_MUSIC_VOL_TITLE,70415381159669760,Volumen de la música
+UI_OPTS_AUDIO_PLAYER_VOL,70324081903202304,Volumen del personaje
+UI_OPTS_AUDIO_PLAYER_VOL_MESSAGE,70417544044802048,"Controla el volumen de los efectos de sonido que provienen de los personajes del jugador, incluyendo el intercambio de carne y el disparo de armas.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de sonido."
+UI_OPTS_AUDIO_PLAYER_VOL_TITLE,70417543201746944,Volumen del personaje
+UI_OPTS_AUDIO_TAB,68549280075280384,Audio
+UI_OPTS_AUDIO_UI_VOL,70324085401251840,Volumen de interfaz de usuario
+UI_OPTS_AUDIO_UI_VOL_MESSAGE,70418003727937536,Controla el volumen de los sonidos al interactuar con el interfaz de usuario y los efectos de sonido.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de sonido.
+UI_OPTS_AUDIO_UI_VOL_TITLE,70418002318651392,Volumen de interfaz de usuario
+UI_OPTS_AUDIO_VOIP_CHAT_MODE,70324073653006336,Modo de chat de voz
+UI_OPTS_AUDIO_VOIP_CHAT_MODE_MESSAGE,70415803299590144,Cómo se controla [InputAction:Global/PushToTalk] cuándo está activo el micrófono para el chat de voz en el juego.<br><br><b>Presiona para hablar</b><br>Mantén presionado [InputAction:Global/PushToTalk] al hablar.<br><br><b>Activar</b><br>Presiona [InputAction:Global/PushToTalk] una vez para activar el micrófono. El micrófono permanecerá activo hasta que presiones [InputAction:Global/PushToTalk] de nuevo para apagarlo.<br><br><b>Micrófono abierto</b><br>No es necesario pulsar ninguna tecla. El micrófono está siempre activo.
+UI_OPTS_AUDIO_VOIP_CHAT_MODE_TITLE,70415802246819840,Modo de chat de voz
+UI_OPTS_AUDIO_VOIP_VOL,70324075414614016,Volumen del chat de voz
+UI_OPTS_AUDIO_VOIP_VOL_MESSAGE,70417228972879872,Controla el volumen general del chat de voz del juego.<br><br>Presiona [InputAction:UI/Interact] para reproducir una prueba de audio.
+UI_OPTS_AUDIO_VOIP_VOL_TITLE,70417227920109568,Volumen del chat de voz
+UI_OPTS_BACK_INPUT,68857711046881280,[InputAction:UI/Cancel] Atrás
+UI_OPTS_BLOCK_BTN,69867107889639424,Bloquear
+UI_OPTS_BLOCK_PLAYER_MESSAGE,70418828219052032,- Bloquea las invitaciones a juegos que te envíen<br>- Les impide unirse o interactuar con los juegos que organices<br>- Silencia los usuarios durante los juegos a los que te unes si están presentes
+UI_OPTS_BLOCK_PLAYER_TITLE,70418745436073984,Bloquear jugador
+UI_OPTS_BUTTON_LAYOUT_TITLE,70422436385845248,Disposición de botones
+UI_OPTS_BUTTONBINDINGS_GROUP,70738650857402368,Vinculación de botones
+UI_OPTS_CONTROLLER_TAB,68549200207343616,Control
+UI_OPTS_DEFAULT_HELP_MESSAGE,70399200684077056,Texto de ayuda no implementado
+UI_OPTS_DEFAULT_HELP_TITLE,70399197446074368,Título de ayuda no implementado
+UI_OPTS_EXIT,67081951311228928,Salir del juego
+UI_OPTS_FX_GROUP,70324077025226752,Efectos especiales
+UI_OPTS_GAMEPAD_AIM_ASSIST_STRENGTH,70282068478586880,Fuerza de asistencia al apuntar
+UI_OPTS_GAMEPAD_AIM_ASSIST_STRENGTH_HELP_MESSAGE,70414381661220864,"La fuerza con la que el sistema de asistencia al apuntar atraerá tu retícula hacia el objetivo más cercano. <br><br>La asistencia al apuntar se activa: a) entre retrocesos del arma mientras mantienes presionado el gatillo, y b) cuando el gatillo solo se presiona ligeramente.<br><br>Los valores más altos se ajustan al objetivo más rápidamente."
+UI_OPTS_GAMEPAD_AIM_ASSIST_STRENGTH_HELP_TITLE,70414380562313216,Fuerza de asistencia al apuntar
+UI_OPTS_GAMEPAD_AIM_SENSITIVITY,70282066817642496,Sensibilidad del objetivo
+UI_OPTS_GAMEPAD_AIM_SENSITIVITY_HELP_MESSAGE,70414082783506432,La relación entre la sensibilidad general del mando y el gatillo mientras se mantiene pulsado para disparar. <br><br>Disminuye este valor si deseas menos sensibilidad y un control más preciso del puntero al disparar.
+UI_OPTS_GAMEPAD_AIM_SENSITIVITY_HELP_TITLE,70414081336471552,Sensibilidad del objetivo
+UI_OPTS_GAMEPAD_INVERT_LOOK,70282043379871744,Invertir eje Y (vista)
+UI_OPTS_GAMEPAD_INVERT_LOOK_HELP_MESSAGE,70412802040197120,"Activa o desactiva la inversión del control. <br><br>Cuando está activada, tu personaje mirará hacia abajo cuando se mueva el control hacia arriba."
+UI_OPTS_GAMEPAD_INVERT_LOOK_HELP_TITLE,70412800836431872,Invertir eje Y (control de juego)
+UI_OPTS_GAMEPAD_INVERT_MOVE,70282061679620096,Invertir eje Y (movimiento)
+UI_OPTS_GAMEPAD_INVERT_MOVE_HELP_MESSAGE,70412958634536960,"Activa o desactiva la inversión del movimiento cuando se utiliza un control. <br><br>Invierte el movimiento hacia adelante o atrás de los personajes.<br><br>Rara vez es necesario, pero a veces resulta útil en controles antiguos."
+UI_OPTS_GAMEPAD_INVERT_MOVE_HELP_TITLE,70412957338497024,Invertir eje de movimiento (control)
+UI_OPTS_GAMEPAD_LOOK_SPEED_X,70282063558668288,Velocidad horizontal del control
+UI_OPTS_GAMEPAD_LOOK_SPEED_X_HELP_MESSAGE,70413633917480960,Ajusta la sensibilidad en el eje lado a lado cuando uses un control.
+UI_OPTS_GAMEPAD_LOOK_SPEED_X_HELP_TITLE,70413632646606848,Velocidad horizontal del control
+UI_OPTS_GAMEPAD_LOOK_SPEED_Y,70282065131532288,Velocidad vertical del control
+UI_OPTS_GAMEPAD_LOOK_SPEED_Y_HELP_MESSAGE,70413813823762432,Ajusta la sensibilidad en el eje arriba o abajo cuando uses un control.
+UI_OPTS_GAMEPAD_LOOK_SPEED_Y_HELP_TITLE,70413812913598464,Velocidad vertical del control
+UI_OPTS_GAMEPLAY_TAB,68549116929437696,Jugabilidad
+UI_OPTS_GENERAL_GROUP,70287948653719552,General
+UI_OPTS_INPUT_GROUP,70279105097953280,Entrada
+UI_OPTS_INVITE_PLAYERS_BTN,70418305227091968,Invitar jugador
+UI_OPTS_KEYBIND_CANCEL_PROMPT,70421608761585664,[InputAction:UI/Cancel] para cancelar
+UI_OPTS_KEYBIND_ERROR_CANCEL,70422066154631168,Cancelar
+UI_OPTS_KEYBIND_ERROR_CONFIRM,70422064200085504,Confirmar
+UI_OPTS_KEYBIND_ERROR_TITLE,70421791478050816,Tecla ya vinculada
+UI_OPTS_KEYBIND_GROUP_COMMUNICATION,70420944467718144,Comunicación
+UI_OPTS_KEYBIND_GROUP_MISC,70420950109057024,Otro
+UI_OPTS_KEYBIND_GROUP_MOVEMENT,70420842411913216,Movimiento
+UI_OPTS_KEYBIND_GROUP_WEAPONS,70420902256242688,Armas y habilidades
+UI_OPTS_KEYBIND_PROMPT,70421315709759488,Presiona cualquier tecla
+UI_OPTS_KEYBIND_PROMPT_GAMEPAD,70422265480540160,Presiona cualquier botón
+UI_OPTS_KEYBINDS_GROUP,70738498176348160,Atajos de teclado
+UI_OPTS_KEYBOARD_TAB,68549159149301760,Teclado
+UI_OPTS_KICK_BTN,69867067745955840,Expulsar
+UI_OPTS_KICK_PLAYER_MESSAGE,70418717061607424,- Expulsa al jugador del juego actual.<br>- El jugador no puede intentar unirse de nuevo desde el menú principal.
+UI_OPTS_KICK_PLAYER_TITLE,70418437070843904,Expulsar jugador
+UI_OPTS_LOG_UPLOAD_COMPLETE_MSG,71062034984136704,Tus registros de depuración se subieron a OMG.<br>¡Gracias por tu reporte!
+UI_OPTS_LOG_UPLOAD_COMPLETE_TITLE,71062033079922688,Carga de registro completada
+UI_OPTS_MOUSE_INVERT_Y,70272412423221248,Invertir eje Y
+UI_OPTS_MOUSE_INVERT_Y_HELP_MESSAGE,70412173477605376,"Activa o desactiva la inversión de la cámara al usar el ratón. <br><br>Cuando está activada, tu personaje mirará hacia abajo cuando se mueva el control hacia arriba."
+UI_OPTS_MOUSE_INVERT_Y_HELP_TITLE,70412171606945792,Invertir eje Y (ratón)
+UI_OPTS_MOUSE_SPEED_X,70272546573840384,Velocidad horizontal del ratón
+UI_OPTS_MOUSE_SPEED_X_HELP_MESSAGE,70412460183449600,Sensibilidad del mouse en el eje lado a lado.
+UI_OPTS_MOUSE_SPEED_X_HELP_TITLE,70412458447007744,Velocidad horizontal del ratón
+UI_OPTS_MOUSE_SPEED_Y,70272548553551872,Velocidad vertical del ratón
+UI_OPTS_MOUSE_SPEED_Y_HELP_MESSAGE,70412693684547584,Sensibilidad del mouse en el eje arriba a abajo.
+UI_OPTS_MOUSE_SPEED_Y_HELP_TITLE,70412692216541184,Velocidad vertical del mouse
+UI_OPTS_MULTIPLAYER_TITLE,69893490762248192,Multijugador
+UI_OPTS_MUTE_BTN,69867030940938240,Silenciar
+UI_OPTS_QUIT_TO_MAINMENU,67081878519083008,Salir al menú principal
+UI_OPTS_RANGUS_TITLE,68857709201387520,Menú de Rangus
+UI_OPTS_RESET_DEFAULT_CANCEL,70371653040664576,Cancelar
+UI_OPTS_RESET_DEFAULT_CONFIRM,70371646627573760,Sí
+UI_OPTS_RESET_DEFAULT_MSG,70371438707535872,¿Deseas restaurar estos ajustes a sus valores predeterminados?
+UI_OPTS_RESET_DEFAULT_TITLE,70371436950122496,¿Restaurar a los valores predeterminados?
+UI_OPTS_RESTORE_DEFAULTS_BTN,70244262565834752,Restaurar a los valores predeterminados
+UI_OPTS_RETURN_MOTHERSHIP,67081787087450112,Abandonar partida
+UI_OPTS_SAVE_APPLY,71090571845758976,[InputAction:UI/Submit] Aplicar
+UI_OPTS_SELECT_INPUT,68857825807233024,[InputAction:UI/Submit] Seleccionar
+UI_OPTS_TAB_LEFT,68548893402394624,[InputAction:UI/PreviousTab]
+UI_OPTS_TAB_RIGHT,68549357606989824,[InputAction:UI/NextTab]
+UI_OPTS_UNMUTE_BTN,69869271953371136,Activar sonido
+UI_OPTS_VIDEO_QUALITY,70287954148257792,Calidad
+UI_OPTS_VIDEO_QUALITY_MESSAGE,70411523725389824,"El nivel general de calidad gráfica. Va de 0 a 5, y las opciones más altas proporcionan un mayor detalle gráfico. <br><br>Esta configuración influye en los ajustes gráficos subyacentes, como el antialiasing, el tamaño de las texturas, el nivel de detalle (LOD) en las distancias, etc."
+UI_OPTS_VIDEO_QUALITY_TITLE,70411522215440384,Nivel de calidad
+UI_OPTS_VIDEO_RESOLUTION,70318948783943680,Resolución
+UI_OPTS_VIDEO_RESOLUTION_MESSAGE,70399271093858304,"El ancho, la altura y la frecuencia de actualización con los que se mostrará la ventana del juego. <br><br>Esta configuración solo está disponible en modo Pantalla completa o Ventana."
+UI_OPTS_VIDEO_RESOLUTION_TITLE,70399256933888000,Resolución de pantalla
+UI_OPTS_VIDEO_TAB,68549243832299520,Video
+UI_OPTS_VIDEO_WINDOW_MODE,70287952470536192,Modo de pantalla
+UI_OPTS_VIDEO_WINDOW_MODE_MESSAGE,70399243101073408,"<b>Pantalla completa</b><br>Acceso dedicado a pantalla completa para el motor del juego.<br><br><b>Pantalla completa en una ventana</b><br>Una ventana sin bordes configurada con la misma resolución nativa que su pantalla.<br><br><b>Modo ventana</b><br>Una ventana de juego redimensionable con controles nativos para minimizar, maximizar y redimensionar."
+UI_OPTS_VIDEO_WINDOW_MODE_TITLE,70399203120967680,Modo de pantalla
+DEATH_SCREEN_KILLED_BY_FMT,73552691249274880,Eliminado por <color=#FFC700>{CreatureName}</color>
+UI_ANNOUNCEMENT_LEVEL_UP_RESUME,74296320918020096,Reanudando en {seconds} segundos.
+UI_ANNOUNCEMENT_DIFFICULTY_FMT,74296319433236480,{difficulty}{ascension:cond:>0? Ascension {}|}
+UI_ANNOUNCEMENT_ENTER_PLANET_FMT,74296317638074368,Entrando en {planet}
+,71029377494671360,Reaparece pagando <color=#{ColorStr}>{CostSeconds} s</color> en el<color=#{ColorStr}> Tiempo de cazador</color>
+UI_REQUIREMENT_CARLQUEST_FMT,74971176676352000,"Completa la misión: ""{quest}"""
+UI_REQUIREMENT_SMARTMEAT_RANK,75676449292410880,Mejora tu carne inteligente al rango {rank}
+UI_REQUIREMENT_CAUGHTFISH,75676451393757184,Atrapa {count:plural:{} pece|{} peces}
+UI_REQUIREMENT_PROGRESS_FMT,75687597366566912,<color=#{color}>{count}</color>/{total}
+UI_SAVEMGMT_EMPLOYEE_NAME,76455159420350464,Empleado {EmployeeNumber}
+UI_CHANGE_DIFFICULTY_TO_FMT,76472743611064320,Cambiar la dificultad del juego a {difficulty}
+UI_SAVEMGMT_COMPLETION_SHORT,76455871910965248,{CompletionPercent} %
+UI_SAVEMGMT_SYSTEM_STATUS_SHORT,76455956396830720,Sistema {CurrentSystem}/{SystemCount}
+UI_SAVEMGMT_PLAYTIME_SHORT,76456085350707200,{Days:D2}:{Hours:D2}:{Minutes:D2}
+UI_SAVEMGMT_GLIZZY_COUNT,76457598835945472,{GlizzyCount}
+UI_SAVEMGMT_CARLCOIN_COUNT,76457673867849728,{CarlCoinCount}
+UI_SAVEMGMT_DATAPOINT_COUNT,76457671896526848,{DataPointCount}
+UI_SAVEMGMT_PLAYTIME_LONG,76458052697387008,Tiempo jugado: {Days:D2}:{Hours:D2}:{Minutes:D2}
+UI_SAVEMGMT_COMPLETION_LONG,76458159945740288,Finalización: {CompletionPercent} %
+UI_SAVEMGMT_BIRTHDAYS_DATA,76458893697282048,{BirthdayCount}
+UI_SAVEMGMT_CAMPAIGN_PROGRESS_DATA,76459164905172992,Sistema {CurrentSystem}/{SystemCount}<br>{CurrentSystemName} // {CurentPlanetName}
+UI_CHANGE_DIFFICULTY_CLIENT,76472751513133056,Atrévete a pedirle al anfitrión a cambiar la dificultad del juego a {difficulty}
+UI_SAVEMGMT_MSGBOX_DELETE_SAVE_MSG,76459477468901376,¿En verdad desear eliminar este archivo de guardado {EmployeeNumber}?<br>Esta acción no se puede deshacer.
+UI_SAVEMGMT_MSGBOX_LOAD_SAVE_MSG,77150388238610432,¿Desea cargar el archivo de guardado del empleado {EmployeeNumber}?
+UI_SAVEMGMT_DIFFICULTY_LONG,77171850999689216,Dificultad: {Difficulty}
+UI_SAVEMGMT_DIFFICULTY_SHORT,77171691624525824,{Difficulty}{Ascension:cond:>0? A{}|}
+UI_SAVEMGMT_MSGBOX_CREATE_SAVE_MSG,77599484736892928,Crear empleado de Rangus {EmployeeNumber}
+UI_GALAXYMAP_MODE_SCRIPTED,76942188812951552,Sistema {index}
+COMMON_SIDEQUESTS,74560833584095232,Misiones secundarias
+CONTROL_PANEL,71374858701537280,Panel de control
+DEATH_FINAL_TITLE,74209383469277184,Carne muerta
+DEATH_LAST_CHANCE,73578787034357760,¡Última oportunidad!
+DEATH_RESPAWNING_TITLE,73560258369282048,Reaparición
+HUD_CHECKPOINT_TOAST,71718200525385728,¡Punto de control guardado!
+UI_ANNOUNCEMENT_HOST_PAUSED,74296313619931136,El anfitrión pausó el juego.
+UI_ANNOUNCEMENT_LEVEL_UP,74296314148413440,Los jugadores están eligiendo recompensas por subir de nivel.
+UI_BOLTBURGER_CONFIGURE,71287883359576064,Configuración de empleados
+UI_BOLTBURGER_INTERACT,71029788435800064,<color=yellow>¡Escapa!</color>
+UI_BOLTBURGER_NAME,71029706948861952,Hamburtrueno
+UI_CARLTERMINAL_CLAIM_BTN_REQUIREMENTS_LOCKED,74607019393277952,No se reunieron los requisitos.
+UI_CARLTERMINAL_COMPLETED,73167992798568448,Completado
+UI_CARLTERMINAL_QUESTS,73167908547584000,Misiones
+UI_CARLTERMINAL_UPGRADES,73167953896398848,Actualizaciones
+UI_DAMAGE_TEXT,71027131851726848,Daño
+UI_ENDSTAGE_DATA,71871687346348032,Datos
+UI_ENDSTAGE_LOADOUT,71871691788115968,Equipamiento
+UI_ENDSTAGE_REWARDS,71871690248806400,Recompensas
+UI_ENDSTAGE_STATS,71871688839520256,Estadísticas
+UI_GATHERNODE_REQUIREMENT,71029905968586752,<color=red>Requiere {Requirement}</color>
+UI_HEALTHPICKUP_INTERACT,71039570580332544,Recupera {percentage:percent()} % de salud
+UI_HEALTHPICKUP_NAME,71039568562872320,Estación de salud
+UI_INFOTERMINAL_INTERACT,71029517936746496,Abierto
+UI_INFOTERMINAL_NAME,71029479261069312,Códice
+UI_INTERACT_PIN,71029310960427008,Fijar
+UI_INTERACTION_MEAT,71029281604493312,Levantar
+UI_LOADOUT_EQUIPPED_NONE,70975984860389376,Ninguno
+UI_LOADOUT_SLOT_FLAIR,71008883575873536,Estilo
+UI_LOADOUT_SLOT_MELEE,71006502045868032,Cuerpo a cuerpo
+UI_LOADOUT_SLOT_PRIMARY,71006497910284288,Primario
+UI_LOADOUT_SLOT_SECONDARY,71006500313620480,Secundario
+UI_LOADOUT_SLOT_ULTIMATE,71006503694229504,Carne misteriosa
+UI_LOBBY_TV_NAME,71282475156889600,El tubo
+UI_LOBBY_TV_OFF,71282478541692928,<color=yellow>Apaga esta porquería</color>
+UI_LOBBY_TV_ON,71282477010771968,<color=yellow>Ve la capacitación para empleados</color>
+UI_MEAT_PART_HEAD,71029987690405888,Cabeza
+UI_MEAT_PART_LEGS,71030042077945856,Piernas
+UI_MEAT_PART_TORSO,71030010549362688,Torso
+UI_MEATCORE_INTERACT,71029870979702784,Comenzar la cosecha
+UI_MEATCORE_NAME,71029824678780928,Núcleo de carne
+UI_MEATLOCKER_BACK,74561067920846848,[InputAction:UI/Cancel] Atrás
+UI_MEATLOCKER_EQUIP_BTN,74561255393652736,[InputAction:UI/Submit] Equipar
+UI_MEATLOCKER_INTERACT_NAME,74562836717563904,Almacén de carne
+UI_MEATLOCKER_INTERACT_PROMPT,74562840249167872,Cambiar cosméticos
+UI_MEATLOCKER_ROTATE,74561363761885184,Girar
+UI_MEATLOCKER_SUBTITLE,74560978846412800,// Cambiar cosméticos
+UI_MEATLOCKER_TITLE,74560976120115200,Almacén de carne
+UI_MEATNAME_MISSING,71030073136766976,Carne faltante
+UI_MODESELECT_DEMOPROGRESS,73195958265962496,El progreso en el demo se transfiere al juego completo
+UI_OPTS_GENERAL_TAB,75389016626622464,General
+UI_OPTS_LOC_GROUP,75400145952239616,Localización
+UI_OPTS_LOCALE,75400155171319808,Idioma
+UI_OPTS_LOCALE_HELP_MESSAGE,75399913063510016,Selecciona el idioma que prefieras leer el texto del juego.
+UI_OPTS_LOCALE_HELP_TITLE,75399909397688320,Idioma
+UI_REQUIREMENT_CURRENCY,73516433013727232,Consigue {amount}{currency}
+UI_REQUIREMENT_UNLOCK_ARTIFACT,73516434381070336,Desbloquea {Count} {Count:plural:habilidad|habilidades} de artefacto
+UI_REQUIREMENT_UNLOCK_FLAIR,73516449342152704,Desbloquea {Count}{Count:plural:prenda|prendas} de estilo
+UI_REQUIREMENT_UNLOCK_WEAPON,73516435505143808,Desbloquea {Count:plural:{} arma|{} armas}
+UI_REQUIREMENT_WEAPONRANK_ANY,73516429897359360,Sube de nivel cualquier arma al rango {rank}
+UI_REQUIREMENT_WEAPONRANK_SPECIFIC,73516431621218304,Sube de nivel{family} al rango {rank}
+UI_RESPAWN_HUNTER_COST_FMT,71029344326115328,[ TEMPORIZADOR DE REAPARICIÓN: {CostSeconds} s ]
+UI_SAVEMGMT_BIRTHDAYS_HEADER,76458631045771264,Cumpleaños:
+UI_SAVEMGMT_CAMPAIGN_PROGRESS_HEADER,76458491664855040,Progreso de la campaña:
+UI_SAVEMGMT_CREATE_EMPLOYEE_BTN,76458001149390848,+ Crear nuevo empleado
+UI_SAVEMGMT_CURRENT_LOCATION_HEADER,76458409695571968,Ubicación actual:
+UI_SAVEMGMT_DELETE_SAVE_BTN,76458682354692096,[InputAction:UI/Revert] Eliminar archivo de guardado
+UI_SAVEMGMT_MSGBOX_CONFIRM,76459568292360192,Eliminar archivo de guardado
+UI_SAVEMGMT_MSGBOX_DELETE_SAVE_TITLE,76459424876523520,¿Borrar archivo de guardado?
+UI_SAVEMGMT_SAVE_BTN_DETAIL,76457884715511808,Cambiar
+UI_SAVEMGMT_SAVE_BTN_TITLE,76457842160103424,Guardar archivo
+UI_SAVEMGMT_SAVE_DETAIL_TITLE,76458374538915840,Guardar detalles
+UI_SAVEMGMT_TITLE_BAR,76459334883536896,Cargar guardado
+UI_SMARTMEAT_NAME,71029965485760512,Carne inteligente
+UI_TRAVEL_LOBBY,71871682891997184,Regresar a
+UI_TRAVEL_PLANET,71871685479882752,Próximo planeta
+UI_REQUIREMENT_LIFETIME_MATERIALS,81909229068214272,Recolecta {currency}
+UI_REQUIREMENT_LIFETIME_FISH,81905413581168640,Atrapa {currency}
+UI_REQUIREMENT_LIFETIME_CURRENCY,81905411479822336,Ganar {currency}
+UI_TUTORIALPOPUP_PAGE_FMT,86949908160962560,{Current}/{Total}
+MODE_SELECT_CONTINUE_BTN_FMT,88516393607032832,Sistema {SystemNum} - {PlanetName}
+UI_REQUIREMENT_STAT_NONABANDONEDRUNS_FMT,88708929729585152,Completa {count} partida(s)
+UI_RUNINFO_PLANET_FMT,89160784477675520,> PLANETA{current} /{total} :{planet}
+UI_OBSERVER_PLAYER,89551157478748160,Observando a {PlayerName}
+UI_OBSERVER_NEXT_PLAYER_BINDING,89551067078914048,Observa al siguiente jugador ([InputAction:Observer/FollowNextPlayer])
+DirtbagName,84665500557934592,Desmán
+TommyTank,84665130641293312,Tanque de Tommy
+UI_BOLTBURGER_IGNORE_CARL,89059781141061632,Ignorar a Carl
+UI_BOLTBURGER_TALK_TO_CARL_DESC,84438058676510720,Carl necesita hablar contigo antes de que te vayas a vagar por la galaxia.
+UI_BOLTBURGER_TALK_TO_CARL_TITLE,84438056474501120,Habla con el gerente
+UI_BUYNOWONSTEAM,78930206331494400,Comprar ahora en Steam
+UI_CRITS_TEXT,80878169194749952,Críticos
+UI_DIFFICULTY_SELECT_TITLE,81165014893846528,Selecciona tu nivel de dificultad
+UI_DPS_TEXT,80878240179150848,Dps
+UI_ENDSTAGE_CONSUMPTION,80927668453761024,Consumo del planeta
+UI_ENDSTAGE_GATHERING_DISCLAIMER,80901562480713728,*Para participar en la recolección se requieren las licencias correspondientes
+UI_ENDSTAGE_MATERIAL_FISHING,80927658316128256,Fosas de pesca
+UI_ENDSTAGE_MATERIAL_MINING,80927660262285312,Nodos de minería
+UI_ENDSTAGE_MATERIAL_TECH,80927662330077184,Tecnología antigua
+UI_ENDSTAGE_NO_MATS_FOUND,80901560471642112,¡No se han detectado materiales!
+UI_ENDSTAGE_PRIME_DIRECTIVES,80927664423034880,Directivas principales
+UI_ENDSTAGE_SECONDARY_EVENTS,80927666520186880,Eventos secundarios
+UI_GALAXYMAP_ASCENSION_OFF,78047682533253120,Ascensión: Desactivado
+UI_GALAXYMAP_ASCENSION_ON,78047680209608704,Ascensión: Activado
+UI_GALAXYMAP_BOSS,77085141590073344,Jefe
+UI_GALAXYMAP_DIFFICULTY,77085143997603840,Dificultad
+UI_GALAXYMAP_MODE_RANDOM,76942191665078272,Modo aleatorio
+UI_GALAXYMAP_MODE_TUTORIAL,76942183263887360,Tutorial
+UI_GALAXYMAP_MODIFIERS,77085146208002048,Modificadores
+UI_GALAXYMAP_PLANETS,77085138289156096,Planetas
+UI_GALAXYMAP_RANDOM_DESC,77848170049036288,"Todos los planetas, enemigos y encuentros con jefes son aleatorios."
+UI_GALAXYMAP_TUTORIAL_DESC,77848167003971584,Aprende la mecánica y los conceptos básicos del juego en el nivel de dificultad más fácil.
+UI_GALAXYMAP_UNKNOWN_BOSS,76942179224772608,???
+UI_GALAXYMAP_UNKNOWN_PLANET,76942179686146048,???
+UI_GALAXYSCREEN_ASCENSION_FMT,77181756770344960,Ascensión: {rank}
+UI_GALAXYSCREEN_DIFFICULTY_FMT,77181621885722624,Dificultad: {difficulty}
+UI_GALAXYSCREEN_MODIFIERS_FMT,77181851947491328,Modificadores: {count}/{max}
+UI_GALAXYSELECT_DESTINATION_CURRENT,83744947004497920,Voy aquí
+UI_GALAXYSELECT_DESTINATION_SET,83744951232356352,Establecer destino
+UI_GALAXYSELECT_DIFFICULTY_NONE,83722034389966848,Sin completar
+UI_GALAXYSELECT_HARDEST_LABEL,83711659535753216,Dificultad más alta completada:
+UI_INTERACTION_LOCKED,81878672011681792,Bloqueado
+UI_ITEMCONTAINER_INTERACT,86195284344823808,Reclamar recompensas de artículos
+UI_ITEMCONTAINER_NAME,86195272869208064,Contenedor de artículos
+UI_KILLS_TEXT,80877989049393152,Eliminaciones
+UI_MARKER_FREEMEAT,78544246305447936,¡Carne gratis!
+UI_MATERIALS_TITLE,80900142813667328,Materiales
+UI_OBSERVER_INACTIVE,89551914265407488,Pulsa <color=yellow>[InputAction:Observer/FollowNextPlayer]</color> para observar a tus amigos que te dejaron morir
+UI_OPTS_DEBUG_TAB,78987062803361792,Depurar
+UI_RUNINFO_DIFFICULTY_TITLE,89147099684265984,Dificultad:
+UI_RUNINFO_MODE_TITLE,89160478117322752,Privacidad:
+UI_RUNINFO_SYSTEM_TITLE,89160599483703296,Sistema:
+UI_SAVEMGMT_DIFFICULTY_TITLE,77174107421995008,Dificultad:
+UI_SAVEMGMT_MSGBOX_CREATE_SAVE_TITLE,77599481565999104,¿Contratar un nuevo empleado?
+UI_SAVEMGMT_MSGBOX_LOAD_SAVE_TITLE,77150385709445120,¿Cambiar de empleado?
+UI_SAVEMGMT_NO_VALID_SAVES_MSG,77599802421866496,No existen archivos de guardado válidos. Se creará automáticamente un nuevo empleado para que puedas jugar.
+UI_SAVEMGMT_NO_VALID_SAVES_TITLE,77599796109438976,No hay archivos de empleados válidos
+UI_TUTORIALPOPUP_CONFIRM,86931484559007744, ¡Entiendo!
+UI_TUTORIALPOPUP_NEXT,86931490321981440, Siguiente
+UI_UPGRADEGRID_ACTIVE,78691822283513856,Activo
+UI_RUNINFO_PROGRESS_FMT,91309503138488320,{current}/{total}
+UI_CODEX_VIEW_FULL_FILE,98555893498441728,[InputAction:UI/Interact] Ver archivo completo
+UI_SMART_GLASS_ASSENTION_FMT,99191309422551040,A{rank}
+UI_SMART_GLASS_SYSTEM_HEADER_FMT,99191769298624512,Sistema {num}:
+UI_CODEX_EXIT_TERMINAL,94230730657165312,Terminal de salida
+UI_CODEX_FAQ_TAB,96055162325364736,Preguntas frecuentes
+UI_CODEX_ITEMS_RESOURCES_TAB,96055160647643136,Objetos y recursos
+UI_CODEX_MEAT_PARTS_TAB,96055158953144320,Partes de carne
+UI_CODEX_RANGUS_FILES_TAB,96055117706358784,Archivos de Rangus
+UI_CODEX_TITLE_BAR,94228823121260544,Códice
+UI_RUNINFO_MODE_CLIENT,89516919760084992,Cliente
+UI_COMMON_CANCEL_BINDING,99596914248314880,[InputAction:UI/Cancel]
+UI_BOSS_HEALTHBAR_ALIVE,106887418227974144,{current} / {max}{invulnerable: --invulnerable--|}
+UI_TRADER_CURRENCY_COUNT_ONLY,107212082384986112,{count}
+UI_TRADER_CURRENCY_COUNT_WITH_NAME,107212080807927808,{count} {name}{count:|s}
+UI_LOADOUT_PLANET_INDEX,107215447810629632,Planeta {index}
+UI_LOBBY_LAUNCH_FMT,107300806561095680,Lanzamiento en {seconds}...
+UI_SKIP_BUTTON_COUNT_FMT,109114325996658688,{Current}/{Required}
+UI_RANGUSTERMINAL_DIFFICULTY,109737168404996096,{Difficulty}{Ascension:cond:>0? A{}|}
+MINION_COUNT_FMT,114031240531664896,{CurrentCount}/{MaxCount} {MinionName}
+UI_INSPECT_STATS_VALUE,114477960383098880,{currentVal:0.##}
+UI_INSPECT_ULTIMATE_ABILITY_BIND,114490554758131712,[InputAction:Gameplay/ArtifactAbility]
+UI_INSPECT_TORSO_ABILITY_BIND,114490551952142336,[InputAction:Gameplay/TorsoAbility]
+UI_INSPECT_LEGS_ABILITY_BIND,114490549532028928,[InputAction:Gameplay/LegsAbility]
+UI_INSPECT_HEAD_ABILITY_BIND,114490544754716672,[InputAction:Gameplay/HeadAbility]
+UI_FLAIR_SLOT_FMT,114059281903378432,Estilo {slot}
+UI_INTERACTION_ARTIFACT_CHEST_TEXT,114805155298271232,Levantar
+UI_INSPECT_PASSIVE_DETAIL,116378994684653568,PASIVA: {PassiveDetails}
+UI_INSPECT_WEAPON_DAMAGE_BASE,116695500194770944,{Min} - {Max}
+UI_INSPECT_SINGLE_BONUS_FMT,116695504263245824,{Bonus:0.00}
+UI_INSPECT_TWO_BONUS_FMT,116695511330648064,{Bonus1:0.00} % / {Bonus2:0.00}
+UI_INSPECT_WEAPON_RANGE_BASE,116695512668631040,{Range} m
+UI_INSPECT_WEAPON_RATE_BASE,116695514245689344,{ShotsPerSecond:0.00} rondas/s
+UI_INSPECT_WEAPON_CRIT_BASE,116695515885662208,{CritChance:0.00} % / DAÑO x{Damage:0.00}
+UI_INSPECT_WEAPON_STAGGER_CHANCE,116705071831379968,{StaggerChancePct} % de probabilidad de tambalear al golpear
+ARTIFACT_TOOLTIP_TITLE,116738349727735808,Carne misteriosa
+UI_INSPECT_DURABILITY_VAL,116767905265152000,{DurabilityPct} %
+UI_INSPECT_ABILITY_COOLDOWN,116778133167730688,ENFRIAMIENTO: {CooldownVal} s
+UI_HEALTHBAR_CURRENT_FMT,118824193619910656,{current:cond:>0?{}|{deadString}}
+UI_MULTIPLAYER_PLAYER_FMT,118839206027976704,Jugador: {name} ({status})
+UI_MULTIPLAYER_OBSERVER_FMT,118840737917820928,Observador: {name}
+UI_REWARD_WEAPON,119210461054885888,+ Desbloquea arma: {name}
+UI_REWARD_PROGRESS_FLAG,119210458588635136,+ {name}
+UI_REWARD_CURRENCY,119210456084635648,"+ <sprite name=""{icon}""> {count} {name}"
+UI_TRADER_CURRENCY_COUNT_AND_QUANTITY,119577683216556032,{count} ({HaveQuantity})
+SHRINE_REWARD_ANNOUNCEMENT_ITEM_FOR_PLANET,121420383809167360,<color={RewardColor}>{ItemDescription}</color> para la duración del planeta
+UI_UPGRADEGRID_REFUND_FMT,121792385816453120,[InputAction:UI/Submit] Puntos de reembolso ({points})
+SHRINE_REWARD_LIST,124328309829918720,{rewards:list:|<br>}
+SHRINE_REWARD_ANNOUNCEMENT_ITEM_SECONDS,124636897391665152,<color={RewardColor}>{ItemDescription}</color> por {Seconds} s
+SHRINE_REWARD_ANNOUNCEMENT_CURRENCY,124707854831575040,Ganaste <color={RewardColor}>{Amount} {CurrencyName}{Amount:|s}</color>
+SHRINE_REWARD_ANNOUNCEMENT_HUNTER_TIMER_SECONDS,124705097009586176,Llegada del cazador avanzada en <color={RewardColor}>{Seconds} s</color>
+SHRINE_REWARD_ANNOUNCEMENT_ITEM_REMOVED,124941545432408064,<color={RewardColor}>Se eliminó un objeto aleatorio del inventario</color>
+SHRINE_REWARD_ANNOUNCEMENT_ITEM_PERMANENT,124968189224280064,<color={RewardColor}>{ItemDescription}</color>
+UI_CURRENCY_COST,124979449743532032,<color=#{costColor}>{cost}</color> {currency} ({have})
+UI_REQUIREMENT_LIFETIME_SHRINES_COMPLETED_TOTAL,126780333691494400,{Count} eventos de santuario completados
+UI_REQUIREMENT_LIFETIME_SHRINES_COMPLETED_UNIQUE,126780373466079232,{Count} eventos de santuario {Type} completados
+CURRENCY_CHANGE_POSITIVE_FMT,127527940227325952,+{Count}
+CURRENCY_CHANGE_NEGATIVE_FMT,127527981511860224,-{Count}
+CURRENCY_TRADER_HEADER_QUANTITY,119475354060447744,Cantidad
+CURRENCY_TRADER_HEADER_TOTAL_COST,119475407915311104,Costo total
+CURRENCY_TRADER_HEADER_TOTAL_EARNINGS,119582439590846464,Ganancias totales
+CURRENCY_TRADER_QUANTITY_MAX,119524614583869440,Máximo
+CURRENCY_TRADER_QUANTITY_MIN,119524518509142016,Mínimo
+CURRENCY_TRADER_TAB_BUY,118945952767664128,Comprar
+CURRENCY_TRADER_TAB_SELL,118945985441292288,Vender
+EVENT_HEADER_DESTINATION,99368552669110272,Destino
+EVENT_HEADER_LOBBY_SYSTEM_TITLE_FMT,99368598223446016,Sistema {Num}: {SystemName}
+EVENT_OBJECTIVE_LOBBY_PLANETS_COMPLETED_FMT,99368869179678720,{Completed}/{ToComplete} Planetas completados
+HARVESTER_BOLT_BURGER_ANNOUNCEMENT,121386134288719872,¡Llegan los Hamburtruenos!
+HARVESTER_CORE_EXPOSED_ANNOUNCEMENT,121364263652548608,¡Se corrompió el núcleo de la cosechadora!
+LOADOUT_SELECTION_LOCKED_MESSAGE,99312892363399168,** Las armas no se pueden cambiar a mitad de partida **
+LOCKED_DIFFICULTY_DESCRIPTION,99261101428957184,La dificultad no se puede cambiar a mitad de partida.
+MESSAGE_BOX_TITLE_QUEST_RESOURCE,120315727867535360,Recurso de misión
+MESSAGE_BOX_INCOMPLETE_LOADOUT_TITLE,106487339029618688,Ranuras de equipamiento vacío
+MESSAGE_BOX_MESSAGE_QUEST_RESOURCE,120315782422847488,Esto es necesario para una misión activa.<br>¿Confirmas que deseas vender esto?
+MESSAGE_BOX_MISSING_FLAIR_MESSAGE,106487341151936512,"Tienes ranuras de estilo vacías, ¿confirmas que deseas continuar?"
+MESSAGE_BOX_MISSING_MULTIPLE_MESSAGE,106487707394367488,"Tienes ranuras vacías de estilo y de habilidades definitivas, ¿confirmas que deseas continuar?"
+MINION_TYPE_LARGE,114031893689655296,Esbirro grande
+MINION_TYPE_MEDIUM,114031848902877184,Esbirro mediano
+MINION_TYPE_SMALL,114031782632873984,Esbirro pequeño
+PLAYER_DISCONNECTED_BANNER,111602280011128832,Desconectado
+PLAYER_JOINED_GAME_BANNER,111593060477952000,¡Te uniste al juego!
+RUN_IN_PROGRESS_BANNER,99252636694339584,Partida en progreso
+TRADER_TERMINAL_ACTION_UNAVAILABLE_NO_SPACE,122837464526086144,Se alcanzó el límite de monedas
+UI_BOLTBUGER_READY,107296736416882688,Listo
+UI_BOLTBUGER_UNREADY,107296734231650304,En preparación
+UI_BOLTBURGER_DESC,107295177230508032,Cambia el equipamiento e inicia la partida
+UI_BOLTBURGER_REVERT_CHANGES,107296001297997824,Revertir cambios
+UI_BOLTBURGER_SELECT_PRIMARY,114874435154993152,Seleccionar primaria
+UI_BOLTBURGER_SELECT_SECONDARY,114874437474443264,Seleccionar secundaria
+UI_BOSS_HEALTHBAR_DEFEATED,106887389748649984,Derrotado
+UI_BOSS_HEALTHBAR_FRANKENBEANS_ENRAGED,106898677560238080,Enfurecido
+UI_BOSS_HEALTHBAR_FRANKENBEANS_STUNNED,106898673873444864,Aturdido
+UI_BOSS_HEALTHBAR_FRANKENBEANS_VULNERABLE,106898679623835648,Vulnerable
+UI_BOSS_HEALTHBAR_MUTANT_PINHIM,106898681771319296,¡Sujétalo!
+UI_CINEMATIC_SKIP_FMT,107277861499428864,Mantén presionado {Button} para saltar
+UI_CODEX_ABILITY,97612639328202752,Habilidad
+UI_CODEX_ARTIFACTS_TITLE,117343438825840640,Artefactos
+UI_CODEX_CHAINSAWING_TITLE,97078979487264768,Usar la motosierra
+UI_CODEX_CLOSE_BTN,98649606463614976,Cerrado
+UI_CODEX_CURRENCY_TITLE,97079007689764864,Moneda
+UI_CODEX_EFFECTS,97578193359138816,Efectos
+UI_CODEX_FAQ_TITLE,97079108843794432,Preguntas frecuentes (Tutoriales)
+UI_CODEX_FISHING_TITLE,97078902005886976,Pesca
+UI_CODEX_HEADS_TITLE,97078659881299968,Cabezas
+UI_CODEX_ITEMS_TITLE,97078839842107392,Objetos
+UI_CODEX_LEGS_TITLE,97078776701054976,Piernas
+UI_CODEX_MINING_TITLE,97078943839875072,Minería
+UI_CODEX_MISCELLANEOUS_TITLE,97079047565012992,Misceláneo
+UI_CODEX_TORSOS_TITLE,97078734208561152,Torsos
+UI_FLAIR_EQUIP,114460600094941184,Equipar estilo
+UI_FLAIRTERMINAL_MAXRANK,124021102433263616,Rango máximo
+UI_FLAIRTERMINAL_NEXT_RANK,125050191940149248,Siguiente rango
+UI_FLAIRTERMINAL_TITLE,124008353355522048,Estilo:
+UI_FLAIRTERMINAL_UNLOCK,124021058997051392,Comprar aleatorio
+UI_FLAIRTERMINAL_UPGRADE,126464563497394176,Mejorar
+UI_HEALTHBAR_DEAD,118818718572601344,Muerto
+UI_HEALTHBAR_DEFEATED,118818721361813504,Derrotado
+UI_HEALTHBAR_DESTROYED,118818725145075712,Destruido
+UI_HEALTHBAR_SLOWED,118818723131809792,Ralentizado
+UI_INSPECT_ABILITYDMG_STAT,114482030208544768,Daño de habilidad
+UI_INSPECT_ANCIENT_TECH_CATEGORY,114512142534635520,Tecnología antigua
+UI_INSPECT_ANCIENT_TECH_REQUIREMENTS,114514052285132800,Requiere licencia para usar la motosierra
+UI_INSPECT_FISH_CATEGORY,114512145520979968,Pez
+UI_INSPECT_FISH_REQUIREMENTS,114514054252261376,Requiere licencia para pescar
+UI_INSPECT_FLAIR_SUBTITLE,114482711002804224,Estilo
+UI_INSPECT_HEALTH_STAT,119964566292459520,Salud
+UI_INSPECT_INSPECT_TAB,114475370446516224,Inspeccionar
+UI_INSPECT_ITEMS_SUBTITLE,114516146895384576,Objetos
+UI_INSPECT_ITEMS_TAB,114475474943406080,Objetos
+UI_INSPECT_LUCK_STAT,114481908443705344,Suerte
+UI_INSPECT_MEAT_TAB,114475404315521024,Carne
+UI_INSPECT_MEATDURABILITY_STAT,114482023036284928,Durabilidad de la carne
+UI_INSPECT_MELEE_WEAPON,114492699859415040,Cuerpo a cuerpo
+UI_INSPECT_MELEEDMG_STAT,114482025334763520,Daño cuerpo a cuerpo
+UI_INSPECT_MINERALS_CATEGORY,114512139007225856,Minerales
+UI_INSPECT_MINERALS_REQUIREMENTS,114514049730801664,Requiere licencia de minería
+UI_INSPECT_MOVESPEED_STAT,114482017218785280,Velocidad de movimiento
+UI_INSPECT_NO_FLAIR_MSG,119689766609285120,Estoy notando una clara falta de estilo
+UI_INSPECT_NO_FLAIR_TITLE,119689764675710976,Vacío
+UI_INSPECT_NO_MUTATION_SELECTED,114488744207118336,No se seleccionó ninguna mutación
+UI_INSPECT_PRIMARY_WEAPON,114492653919203328,Primario
+UI_INSPECT_RESOURCES_TAB,114475499987595264,Recursos
+UI_INSPECT_SECONDARY_WEAPON,114492696814350336,Secundario
+UI_INSPECT_STATS_SUBTITLE,114477124743524352,Estadísticas
+UI_INSPECT_TOOL_CHAINSAW,114511098043887616,Motosierra
+UI_INSPECT_TOOL_FISHINGROD,114511098949857280,Caña de pescar
+UI_INSPECT_TOOL_PICKAXE,114511065781301248,Pico
+UI_INSPECT_TOOLS_TAB,114510960764317696,Herramientas
+UI_INSPECT_WEAPON_BONUS_HELP,120347674015625216,Bonificación de los rangos de arma y mejoras de nivel
+UI_INSPECT_WEAPONS_TAB,114475433012948992,Armas
+UI_INTERACTION_ARTIFACT_CHEST_NAME,114805101426630656,Carne misteriosa
+UI_LABEL_COMING_SOON,107282489863561216,¡Próximamente!
+UI_LEVELUP_TEXT,107284333193060352,¡Aumenta de nivel!
+UI_LOADOUT_INVITE,107300099988643840,Invitar al juego
+UI_LOADOUT_PLANET_DROP_ZONE,107215449786146816,Zona de aparición
+UI_LOADOUT_SELECT_FLAIR,113831482676469760,Seleccionar estilo
+UI_LOADOUT_SELECT_WEAPON,113831348626513920,Seleccionar arma
+UI_LOADOUT_SOLAR_SYTEM_NO_SELECTION,107214113107599360,No se eligió ningún sistema solar
+UI_LOADOUT_SOLAR_SYTEM_TITLE,107214111144665088,Sistema solar:
+UI_MEATLOCKER_BOBBLES,118868896717463552,Adornos de antena
+UI_MEATLOCKER_HEADS,118868894116995072,Cabezas
+UI_MEATLOCKER_MELEE,118868898902695936,Cuerpo a cuerpo
+UI_MESSAGE_BOX_ABANDON_RUN_MESSAGE,99213506199412736,"Estás a mitad de una partida. Al cambiar de sistema activo, abandonarás la partida actual. ¿Confirmas que deseas continuar?"
+UI_MULTIPLAYER_PLAYER_LABEL_CONNECTED,118863542965231616,Conectado
+UI_MULTIPLAYER_PLAYER_LABEL_DISCONNECTED,118839841028825088,Desconectado
+UI_MULTIPLAYER_PLAYER_LABEL_RESERVED,118839838944256000,Reservado
+UI_OPTS_VIDEO_AA,125319516908351488,MSAA
+UI_OPTS_VIDEO_AA_MESSAGE,125319518418300928,"Suaviza las líneas y los bordes. Un valor más alto proporciona líneas mucho más suaves, pero perjudica el rendimiento.<br><br>Valores válidos: deshabilitado (0), 2x, 4x y 8x."
+UI_OPTS_VIDEO_AA_TITLE,125319517587828736,Multisample anti-aliasing level (MSAA)
+UI_OPTS_VIDEO_AF,125319437740863488,AF
+UI_OPTS_VIDEO_AF_MESSAGE,125319441167609856,"Habilita/deshabilita el filtrado anisotrópico. Esta opción mejora la calidad visual de las texturas en superficies grandes de poca inclinación, como los pisos."
+UI_OPTS_VIDEO_AF_TITLE,125319439431168000,Filtrado anisotrópico (AF)
+UI_OPTS_VIDEO_LOD_BIAS,125319601973030912,Detalle Sesgado
+UI_OPTS_VIDEO_LOD_BIAS_MESSAGE,125319668360474624,"Determina a qué distancias el juego cambiará a modelos con menor detalle. Cerca significa que el juego cambiará a modelos con menor detalle a distancias más cortas. Lejos mantendrá visibles los modelos con mayor detalle a mayor distancia.<br><br>Valores válidos: Cerca, Medio, Lejos"
+UI_OPTS_VIDEO_LOD_BIAS_TITLE,125319602748977152,Nivel de Detalle Sesgado
+UI_OPTS_VIDEO_MAX_FRAMERATE,125319872685993984,Fotograma objetivo
+UI_OPTS_VIDEO_MAX_FRAMERATE_MESSAGE,125319874451795968,La velocidad de fotogramas objetivo a la que se renderizará. El juego se limitará a este máximo de fotogramas si Vsync está desactivado.
+UI_OPTS_VIDEO_MAX_FRAMERATE_TITLE,125319873696821248,Fotograma objetivo
+UI_OPTS_VIDEO_MIP_LEVEL,125319559472148480,Detalle de textura
+UI_OPTS_VIDEO_MIP_LEVEL_MESSAGE,125319561854513152,"Influye en la resolución máxima de textura que se mostrará para los objetos cuando te acerques a ellos.<br><br>Valores válidos: Bajo, Medio, Alto"
+UI_OPTS_VIDEO_MIP_LEVEL_TITLE,125319560499752960,Detalle de textura
+UI_OPTS_VIDEO_PARTICLES,126920735510687744,Partículas FX
+UI_OPTS_VIDEO_PARTICLES_MESSAGE,126920738727718912,"Establece el presupuesto para simular efectos de partículas. Valores válidos: Muy bajo, Bajo, Medio, Alto, Muy alto, Ultra"
+UI_OPTS_VIDEO_PARTICLES_TITLE,126920737293266944,Calidad de partículas FX
+UI_OPTS_VIDEO_REFLECTION_PROBES,126920473559625728,Sondas de Reflexión
+UI_OPTS_VIDEO_REFLECTION_PROBES_MESSAGE,126920477464522752,Habilita/deshabilita la mayoría de los reflejos en objetos brillantes.
+UI_OPTS_VIDEO_REFLECTION_PROBES_TITLE,126920475723886592,Sondas de Reflexión
+UI_OPTS_VIDEO_RENDER_SCALE,125319683069898752,Escala de renderizado
+UI_OPTS_VIDEO_RENDER_SCALE_MESSAGE,125319687503278080,La resolución fraccionaria para renderizar el juego. Renderizar a la mitad de la resolución con técnicas avanzadas de escalado como FSR puede mejorar el rendimiento en hardware más débil.
+UI_OPTS_VIDEO_RENDER_SCALE_TITLE,125319685288685568,Escala de renderizado/resolución
+UI_OPTS_VIDEO_SHADOW_DIST,125319774736412672,Distancia de la sombra
+UI_OPTS_VIDEO_SHADOW_DIST_MESSAGE,125319779064934400,Distancia máxima (en metros) en la que se deben renderizar las sombras.
+UI_OPTS_VIDEO_SHADOW_DIST_TITLE,125319776976171008,Distancia de la sombra
+UI_OPTS_VIDEO_UPSCALE,125319726942318592,Modo de upscaling
+UI_OPTS_VIDEO_UPSCALE_MESSAGE,125319730742358016,"El algoritmo de upscaling utilizado cuando se ejecuta en una escala de renderizado inferior a la completa.<br><br>Valores válidos: Automático, Lineal, Punto, FSR"
+UI_OPTS_VIDEO_UPSCALE_TITLE,125319728750063616,Modo de upscaling
+UI_OPTS_VIDEO_VSYNC,125319825374244864,Vsync
+UI_OPTS_VIDEO_VSYNC_MESSAGE,125319828494807040,Habilita Vsync para bloquear la velocidad de cuadros del juego para que coincida con tu monitor.
+UI_OPTS_VIDEO_VSYNC_TITLE,125319826980663296,Vsync
+UI_PLAYERHEALTH_DEAD_TAG,99604842866995200,Muerto
+UI_PLAYERHEALTH_EVAC_TAG,99604906628804608,Evacuación
+UI_PLAYERHEALTH_READY_TAG,99604904921722880,Listo
+UI_REQUIREMENT_SOLARSYSTEM_ANY_FMT,98651080823398400,Completa cualquier sistema en {difficulty}{ascension:cond:>0? A{}|}
+UI_RESPAWN_DISABLED_ENRAGE,107174836495704064,[ No puedes reaparecer mientras los cazadores están enfurecidos ]
+UI_REWARDS_TITLE,119244486947627008,Recompensas:
+UI_SCIENCE_TERMINAL_FLAIR,106878078557347840,Estilo
+UI_SCIENCE_TERMINAL_MUTATIONS,106880718389370880,Mutaciones
+UI_SCIENCE_TERMINAL_OUT_OF_ORDER,106876639986573312,Fuera de servicio
+UI_SCIENCE_TERMINAL_ULTIMATES,106877299511517184,Habilidades definitivas
+UI_SHRINE,120241898113720320,Santuario
+UI_TRADER_HEADER_INVENTORY,107210341685911552,Inventario
+UI_TRADER_HEADER_STOCK,107210343497850880,Existencias
+UI_UPGRADE_GRID_PRICE,107303458900533248,Precio:
+UI_UPGRADEGRID_ACTIVATE,121792391482957824,Activar [InputAction:UI/Submit]
+UI_XPBAR_MAX_LEVEL,107284882940485632,Nivel máximo
+UI_XPBAR_TEAM_LEVEL,107284703369748480,Nivel de equipo
+ANNOUNCE_VOLCANO_APPEASED,131660659371732992,El sacrificio de {PlayerName} apaciguó el volcán… por ahora.
+UI_INPUT_BINDING,139486680678592512,{ActionTxt}
+UI_REQUIREMENT_GATHER_FISH,136973330114666496,Usa la caña de pescar para atrapar {Count} peces
+UI_INPUT_ACTIONBINDING,139496731506044928,{ActionTxt} {BindingTxt}
+UI_MODE_SELECT_CONTINUE_RUN_LBL,140158990804774912,Continuar partida
+UI_REQUIREMENT_GATHER_TECH,136973328260784128,Usa la motosierra para recolectar {Count} piezas de tecnología antigua
+UI_REQUIREMENT_SELL_TO_MIKE,136944070914203648,Vende {Count} {Category} al comerciante Mike
+UI_REQUIREMENT_GATHER_MINERALS,136944068905132032,Usa el pico para recolectar {Count:p:{} mineral|{} minerales}
+UI_REQUIREMENT_COMPLETE_EVENT,136597483742552064,Completa {Event} {Count} veces.
+UI_REQUIREMENT_KILL_ENEMIES_SHINY,136597477987966976,Elimina {Count} enemigos brillantes
+UI_REQUIREMENT_KILL_ENEMIES,136597475844677632,Elimina {Count} enemigos
+UI_REQUIREMENT_EQUIP_FLAIR,140282578621947904,Equipa {Count} {Count:p:pieza|piezas} de estilo
+UI_REQUIREMENT_COLLECT_CURRENCY,140348598019678208,Recolecta {Count} muestras
+UI_REQUIREMENT_EQUIP_ARTIFACT,140351594451427328,Recolecta {Count} artefactos de carne misteriosa
+END_STAGE_STAT_PERCENT_FMT,142124716963913728,{Value} %
+END_STAGE_STAT_INTEGER_FMT,142124898896044032,{Value:N0}
+UI_REWARD_ARTIFACT,142336906761330688,+ Desbloquea artefacto: {name}
+UI_REWARD_FLAIR,142336905540788224,+ {count}x Estilo {name}
+UI_REWARD_ITEM,142336904211193856,+ Desbloquea objeto: {name}
+UI_REWARD_MUTATION,142336902256648192,+ Desbloquea mutación: {name}
+UI_ATTRIBUTE_FORMAT_ADD,145644464880214016,{value:+#.##;-#.##;+0} {name}
+UI_ATTRIBUTE_FORMAT_MODIFY,145644467124166656,{value:+#.##;-#.##;+0}% {name}
+UI_ATTRIBUTE_FORMAT_MULTIPLY,145644469351342080,{value:0.##}x {name}
+END_STAGE_BANKED_TIME,141631395652952064,Tiempo acumulado
+END_STAGE_COLLECTED,139159828419305472,Recolectado
+END_STAGE_CONTINUE,140249455477645312,Continuar
+END_STAGE_CURRENCY_FMT,140231091493527552,<color=#{ColorStr}>{Have}/{Total}</color>
+END_STAGE_EMPLOYEE_PAYCHECK,139153944297332736,Cheque de empleado
+END_STAGE_FAILURE,140219057079050240,¡Fallaste!
+END_STAGE_HEADER_DETAILS,142119018918043648,Detalles
+END_STAGE_HEADER_OVERVIEW,141982115854016512,Resumen
+END_STAGE_PLANET_CONSUMPTION,139154114636406784,Consumo del planeta
+END_STAGE_RANGUS_EFFORT_HEADER,139484643088916480,Total de puntos de esfuerzo de Rangus obtenidos
+END_STAGE_RANGUS_MEAT_CORP,139165149061701632,Rangus Meat S.A.
+END_STAGE_ROX_1,139165587479715840,ROX-1
+END_STAGE_RUN_FAILED,142733138839199744,¡Partida perdida!
+END_STAGE_RUN_FAILED_HARVESTER,142745765409710080,Cosechadora destruida
+END_STAGE_STAT_ACCURACY,142123586842255360,Precisión
+END_STAGE_STAT_DAMAGE_RECV,142123785182502912,Daño recibido
+END_STAGE_STAT_DEATHS,142123911540105216,Muertes
+END_STAGE_STAT_HEALING_RECV,142123835145052160,Curación recibida
+END_STAGE_STAT_RESOURCES,142123729591197696,Recursos recolectados
+END_STAGE_STAT_WEAKPOINT,142123643654103040,Impactos en puntos débiles
+END_STAGE_SUCCESS,140216425350422528,¡Éxito!
+END_STAGE_TAB_DATA,141691025213087744,Datos
+END_STAGE_TAB_STATS,141691065801367552,Estadísticas
+END_STAGE_TIME_FMT,141631639568506880,<color=#80FF00>{SecondsRemaining:secondstotime()}</color>
+END_STAGE_WAITING,142327585608556544,Esperando al anfitrión…
+IA_AddQuantity,139445879147786264,Agregar cantidad
+IA_Adjust,139445879147786267,Ajustar
+IA_ArtifactAbility,139445879143591945,Usar artefacto
+IA_BugShot,139445879147786245,BugShot
+IA_CameraMovement,139445879143591937,Movimiento de cámara
+IA_CameraRotation,139445879147786265,Rotación de cámara
+IA_Cancel,139445879147786248,Cancelar
+IA_CharacterMovement,139445879047122944,Movimiento del personaje
+IA_Click,139445879147786250,Clic
+IA_ElevationMovement,139445879147786270,Movimiento de elevación
+IA_ExitScreen,139445879147786274,Salir de la pantalla
+IA_FollowNextPlayer,139445879147786271,Seguir al siguiente jugador
+IA_HeadAbility,139445879143591941,Habilidad de la cabeza
+IA_Interact,139445879147786257,Interactuar
+IA_ItemRewardInit,139445879143591943,Iniciar selección de recompensa
+IA_ItemRewardSelect1,139445879147786275,Seleccionar recompensa 1
+IA_ItemRewardSelect2,139445879147786276,Seleccionar recompensa 2
+IA_ItemRewardSelect3,139445879147786277,Seleccionar recompensa 3
+IA_ItemRewardSelect4,139445879147786278,Seleccionar recompensa 4
+IA_ItemRewardSelect5,139445879147786279,Seleccionar recompensa 5
+IA_ItemRewardSelect6,139445879147786280,Seleccionar recompensa 6
+IA_Jump,139445879143591936,Saltar
+IA_LegsAbility,139445879143591942,Habilidad de las piernas
+IA_MarkTarget,139445879143591944,Marcar objetivo
+IA_MaxQuantity,139445879147786262,Cantidad máxima
+IA_MeleeFire,139445879143591939,Cuerpo a cuerpo
+IA_MiddleClick,139445879147786252,Clic central
+IA_MinQuantity,139445879147786261,Cantidad mínima
+IA_Modify,139445879147786268,Modificar
+IA_Navigate,139445879147786246,Navegar
+IA_NextSubTab,139445879147786260,Siguiente subpestaña
+IA_NextTab,139445879147786256,Siguiente pestaña
+IA_Point,139445879147786249,Punto
+IA_PreviousSubTab,139445879147786259,Subpestaña anterior
+IA_PreviousTab,139445879147786255,Pestaña anterior
+IA_PrimaryAimAssist,139445879143591946,Asistencia de puntería
+IA_ProfilerMode,139445879147786242,Modo de análisis
+IA_ProfilerToggle,139445879147786241,Activar/desactivar análisis
+IA_PushToTalk,139445879147786244,Pulsar para hablar
+IA_RangedFire,139445879143591938,Disparar
+IA_Revert,139445879147786254,Revertir
+IA_RightClick,139445879147786253,Clic derecho
+IA_ScrollWheel,139445879147786251,Rueda de desplazamiento
+IA_ShowHelp,139445879147786272,Mostrar ayuda
+IA_SkipCinematic,139445879147786281,Omitir cinemática
+IA_StopFollow,139445879147786273,Dejar de seguir
+IA_SubActionThingOnController,139445879147786258,Acción secundaria
+IA_Submit,139445879147786247,Enviar
+IA_SubtractQuantity,139445879147786263,Restar cantidad
+IA_Toggle Console,139445879147786240,Activar/desactivar consola
+IA_ToggleInspectionOverlay,139445879147786283,Activar/desactivar superposición de inspección
+IA_ToggleMeatControls,139445879147786282,Activar/desactivar controles de carne
+IA_ToggleOptionsMenu,139445879147786243,Activar/desactivar menú de opciones
+IA_ToggleZoom,139445879147786269,Activar/desactivar zoom
+IA_TorsoAbility,139445879143591940,Habilidad del torso
+IA_WarpSpeed,139445879147786266,Velocidad de desplazamiento
+IA_WeaponSelectPrimary,139445879143591948,Seleccionar arma (principal)
+IA_WeaponSelectSecondary,139445879143591949,Seleccionar arma (secundaria)
+IA_WeaponSwitch,139445879143591947,Cambiar arma
+IB_down,139484177383747585,Abajo
+IB_left,139484177383747586,Izquierda
+IB_right,139484177383747587,Derecha
+IB_up,139484177383747584,Arriba
+LE_AnisotropicFiltering_Disable,139512957397561344,Desactivar
+LE_AnisotropicFiltering_Enable,139512957397561345,Activar
+LE_AnisotropicFiltering_ForceEnable,139512957397561346,Forzar activación
+LE_EFrameLimit_OneTwenty,139459172264505370,120 Hz
+LE_EFrameLimit_Sixty,139459172264505369,60 Hz
+LE_EFrameLimit_Thirty,139459172264505368,30 Hz
+LE_ELODBias_Close,139459172264505348,Cerca
+LE_ELODBias_Far,139459172264505350,Lejos
+LE_ELODBias_Medium,139459172264505349,Medio
+LE_EMSAALevel_MSAA2,139459172264505345,MSAAx2
+LE_EMSAALevel_MSAA4,139459172264505346,MSAAx4
+LE_EMSAALevel_MSAA8,139459172264505347,MSAAx8
+LE_EMSAALevel_Off,139459172264505344,Desactivado
+LE_EMipDetailLevel_High,139459172264505358,Alto
+LE_EMipDetailLevel_Low,139459172264505356,Bajo
+LE_EMipDetailLevel_Medium,139459172264505357,Medio
+LE_EParticlesQuality_High,139459172264505362,Alta
+LE_EParticlesQuality_Low,139459172264505360,Baja
+LE_EParticlesQuality_Medium,139459172264505361,Media
+LE_EParticlesQuality_Ultra,139459172264505364,Ultra
+LE_EParticlesQuality_VeryHigh,139459172264505363,Muy alta
+LE_EParticlesQuality_VeryLow,139459172264505359,Muy baja
+LE_ERenderScale_Half,139459172264505354,Mitad
+LE_ERenderScale_Normal,139459172264505355,Normal
+LE_EShadowDistance_Close,139459172264505351,Cerca
+LE_EShadowDistance_Far,139459172264505353,Lejos
+LE_EShadowDistance_Medium,139459172264505352,Medio
+LE_EVoiceChatActivationType_OpenMic,139509073585303554,Micrófono abierto
+LE_EVoiceChatActivationType_PushToTalk,139509073585303552,Pulsar para hablar
+LE_EVoiceChatActivationType_Toggle,139509073585303553,Alternar
+LE_EWindowStyle_FullScreen,139459172264505365,Pantalla completa
+LE_EWindowStyle_FullScreenWindowed,139459172264505366,Pantalla completa (ventana)
+LE_EWindowStyle_Windowed,139459172264505367,Ventana
+LE_UpscalingFilterSelection_Auto,139512957397561347,Automático
+LE_UpscalingFilterSelection_FSR,139512957397561350,FSR
+LE_UpscalingFilterSelection_Linear,139512957397561348,Lineal
+LE_UpscalingFilterSelection_Point,139512957397561349,Puntual
+QUESTS_COMPLETED_TOAST_DESCRIPTION,135081248315924480,Habla con Carl para reclamar tus recompensas
+QUEST_COMPLETED_NOTIFICATION_TITLE,135081004761079808,¡Misiones completadas!
+RANGUS_FILE_CONSUMED_PROMPT,129670008638791680,Archivo de Rangus ya descubierto
+RANGUS_FILE_MARKER_CLAIMED_TEXT_FMT,131574576540803072,Archivo de Rangus: {TextName}<br>(Ya descubierto)
+RANGUS_FILE_MARKER_TEXT_FMT,130476658312339456,Archivo de Rangus: {TextName}
+RAW_TEXT_FMT,130499560646631424,{Text}
+UI_CARLTERMINAL_CHALLENGES,139166315988377600,Desafíos
+UI_CARLTERMINAL_CLAIM_BTN_CLAIMED,142385861473853440,Reclamado
+UI_CARLTERMINAL_CLAIM_BTN_LOCKED,142385863298375680,Bloqueado
+UI_CODEX_ENEMIES_TAB,135116477412704256,Criaturas
+UI_False,139510450587889664,Falso
+UI_INSPECT_MUTATION_SUBTITLE,132645578322468864,Mutaciones
+UI_INTERACTION_MUTATION,133755069285785600,Reclamar mutación:<color={RewardColor}>{TextName}</color><br><br>{Description}
+UI_INTERACTION_WEAPON,131103886683398144,Reclamar arma: {Text}
+UI_INTERACTION_WEAPON_TITLE,131105138871885824,Arma
+UI_OBJECTIVES_TITLE,141649218399887360,Objetivos:
+UI_RUNINFO_ENEMY_HEALTH_FMT,127528200000000000,> Salud de enemigos: +{percent} %
+UI_RUNINFO_TIME_FMT,127528100000000000,Tiempo en el sistema: {time}
+UI_True,139510449321209856,Verdadero
+UI_MAX_STACKS_FMT,150353972479123456,Acumulaciones máximas: {count}
+CELEBRATION_BANNER_MUTATION_UNLOCKED,157196339714711552,¡Mutación desbloqueada!
+CELEBRATION_BANNER_ITEM_UNLOCKED,157196341396627456,¡Objeto desbloqueado!
+CELEBRATION_BANNER_FLAIR_UNLOCKED,157196345850978304,¡Estilo desbloqueado!
+CELEBRATION_BANNER_ARTIFACT_UNLOCKED,157204905355894784,¡Artefacto desbloqueado!
+MAIN_MENU_DISCORD_REPORT_BUG_BUTTON,160623538572615680,Reportar un error
+UI_MAIN_MENU_REPORT_BUG_MESSAGE,160864087942619136,"Si quieres reportar un bug o dejarnos tu opinión sobre el juego, ¡entra a nuestro Discord!"
+OPTS_MULTIPLAYER_HOST_MODE,160914647022559232,Visibilidad del lobby
+OPTS_HOST_MODE_PUBLIC,160920542238466048,Público
+OPTS_HOST_MODE_FRIENDS,160920542238466049,Solo amigos
+OPTS_HOST_MODE_PRIVATE,160920542238466050,Privado
+UI_MULTIPLAYER_HOST_MODE_HELP_TITLE,160920542238466051,Visibilidad del lobby
+UI_MULTIPLAYER_HOST_MODE_HELP_MESSAGE,160920542238466052,Controla quién puede unirse a tu partida. Público: cualquiera puede unirse desde la lista de lobbies. Solo amigos: solo tus amigos de Steam pueden ver y unirse a tu lobby. Privado: tu partida no aparecerá en la lista de lobbies.
+UI_NEWSAVE_TITLE,161300188696141824,Configuración de nuevo empleado
+UI_NEWSAVE_PLAY_TUTORIAL,161300196812120064,Jugar el tutorial
+UI_NEWSAVE_TUTORIAL,161325451916075008,Tutorial
+UI_NEWSAVE_SUBTITLE,161325468882034688,Esto puede cambiarse antes de cualquier partida ajustando la configuración de la partida.
+UI_NEWSAVE_SCREENTITLE,161550229604130816,Selecciona tu dificultad inicial
+UI_CODEX_TIER_UNDISCOVERED,163840130551836672,???
+UI_CARLTERMINAL_MAINLINE_PROGRESS,164591723147681792,PRINCIPAL {Current} DE {Total}:
+CELEBRATION_BANNER_CODEX_HINT,157204904043077632,Entrada agregada al códice
+CELEBRATION_BANNER_CONFIRM,157229979689541632,Confirmar
+CELEBRATION_BANNER_FLAIR_EQUIP_HINT,157204896069705728,*Equípalo en el Hamburtrueno
+CELEBRATION_BANNER_NEW_QUESTLINE_UNLOCKED,157204890768105472,Nueva línea de misiones desbloqueada: {name}
+CELEBRATION_BANNER_QUEST_COMPLETE,157196335902089216,¡Misión completada!
+CELEBRATION_BANNER_RANK_HEADING,157240833617158144,Rango de empleado {rank}
+CELEBRATION_BANNER_RANK_INCREASED,157196347440619520,¡Subiste de rango de empleado!
+CELEBRATION_BANNER_REWARDS_EARNED,157243622590242816,Recompensas obtenidas
+CELEBRATION_BANNER_RP_TO_NEXT_RANK,157204893980942336,RP para el siguiente rango: {amount}
+CELEBRATION_BANNER_WEAPON_EQUIP_HINT,157204901467774976,*Equípalo en el Almacén de carne
+CELEBRATION_BANNER_WEAPON_UNLOCKED,157238824793006080,¡Arma desbloqueada!
+CODEX_TOAST_HEADER_ARTIFACT,158291413488664576,¡Nuevo artefacto!
+CODEX_TOAST_HEADER_CREATURE,158291454114693120,¡Nueva criatura!
+CODEX_TOAST_HEADER_CURRENCY,158291422971985920,¡Nuevo recurso!
+CODEX_TOAST_HEADER_GENERIC,158291396984078336,¡Nuevas entradas!
+CODEX_TOAST_HEADER_ITEM,158291406320599040,¡Nuevo objeto!
+CODEX_TOAST_HEADER_MEAT,158291431851327488,¡Carne nueva!
+CODEX_TOAST_HEADER_RANGUS_FILE,158291467289001984,¡Nuevo archivo Rangus!
+CODEX_TOAST_SUBHEADER,158291475207847936,Agregado al códice
+END_STAGE_HEADER_PLANET_STATS,144853505636556800,Estadísticas del planeta
+END_STAGE_MEAT_CORE_SECURED,144127700346331136,Núcleo de carne asegurado
+IA_SurpriseMe,145669286033088512,Sorpréndeme
+INFORMATION_TERMINAL_TITLE,159254944652492800,Códice
+LEVEL_UP_AUTO_SELECT_FMT,160182415509151744,Selección automática en: <color=#FF0080>{Seconds}</color> s
+LEVEL_UP_EXIT,146737720124760064,[InputAction:Cancel] Salir de la selección de mejoras
+LEVEL_UP_IN_SECONDS_FMT,160177751237582848,Pausa en <color=#FF0080>{Seconds:0.0}</color>
+LEVEL_UP_STILL_SELECTING_TITLE,160189906225717248,Los científicos de la carne siguen reflexionando…
+LE_EDrawDistance_Close,155444035605950464,Cerca
+LE_EDrawDistance_Far,155444035631116289,Lejos
+LE_EDrawDistance_Medium,155444035631116288,Media
+TUTORIAL_COMPLETE_TITLE,158105394041839616,Certificado de finalización
+TUTORIAL_COMPLETION_CARL_NAME,158106223612256256,"Carl Rangus, CEO"
+TUTORIAL_COMPLETION_SIGNED,158106159250661376,Firmado:
+TUTORIAL_COMPLETION_SQUISHIE_NAME,158105683281043456,Blandito
+TUTORIAL_COMPLETION_SUBTITLE_01,158105588380721152,Por la presente se certifica que
+TUTORIAL_COMPLETION_SUBTITLE_02,158105801833046016,"ha superado con éxito el <color=#FFC700>Programa de orientación para empleados</color>.<br>¡Felicidades por convertirte en miembro oficial del equipo Rangus!<br><br>¡Ahora salgamos, <color=#FFC700>recolecta carne</color> y <color=#FFC700>alimenta a la galaxia</color>!"
+UI_ATTRIBUTE_ADD_FMT,153254426577985536,{value:+#.##;-#.##;+0}
+UI_ATTRIBUTE_MODIFY_FMT,153254478088232960,{value:+#.##;-#.##;+0} %
+UI_ATTRIBUTE_MULTIPLY_FMT,153254480353157120,{value:0.##}x
+UI_BEING_REVIVED_BY,160196323477282816,{Name} está reviviendo
+UI_BENEFITS_PERKS_TITLE,157261430313181184,Ventajas
+UI_BENEFITS_TERMINAL,155021233676607488,Terminal de beneficios
+UI_INTERACTION_REVIVE,159415565250715648,Revivir
+UI_INTERACTION_REVIVE_TARGET,160116078837489664,{Name}
+UI_LEADERBOARD_RANK_EMPTY,152933015493795840,Recursos Humanos no está disponible en este momento.
+UI_LEADERBOARD_RANK_NAME,152933011416932352,Nombre
+UI_LEADERBOARD_RANK_RANK,152933013824462848,Puesto
+UI_LEADERBOARD_RANK_TITLE,152933007226822656,Empleados del mes
+UI_OPTS_KEYWORD_POPUPS,152564154714021888,Ventanas de palabras clave
+UI_OPTS_KEYWORD_POPUPS_HELP_MESSAGE,152564183084294144,Muestra descripciones emergentes de las palabras clave mencionadas en las descripciones.
+UI_OPTS_KEYWORD_POPUPS_HELP_TITLE,152564181515624448,Ventanas de palabras clave	
+UI_OPTS_VIDEO_DRAW_DIST,155444200114941952,Distancia de dibujado
+UI_OPTS_VIDEO_DRAW_DIST_MESSAGE,155444247250530304,"Qué tan lejos renderiza el juego la geometría y los objetos distantes. Los valores bajos reducen el costo de GPU y CPU, recomendado en hardware modesto como Steam Deck. Los valores altos muestran más del mundo a costa del rendimiento."
+UI_OPTS_VIDEO_DRAW_DIST_TITLE,155444221707218944,Distancia de dibujado
+UI_PLAYERHEALTH_DOWNED_TAG,159415579876253696,DERRIBADO
+UI_REQUIREMENT_FULL_VERSION,145016599318880256,Requiere la versión completa
+UI_REQUIREMENT_PERKRANK,157717392333463552,Desbloquea una Ventaja
+UI_REQUIREMENT_PERKTRACK_RANK,155367902129676288,{track} Rango {rank:roman()}
+UI_REWARD_UI_SURPRISE_ME,145620353626861568,Sorpréndeme
+UI_REWARD_UI_SURPRISE_ME_KEY,145639277600894976,[InputAction:LevelUpScreen/SurpriseMe]
+UI_SELECT_UPGRADE_COUNT_FMT,152555780165328896,Selecciona mejora +{Count}
+UI_SHIP_TOUR_BOLT_BURGERS,154378478273159168,<color=#FFC700>Hamburtruenos</color>: Elige tu equipamiento y comienza una partida aquí.
+UI_SHIP_TOUR_EMPLOYEE_HANDBOOK,154378456194342912,"<color=#FFC700>Códice</color>: Consulta enemigos, objetos e historia."
+UI_SHIP_TOUR_FLAIR_TERMINAL,154378473181274112,<color=#FFC700>Terminal de estilo</color>: Desbloquea y mejora estilos para obtener bonificaciones pasivas.
+UI_SHIP_TOUR_JUKEBOX,154378475714633728,<color=#FFC700>Rocola</color>: Cambia la música de la nave.
+UI_SHIP_TOUR_MEAT_LOCKERS,154378383981010944,<color=#FFC700>Almacenes de carne</color>: Elige aquí tu carne cosmética.
+UI_SHIP_TOUR_MEAT_MARKET,154378474439565312,<color=#FFC700>Mercado de carne</color>: Echa un vistazo a una selección de carnes aleatorias.
+UI_SHIP_TOUR_NAVIGATION_TERMINAL,154378479544033280,<color=#FFC700>Terminal de navegación</color>: Elige tu próximo destino y la dificultad.
+UI_SHIP_TOUR_SHOOTING_RANGE,154378477010673664,<color=#FFC700>Campo de tiro</color>: Practica con tus armas antes de una partida.
+UI_SHIP_TOUR_SMART_MEAT_TERMINAL,154378470564028416,<color=#FFC700>Terminal de beneficios de empleado</color>: Desbloquea y mejora tus beneficios de empleado.
+UI_SHIP_TOUR_WEAPON_TERMINAL,154378471918788608,<color=#FFC700>Terminal de armas</color>: Desbloquea y mejora armas.
+UI_UPGRADE_COUNT_FMT,152141631115485184,+{Count}
+UI_UPGRADE_EMPTY_SLOT,152531288336621568,Espacio vacío
+UPGRADE_STATION,158017480964431872,Estación de mejoras
+UI_CODEX_MUTATIONS_TAB,165154895239831552,Mutaciones
+UI_CODEX_MUTATIONS_FIRE_TITLE,165154895248220160,Fuego
+UI_CODEX_MUTATIONS_ICE_TITLE,165154895248220161,Hielo
+UI_CODEX_MUTATIONS_SLIME_TITLE,165154895248220162,Limo
+UI_CODEX_MUTATIONS_ELECTRIC_TITLE,165154895248220163,Eléctrico
+UI_CODEX_MUTATIONS_KINETIC_TITLE,165154895248220164,Cinético
+UI_CARLTERMINAL_COMPLETE_ALL_TO_EARN,164593566355546112,Completa todas las misiones para ganar:
+UI_SAVEMGMT_SELECT_EMPLOYEE,165569668465025024,Seleccionar empleado
+UI_SAVEMGMT_LAST_PLAYED,165571657299124224,Última partida
+UI_SAVEMGMT_RANGUS_FILES,165589631661760512,Archivos de Rangus:
+UI_SAVEMGMT_EMPTY_SLOT_HEADER,164865773950459904,VACÍO
+UI_OPTS_MARK_ALL_READ,165623256277049344,Marcar todo como leído
+LE_EFrameLimit_TwoForty,169126859746828288,240 Hz
+PLAYER_DOWN_ANNOUNCEMENT,162770743492337664,¡{Player} cayó!
+UI_ANNOUNCEMENT_BOSS_WARNING_EXECUVATOR,162681204534927360,¡Presidente Rompecuellos firma ÓRDENES EJECUTIVAS!
+UI_ANNOUNCEMENT_BOSS_WARNING_JUDGEMENTALITS,162681227154808832,¡El Juez Reptante DENIEGA TU MOCIÓN!
+UI_ANNOUNCEMENT_BOSS_WARNING_LEGISMATOR,162681121139580928,Pork Barrel Pete usa EL FILIBUSTERISMO
+UI_CINEMATIC_PROLOGUE_TEXT1,165560353607901184,"Rangus Meat Co. alguna vez alimentó a la galaxia. En su apogeo, empleaba a millones en docenas de sistemas estelares.<br><br>Cuando su «ciencia cárnica» exclusiva se llevó demasiado lejos, un portal se abrió en el universo. Todo lo que tocó fue aniquilado o transformado.<br><br>Carl Rangus escapó. La mayoría no."
+UI_CINEMATIC_PROLOGUE_TEXT2,165560955771543552,"«Aquí en Rangus no solo cosechamos carne,<br>¡cosechamos héroes... como tú!»<br><br><br>–Carl Rangus, Fundador y Director General<br>(anuncio de reclutamiento recuperado, fecha desconocida)"
+UI_LEADERBOARD_NUKE_KILLS,163035281710112768,Incidentes laborales: Nucleares
+UI_LEADERBOARD_RANK_SCORE,163032451393773568,Puntuación
+UI_SAVEMGMT_RANGUS_FILES_DATA,164863994869309440,{Found}/{Total}
+UI_SYSTEMNAME_RANDOM,165564842473676800,Sistema aleatorio
+UI_SYSTEMNAME_S2,165564616182587392,La Insensatez de Plumtor
+UI_SYSTEMNAME_S3,165564619336704000,Omnikron
+UI_SYSTEMUNLOCK,165563304946688000,nuevo sistema desbloqueado
+CELEBRATION_BANNER_FLAIR_DISPENSED,182655213074636800,¡Estilo entregado!
+CELEBRATION_BANNER_FLAIR_HEADING_FMT,178255509733761024,{count}x Estilo {name}
+CELEBRATION_BANNER_FLAIR_SKIP_FMT,185871235538677760,Presiona {Button} para saltar
+DEATHCERTIFICATE_CRITS,179093814876561411,CRÍTICOS
+DEATHCERTIFICATE_DAMAGE,179093814876561409,DAÑO
+DEATHCERTIFICATE_DEAD_MEAT,179093814876561408,CARNE MUERTA
+DEATHCERTIFICATE_DPS,179093814876561412,DPS
+DEATHCERTIFICATE_KILLED_BY_SPIDER,179093814876561416,ASESINADO POR <color=#FFC700>ARAÑA</color>
+DEATHCERTIFICATE_KILLS,179093814876561410,BAJAS
+DEATHCERTIFICATE_ON_THE_VERY_EVE_OF_HIS_4TH_BIRTHDAY,179093814876561417,EN LA MERA VÍSPERA DE SU 4.º CUMPLEAÑOS
+DEATHCERTIFICATE_RUN_FAILED,179093814868172800,¡PARTIDA FALLIDA!
+DEATHCERTIFICATE_SIGNED_CARL_RANGUS_CEO,179093814876561415,"Firmado:<br><color=#FFFFFF>Carl Rangus, Director general</color>"
+DEATHCERTIFICATE_THE_RANGUS_CORPORATION_HEREBY_ACKNOWLEDGES_THE_D,179093814876561413,La Corporación Rangus reconoce por la presente el fallecimiento de
+DEATHCERTIFICATE_YOUR_CONTRIBUTIONS_TO_RANGUS_MEAT_CO_WILL_NEVER,179093814876561414,Tus contribuciones a Rangus Meat Co jamás serán olvidadas
+END_STAGE_RUN_ABANDONED,178656993092820992,Partida abandonada
+HUNTER_INCAPACITATED,169893516064841728,Incapacitado
+IA_ProfilerCapture,170595270909747200,ProfilerCapture
+IB_Profiler Capture Chord,170595270913941504,Profiler Capture Chord
+IB_modifier,170595270913941505,modificador
+LE_ECameraDistance_Far,174992531034988545,Lejos
+LE_ECameraDistance_Medium,174992531034988544,Medio
+LE_ECameraDistance_Near,174992531030794240,Cerca
+MODE_SELECT_CONTINUE_BTN,175310263911702528,Continuar
+MODE_SELECT_LOAD_SAVE_BTN,175310282018512896,Cargar / Nueva partida
+UI_FLAIRTERMINAL_INSERT_COIN,177509684464312320,"Inserta <sprite name=""CarlCoin""> monedas de Carl"
+UI_FLAIRTERMINAL_INSERT_COST,182665081978347520,Inserta {count} {icon} {name}
+UI_FLAIRTERMINAL_REQUIRES_COIN,177529825763778560,"<color=#FF0000>Requiere <sprite name=""CarlCoin""> Carl Coin</color>"
+UI_FLAIRTERMINAL_REQUIRES_COST,182665090496978944,<color=#FF0000>Requiere {count} {icon} {name}</color>
+UI_ITEM_ONADD_TRIGGER,176120503238385664,Al agregar
+UI_LOADOUT_COL_CONSUMABLES,182248566531547136,Consumibles
+UI_LOADOUT_COL_WEAPONS,182248564694441984,Armas
+UI_LOADOUT_FLAIR_EMPTY_DESC,182260794391519232,Desbloquea Estilo en la Terminal de Estilo
+UI_LOADOUT_SAVE_EXIT,182247692602171392,Guardar y salir
+UI_LOCATION_CARD_DIFFICULTY_FMT,175384575272280064,Dificultad: {difficulty}
+UI_LOCATION_CARD_HEADER,175386164208852992,Ubicación
+UI_LOCATION_CARD_SYSTEM_FMT,175384551528325120,S{index} | {system}
+UI_MEATOFFERING_REQUIREMENT,176036607361478656,<color=red>Requiere partes de carne equipadas</color>
+UI_OPTS_VIDEO_BLOOM,182327216559874048,Bloom
+UI_OPTS_VIDEO_BLOOM_MESSAGE,182327251011887104,"Activa el resplandor de bloom alrededor de luces y efectos brillantes. Desactívalo para reducir el deslumbramiento y la fatiga visual, o si las escenas brillantes se ven lavadas."
+UI_OPTS_VIDEO_BLOOM_TITLE,182327234784124928,Bloom
+UI_OPTS_VIDEO_CAMERA_DISTANCE,174991015364517888,Distancia de la cámara
+UI_OPTS_VIDEO_CAMERA_DISTANCE_MESSAGE,174991034385686528,Ajusta qué tan lejos se sitúa la cámara detrás de tu personaje.
+UI_OPTS_VIDEO_CAMERA_DISTANCE_TITLE,174991024080281600,Distancia de la cámara
+UI_REQUIREMENT_STAT_FLAIRPULLS_FMT,178238717753810944,Recolecta {count} Estilo
+UI_SAVEMGMT_MSGBOX_ABANDON_RUN_CONFIRM,176120214003376128,Abandonar partida
+UI_SAVEMGMT_MSGBOX_ABANDON_RUN_MSG,176120210866036736,¿Abandonar la partida en curso del Empleado {EmployeeNumber}?<br>Volverás al vestíbulo. Esto no se puede deshacer.
+UI_SAVEMGMT_MSGBOX_ABANDON_RUN_TITLE,176120204733964288,¿Abandonar partida?
+UI_SAVEMGMT_RUN_IN_PROGRESS,175380214638960640,Partida en curso

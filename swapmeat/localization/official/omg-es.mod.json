@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "OMG Spanish",
+  "localization": {
+    "locale": "es",
+    "displayName": "español"
+  }
+}

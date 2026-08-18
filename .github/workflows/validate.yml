@@ -1,0 +1,16 @@
+name: validate
+
+# Runs on every pull request. A red check means a maintainer never has to hunt for the problem —
+# the log names it, the contributor fixes it, and humans only ever review green.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate mod pack structure
+        run: ./scripts/validate

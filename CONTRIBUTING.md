@@ -9,10 +9,10 @@ No Unity, no programming, no build. A translation is a spreadsheet of text.
 
 1. **Fork** this repo and make a branch.
 2. **Edit the text:**
-   - *Improve a language we ship* — open its file under `swapmeat/localization/official/`, e.g.
-     `omg-zh-Hans.UIStrings.csv`, and fix the values.
-   - *Add a language we don't ship* — copy the English source from `swapmeat/localization/_reference/` into
-     `swapmeat/localization/community/`, name it `<yourname>-<locale>.UIStrings.csv` (and
+   - *Improve a language SWAPMEAT ships* — open its file under `localization/official/`, e.g.
+     `swapmeat-zh-Hans.UIStrings.csv`, and fix the values.
+   - *Add a language SWAPMEAT doesn't ship* — copy the English source from `localization/_reference/` into
+     `localization/community/`, name it `<yourname>-<locale>.UIStrings.csv` (and
      `…GeneratedStrings.csv`), add a `<yourname>-<locale>.mod.json`, and translate the value column.
 3. **Open a pull request.** Automated checks run on it (below). If one fails, it tells you exactly what to fix.
 4. A maintainer reviews the green PR and merges. Merged languages ship in the next game update and, later, on
@@ -20,8 +20,8 @@ No Unity, no programming, no build. A translation is a spreadsheet of text.
 
 ## The file format
 
-Each language is **three files that share a base name**, e.g. `omg-ja.mod.json`, `omg-ja.UIStrings.csv`,
-`omg-ja.GeneratedStrings.csv`:
+Each language is **three files that share a base name**, e.g. `swapmeat-ja.mod.json`,
+`swapmeat-ja.UIStrings.csv`, `swapmeat-ja.GeneratedStrings.csv`:
 
 - **`<base>.mod.json`** — the manifest: the language `locale` (a [BCP-47] code like `ja`, `pt-BR`, `zh-Hans`)
   and the `displayName` shown in the game's language picker.

@@ -12,7 +12,7 @@ fail=0
 err () { echo >&2 "  FAIL  $1"; fail=1; }
 
 shopt -s nullglob
-mods=("$ROOT"/*/localization/{official,community}/*.mod.json)
+mods=("$ROOT"/localization/{official,community}/*.mod.json)
 if [[ ${#mods[@]} -eq 0 ]]; then
   echo >&2 "No packs found — nothing to validate."
   exit 0

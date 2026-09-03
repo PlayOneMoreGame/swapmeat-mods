@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "name": "SWAPMEAT Spanish",
   "author": "One More Game",
+  "files": [
+    { "path": "swapmeat-es.UIStrings.csv", "size": 88935, "sha256": "e8e47f4fceb43928510b53f427af988330b471eaa0e5bed428135c556b51d3c1" },
+    { "path": "swapmeat-es.GeneratedStrings.csv", "size": 349386, "sha256": "040beca3ea51ab118b36ded1f200d466b4a9ecf61087a6ff535be08ff1e6bfd0" }
+  ],
   "localization": {
     "locale": "es",
     "displayName": "español"

@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "name": "SWAPMEAT Portuguese (Brazil)",
   "author": "One More Game",
+  "files": [
+    { "path": "swapmeat-pt-BR.UIStrings.csv", "size": 88052, "sha256": "103aad89e062bcf342f073c6a163b1b617cd546737c3ece5f599d7e529076582" },
+    { "path": "swapmeat-pt-BR.GeneratedStrings.csv", "size": 344699, "sha256": "a507f88819f69022a8312f40b46ce1daf3dbd2ca5a9ec963e4be868a62046cb8" }
+  ],
   "localization": {
     "locale": "pt-BR",
     "displayName": "português (Brasil)"

@@ -33,7 +33,7 @@ ABL_Name_68,346366130774028,Súper puré de carne
 ABL_Desc_68,346366130774029,"Coloca un aperitivo que atrae a los enemigos, inflige daño y aturde a cualquiera que lo ataque."
 ABL_Desc_69,346366130774031,"Lanza una bomba que inflige daño <#FFEB04><link=""Keyword:5"">[Cinético]</link></color>."
 ABL_Name_73,346366130774034,Devorador de jochos
-ABL_Desc_73,346366130774035,"¡Échate un shot y conviértete en superhéroe!<br>¡+500 % de velocidad de ataque, x5 de daño, saltos extra y más velocidad!"
+ABL_Desc_73,346366130774035,"¡Es la HORA TURBO! +150 % de velocidad de ataque, daño doble, munición infinita y más velocidad."
 ABL_Desc_78,346366130774041,"Lanza una bomba que inflige daño de <#FFEB04><link=""Keyword:14"">[Limo]</link></color>."
 ABL_Name_81,346366130774046,Acelerar
 ABL_Desc_81,346366130774047,Corre más rápido al avanzar. Mantén presionado el botón para correr durante más tiempo.
@@ -693,7 +693,7 @@ FL_Name_1,5102145643732992,Estilo delegado
 FL_Name_2,5102145656315907,Estilo de habilidad
 ITM_Name_610,5102145664704512,Delegado I
 ITM_Name_611,5102145664704514,Delegado II
-ITM_Name_612,5102145664704516,Delegado
+ITM_Name_612,5102145664704516,Delegado III
 ITM_Name_613,5102145664704518,Recarga de habilidad I
 ITM_Name_614,5102145664704520,Recarga de habilidad II
 ITM_Name_615,5102145664704522,Recarga de habilidad III
@@ -712,16 +712,16 @@ FL_Name_5,5471888112345095,Estilo de pesca
 FL_Name_6,5471888112345099,Estilo de sheriff
 ITM_Name_617,5471888120733696,Arqueología I
 ITM_Name_618,5471888120733698,Arqueología II
-ITM_Name_619,5471888120733700,Arqueología
+ITM_Name_619,5471888120733700,Arqueología III
 ITM_Name_620,5471888120733702,Pesca I
 ITM_Name_621,5471888120733704,Pesca II
-ITM_Name_622,5471888120733706,Pesca
+ITM_Name_622,5471888120733706,Pesca III
 ITM_Name_623,5471888120733708,Geología I
 ITM_Name_624,5471888120733710,Geología II
-ITM_Name_625,5471888120733712,Geología
+ITM_Name_625,5471888120733712,Geología III
 ITM_Name_626,5471888120733714,Sheriff I
 ITM_Name_627,5471888120733716,Sheriff II
-ITM_Name_628,5471888120733718,Sheriff
+ITM_Name_628,5471888120733718,Sheriff III
 HE_Desc_123,5552419550257152,Recarga 1 munición en tu arma no equipada.
 VO_Transcript_68,5530917752791040,"Solo sigue moviéndote, ya está cerca esa zona de impacto.<br><br>Usa [InputAction:Gameplay/CharacterMovement] para moverte."
 VO_Transcript_69,5590439401873408,Usa el movimiento vertical para superar obstáculos básicos.<br><br>Usa [InputAction:Gameplay/Jump] para saltar.
@@ -743,7 +743,7 @@ FL_Desc_8,5925295680843781,¡Este estilo es muy trinches metal!
 HE_Desc_124,5925295685038081,"Obtén la<#FFEB04><link=""Item:633"">[Mejora de cazador I]</link></color> durante 15 s."
 ITM_Name_629,5925295726981120,Carnicero I
 ITM_Name_630,5925295726981122,Carnicero II
-ITM_Name_631,5925295726981124,Carnicero
+ITM_Name_631,5925295726981124,Carnicero III
 ITM_Name_633,5925295726981128,Mejora de cazador I
 ITM_Name_634,5925295726981130,Mejora de cazador II
 ITM_Name_635,5925295726981132,Mejora de cazador III
@@ -752,7 +752,7 @@ FL_Name_9,9851941273198592,Estilo de demolición
 FL_Desc_9,9851941319335936,Los tipos geniales no se fijan en las explosiones. Solo explotan cosas y se van.
 ITM_Name_638,9851941352890368,Demolición I
 ITM_Name_639,9851941352890369,Demolición II
-ITM_Name_640,9851941352890370,Demolición
+ITM_Name_640,9851941352890370,Demolición III
 ITM_Name_641,9965603942031360,Maldición destrozada
 VO_Transcript_82,10206832594026496,Se acerca la cosechadora. Prepárese para defender el área.
 VO_Transcript_83,10206832644358144,La nave Omnicarne ha entrado en la atmósfera.
@@ -766,7 +766,7 @@ FL_Name_10,10231597310664704,Estilo de albóndigas
 FL_Desc_10,10231597352607744,El daño aumenta por cada parte de carne perdida. Ten por seguro que serás la carne inteligente más peligrosa del universo conocido.
 ITM_Name_644,10231597377773568,Albóndiga I
 ITM_Name_645,10231597377773569,Albóndiga II
-ITM_Name_646,10231597377773570,Albóndiga
+ITM_Name_646,10231597377773570,Albóndiga III
 CRT_Name_77,10573095608770560,Beatriz
 VO_Transcript_91,10625864051912704,"¡Oye, tú, ven aquí!"
 VO_Transcript_94,10625864085467138,Una silla plegable en su cabeza debería bastar.
@@ -1323,7 +1323,7 @@ ITM_631_HE_0,18935442672967683,25 % de probabilidad al eliminar por Cuerpo a cu
 ITM_Name_632,28316283748474884,Cazador I
 ITM_632_HE_0,18935442672967684,Al eliminar con un arma a distancia
 ITM_Name_636,28316283748474885,Cazador II
-ITM_Name_637,28316283748474886,Verdugo
+ITM_Name_637,28316283748474886,Cazador III
 ITM_Name_659,14836559116476416,Agarre de cazador enfurecido
 MEH_Name_65,15651248710606848,Cabeza de cabeza dura
 PE_Desc_89,15325185385988096,¡¡Bloquea las vigas del tractor!!
@@ -1724,16 +1724,16 @@ INTD_Action_22,38559873695211520,Prepárese para el lanzamiento
 ITM_Name_982,39085048019582976,Tejido de araña
 ITM_Name_984,40359174763175936,Carga vacía I
 ITM_Name_985,40359174763175937,Carga vacía II
-ITM_Name_986,40359174763175938,Carga hueca
+ITM_Name_986,40359174763175938,Carga vacía III
 ITM_Name_987,40994790945316864,Cocinero de hamburguesas I
 ITM_Name_988,40994790945316865,Maestro de esbirros I
 ITM_Name_989,40994790945316866,Nadador I
 ITM_Name_990,40994790945316867,Cocinero de hamburguesas II
 ITM_Name_991,40994790945316868,Maestro de esbirros II
 ITM_Name_992,40994790945316869,Nadador II
-ITM_Name_993,40994790945316870,Voltea-hamburguesas
-ITM_Name_994,40994790945316871,Amo de esbirros
-ITM_Name_995,40994790945316872,Nadador
+ITM_Name_993,40994790945316870,Cocinero de hamburguesas III
+ITM_Name_994,40994790945316871,Maestro de esbirros III
+ITM_Name_995,40994790945316872,Nadador III
 MEH_Desc_60,43539132193894400,Cabeza de carne inteligente normal para todos los empleados.
 MEH_Desc_72,43507558438072320,Entregado personalmente por Carl Rangus a quienes fueron los primeros en entrar en combate.
 MEH_Desc_73,43507558467432448,El aumento de las lesiones craneales aún no se demuestra.
@@ -1895,7 +1895,7 @@ INTD_Action_24,47629102572404736,Lanzar transbordador
 ITM_Attr_66,17438567620927660,{0:|+|+|+}{0:percent()} % exploradores enemigos cerca de tu ubicación
 ITM_Name_1010,46870603527872512,Saludable I
 ITM_Name_1011,46870603527872513,Saludable II
-ITM_Name_1012,46870603527872514,Saludable
+ITM_Name_1012,46870603527872514,Saludable III
 ITM_Name_1013,46881725060472832,Proyectil I
 ITM_Name_1014,46881725064667136,Habilidad de carne I
 ITM_Name_1015,46881725064667137,Escudo de carne I
@@ -1903,26 +1903,26 @@ ITM_Name_1016,46881725064667138,Proyectil II
 ITM_Name_1017,46881725064667139,Habilidad de carne II
 ITM_Name_1018,46881725064667140,Escudo de carne II
 ITM_Name_1019,46881725064667141,Proyectil III
-ITM_Name_1020,46881725064667142,Habilidad de carne
-ITM_Name_1021,46881725064667143,Escudo de carne
+ITM_Name_1020,46881725064667142,Habilidad de carne III
+ITM_Name_1021,46881725064667143,Escudo de carne III
 ITM_Name_1022,48008300573220864,Largo alcance I
 ITM_Name_1023,48008300573220865,Largo alcance II
-ITM_Name_1024,48008300573220866,Largo alcance
+ITM_Name_1024,48008300573220866,Largo alcance III
 ITM_Name_1025,48008300573220867,Combate cercano I
 ITM_Name_1026,48008300573220868,Combate cercano II
-ITM_Name_1027,48008300573220869,Combate cercano
+ITM_Name_1027,48008300573220869,Combate cercano III
 ITM_1028_HE_0,48628779042463744,Al infligir daño a un objetivo [Electrificado]
 ITM_Name_1028,48280725907038208,Relámpago I
 ITM_Name_1029,48280725907038209,Relámpago II
-ITM_Name_1030,48280725907038210,Relámpago
+ITM_Name_1030,48280725907038210,Relámpago III
 ITM_1031_HE_0,48628779042463745,Al infligir daño a un objetivo [Ardiendo]
 ITM_Name_1031,48280725907038211,Incendiario I
 ITM_Name_1032,48280725907038212,Incendiario II
-ITM_Name_1033,48280725907038213,Incendiario
+ITM_Name_1033,48280725907038213,Incendiario III
 ITM_1034_HE_0,48628779042463746,Al infligir daño a un objetivo [Congelado]
 ITM_Name_1034,48280725907038214,Quemadura de frío I
 ITM_Name_1035,48280725907038215,Quemadura de frío II
-ITM_Name_1036,48280725907038216,Quemadura de frío
+ITM_Name_1036,48280725907038216,Quemadura de frío III
 ITM_1037_HE_0,48628779042463748,Al infligir daño a un objetivo [Tambaleante]
 ITM_Name_1037,48280725907038217,Cinética I
 ITM_Name_1038,48280725907038218,Cinética II
@@ -1930,10 +1930,10 @@ ITM_Name_1039,48280725907038219,Cinética III
 ITM_1040_HE_0,48598979758252032,Al infligir daño a un objetivo [Embarrado]
 ITM_Name_1040,48280725907038220,Salpicadura I
 ITM_Name_1041,48280725907038221,Salpicadura II
-ITM_Name_1042,48280725907038222,Salpicadura
+ITM_Name_1042,48280725907038222,Salpicadura III
 ITM_Name_1043,49034011132026880,Operaciones encubiertas I
 ITM_Name_1044,49034011132026881,Operaciones encubiertas II
-ITM_Name_1045,49034011132026882,Operaciones encubiertas
+ITM_Name_1045,49034011132026882,Operaciones encubiertas III
 ITM_Attr_476,51150823332241417,{0:+#.##;-#.##;+0} Regeneración de salud del minijefe
 ITM_Attr_477,51150823332241418,{0:|+|+|+}{0:percent()} % de regeneración de salud del minijefe
 ITM_Attr_478,51150823332241419,Regeneración de salud del minijefe x {0:0.##}
@@ -2192,10 +2192,10 @@ HE_Desc_167,63537517637394451,Inflige un +20 % de daño adicional contra mutante
 HE_Desc_168,63537517637394452,Inflige un +20 % de daño adicional contra omnicarnes.
 ITM_Name_1064,58751588414513152,Cazador I
 ITM_Name_1065,58751588414513153,Cazador II
-ITM_Name_1066,58751588414513154,Cazador
+ITM_Name_1066,58751588414513154,Cazador III
 ITM_Name_1067,58809432732065792,Tirador I
 ITM_Name_1068,58809432732065793,Tirador II
-ITM_Name_1069,58809432732065794,Tirador
+ITM_Name_1069,58809432732065794,Tirador III
 ITM_Name_1073,63537517687726080,Acuático I
 ITM_Name_1074,63537517687726081,Máquina I
 ITM_Name_1075,63537517687726082,Mutante I
@@ -2214,7 +2214,7 @@ ITM_Name_1087,63537517687726094,Acuático III
 ITM_Name_1088,63537517687726095,Máquina III
 ITM_Name_1089,63537517687726096,Mutante III
 ITM_Name_1090,63537517687726097,Franken III
-ITM_Name_1091,63537517687726098,Omnicarne
+ITM_Name_1091,63537517687726098,Omnicarne III
 ITM_Name_1092,63537517687726099,Insectoide III
 ITM_Name_1093,63537517687726100,Alienígena III
 ITM_Attr_509,64221606589751296,{0:|+|+|+}{0:percent()}% Mejor suerte con recompensas al subir de nivel
@@ -2519,13 +2519,13 @@ ART_Name_4,91432940955754496,Pozo gravitacional
 ART_Name_13,94597113466314753,Mecánico Carl
 CQ_Name_58,51558077172801536,Señor del anillo v2 (Estándar)
 CQ_Name_95,65757147558830080,Coleccionista de estilo
-CQ_Desc_95,65757147583995904,"La presentación importa, Blandito. Levanté esta empresa con carne buenísima Y una presentación buenísima. Diez piezas de estilo es un buen comienzo. Ya empiezas a parecer alguien allá afuera."
+CQ_Desc_95,65757147583995904,"La presentación importa, Blandito. Levanté esta empresa con carne buenísima Y una presentación buenísima. Cinco piezas de estilo es un buen comienzo. Ya empiezas a parecer alguien allá afuera."
 CQ_Name_96,65757147583995905,El estilo minimalista
-CQ_Desc_96,65757147583995906,"Hay un dicho en el negocio de los restaurantes: veinticinco piezas de estilo es el mínimo. Me lo inventé yo, pero es cierto. Sigue juntando — ¡allá afuera representas a Rangus Corp!"
+CQ_Desc_96,65757147583995906,"Hay un dicho en el negocio de los restaurantes: quince piezas de estilo es el mínimo. Me lo inventé yo, pero es cierto. Sigue juntando, ¡allá afuera representas a Rangus Corp!"
 CQ_Name_97,65757147583995907,Estilo elegante
-CQ_Desc_97,65757147583995908,"Cincuenta piezas de estilo. Busqué ""debonair"" para asegurarme de usarla bien. La usé bien. Esta es justo la razón por la que inventaron esa palabra. Sigue así."
+CQ_Desc_97,65757147583995908,"Veinticinco piezas de estilo. Busqué ""debonair"" para asegurarme de usarla bien. La usé bien. Esta es justo la razón por la que inventaron esa palabra. Sigue así."
 CQ_Name_98,65757147583995909,Exprésate de verdad
-CQ_Desc_98,65757147583995910,"Mira, no te voy a decir que juntes cien piezas de estilo. Eso jamás te lo diría. Solo quiero que pienses en lo que cien piezas de estilo dirían de ti como persona. Como empleado. En fin. Es cosa totalmente tuya."
+CQ_Desc_98,65757147583995910,"Mira, no te voy a decir que desbloquees treinta y siete piezas de estilo. Eso jamás te lo diría. Solo quiero que pienses en lo que treinta y siete piezas de estilo dirían de ti como persona. Como empleado. En fin. Es cosa totalmente tuya."
 CQ_Name_99,75588200087674880,I+D de armas
 CQ_Desc_99,75588200096063488,"Aquí en Rangus hemos tenido que crear algunos departamentos ""únicos"" para una cadena de comida rápida. Resulta que alimentar a la galaxia no es solo sándwiches y sonrisas, ¡es más difícil de lo que parece! Ve a I+D de Armas y empieza a subir de rango tu equipo. Mientras más variedad lleves en la cadera, más fácil será conseguir carne."
 CQ_Name_100,82285661372014592,Ve a pescar
@@ -3811,3 +3811,4 @@ STG_215_bd4046858d064a799c6fb2b83bbaf459,136795163437555715,"¡Uuuh, esta se va 
 STG_215_d49e7800286545b881c6901d09cd40c9,136795163437555712,"¡Sigue así, Blandito!"
 STG_215_d96b197a697c48159d7febd959a7b538,136795163433361408,"¡Órale, ahí nos vidrios, amiguito!"
 STG_215_ea7a3298574f446aa0059a8dc4b5141d,136795163437555716,"¡Eso, tú puedes!"
+MEL_Name_56,157375023630184448,Cazador

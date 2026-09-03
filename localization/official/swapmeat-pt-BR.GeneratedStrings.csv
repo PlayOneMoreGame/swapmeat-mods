@@ -33,7 +33,7 @@ ABL_Name_68,346366130774028,Superbolo de Carne
 ABL_Desc_68,346366130774029,Serve uma guloseima que atrai os inimigos e depois causa dano e atordoa qualquer um que a ataque.
 ABL_Desc_69,346366130774031,"Lança uma bomba que causa dano <#FFEB04><link=""Keyword:5"">[Cinético]</link></color>."
 ABL_Name_73,346366130774034,Água de Salsicha
-ABL_Desc_73,346366130774035,"Mande um gole pra dentro e vire super-herói!<br>+500% de velocidade de ataque, 5x de dano, pulos extras e mais velocidade!"
+ABL_Desc_73,346366130774035,"É HORA DO TURBO! +150% de velocidade de ataque, dano em dobro, munição infinita e um bônus de velocidade!"
 ABL_Desc_78,346366130774041,"Lança uma bomba que causa dano de <#FFEB04><link=""Keyword:14"">[Gosma]</link></color>."
 ABL_Name_81,346366130774046,Corrida
 ABL_Desc_81,346366130774047,Corre mais rápido enquanto avança. Segure para correr mais longe.
@@ -693,7 +693,7 @@ FL_Name_1,5102145643732992,Brasão de Delegado
 FL_Name_2,5102145656315907,Brasão de Habilidade
 ITM_Name_610,5102145664704512,Delegado I
 ITM_Name_611,5102145664704514,Delegado II
-ITM_Name_612,5102145664704516,Delegado
+ITM_Name_612,5102145664704516,Delegado III
 ITM_Name_613,5102145664704518,Recarga de Habilidade I
 ITM_Name_614,5102145664704520,Recarga de Habilidade II
 ITM_Name_615,5102145664704522,Recarga de Habilidade III
@@ -712,16 +712,16 @@ FL_Name_5,5471888112345095,Brasão de Pesca
 FL_Name_6,5471888112345099,Brasão de Xerife
 ITM_Name_617,5471888120733696,Arqueologia I
 ITM_Name_618,5471888120733698,Arqueologia II
-ITM_Name_619,5471888120733700,Arqueologia
+ITM_Name_619,5471888120733700,Arqueologia III
 ITM_Name_620,5471888120733702,Pesca I
 ITM_Name_621,5471888120733704,Pesca II
-ITM_Name_622,5471888120733706,Pesca
+ITM_Name_622,5471888120733706,Pesca III
 ITM_Name_623,5471888120733708,Geologia I
 ITM_Name_624,5471888120733710,Geologia II
-ITM_Name_625,5471888120733712,Geologia
+ITM_Name_625,5471888120733712,Geologia III
 ITM_Name_626,5471888120733714,Xerife I
 ITM_Name_627,5471888120733716,Xerife II
-ITM_Name_628,5471888120733718,Xerife
+ITM_Name_628,5471888120733718,Xerife III
 HE_Desc_123,5552419550257152,Recarrega 1 munição na sua arma não equipada.
 VO_Transcript_68,5530917752791040,"Continue andando, o local do acidente é logo ali.<br><br>Use [InputAction:Gameplay/CharacterMovement] pra se mover."
 VO_Transcript_69,5590439401873408,"Pra passar por cima de obstáculos básicos, use movimentos verticais.<br><br>Use [InputAction:Gameplay/Jump] pra pular."
@@ -743,7 +743,7 @@ FL_Desc_8,5925295680843781,Esse brasão é do rock!
 HE_Desc_124,5925295685038081,"Receba <#FFEB04><link=""Item:633"">[Vantagem: Matador I]</link></color> por 15s."
 ITM_Name_629,5925295726981120,Carnificina I
 ITM_Name_630,5925295726981122,Carnificina II
-ITM_Name_631,5925295726981124,Açougueiro
+ITM_Name_631,5925295726981124,Carnificina III
 ITM_Name_633,5925295726981128,Vantagem: Matador I
 ITM_Name_634,5925295726981130,Vantagem: Matador II
 ITM_Name_635,5925295726981132,Vantagem: Matador III
@@ -752,7 +752,7 @@ FL_Name_9,9851941273198592,Brasão de Demolição
 FL_Desc_9,9851941319335936,Gente legal não olha para explosões. É só explodir as coisas e ir embora.
 ITM_Name_638,9851941352890368,Demolição I
 ITM_Name_639,9851941352890369,Demolição II
-ITM_Name_640,9851941352890370,Demolição
+ITM_Name_640,9851941352890370,Demolição III
 ITM_Name_641,9965603942031360,Maldição Estilhaçada
 VO_Transcript_82,10206832594026496,Colhedora a caminho. Preparem-se para defender o local.
 VO_Transcript_83,10206832644358144,A nave de Omnicarne entrou na atmosfera.
@@ -766,7 +766,7 @@ FL_Name_10,10231597310664704,Brasão de Almôndega
 FL_Desc_10,10231597352607744,"Aumenta o dano para cada parte de carne faltando. Com isso aqui, você vai ter o molho. O molho de almôndegas."
 ITM_Name_644,10231597377773568,Almôndega I
 ITM_Name_645,10231597377773569,Almôndega II
-ITM_Name_646,10231597377773570,Almôndega
+ITM_Name_646,10231597377773570,Almôndega III
 CRT_Name_77,10573095608770560,Beatriz
 VO_Transcript_91,10625864051912704,"Ei, fraldinha, aqui!"
 VO_Transcript_94,10625864085467138,Acho que uma cadeirada na cabeça resolve.
@@ -1323,7 +1323,7 @@ ITM_631_HE_0,18935442672967683,25% de Chance ao Abater com Corpo a Corpo
 ITM_Name_632,28316283748474884,Matador I
 ITM_632_HE_0,18935442672967684,Ao Abater com Arma de Longo Alcance
 ITM_Name_636,28316283748474885,Matador II
-ITM_Name_637,28316283748474886,Matador
+ITM_Name_637,28316283748474886,Matador III
 ITM_Name_659,14836559116476416,Garra de Caçador Enfurecido
 MEH_Name_65,15651248710606848,Cabeça de Cabeção
 PE_Desc_89,15325185385988096,Bloqueie esses Feixes de Tração!
@@ -1724,16 +1724,16 @@ INTD_Action_22,38559873695211520,Preparar para o Lançamento
 ITM_Name_982,39085048019582976,Teia de Aranha
 ITM_Name_984,40359174763175936,Carga Oca I
 ITM_Name_985,40359174763175937,Carga Oca II
-ITM_Name_986,40359174763175938,Carga Oca
+ITM_Name_986,40359174763175938,Carga Oca III
 ITM_Name_987,40994790945316864,Chapeiro I
 ITM_Name_988,40994790945316865,Mestre dos Lacaios I
 ITM_Name_989,40994790945316866,Nadador I
 ITM_Name_990,40994790945316867,Chapeiro II
 ITM_Name_991,40994790945316868,Mestre dos Lacaios II
 ITM_Name_992,40994790945316869,Nadador II
-ITM_Name_993,40994790945316870,Chapeiro
-ITM_Name_994,40994790945316871,Mestre dos Lacaios
-ITM_Name_995,40994790945316872,Nadador
+ITM_Name_993,40994790945316870,Chapeiro III
+ITM_Name_994,40994790945316871,Mestre dos Lacaios III
+ITM_Name_995,40994790945316872,Nadador III
 MEH_Desc_60,43539132193894400,Cabeça de Carne Inteligente padrão para todos os funcionários.
 MEH_Desc_72,43507558438072320,Concedida pessoalmente por Carl Rangus aos primeiros a encarar a briga.
 MEH_Desc_73,43507558467432448,O aumento de lesões cranianas ainda não foi comprovado.
@@ -1895,7 +1895,7 @@ INTD_Action_24,47629102572404736,Lançar Nave
 ITM_Attr_66,17438567620927660,{0:|+|+|+}{0:percent()}% De Batedores Inimigos ao Redor da Sua Localização.
 ITM_Name_1010,46870603527872512,Saudável I
 ITM_Name_1011,46870603527872513,Saudável II
-ITM_Name_1012,46870603527872514,Saudável
+ITM_Name_1012,46870603527872514,Saudável III
 ITM_Name_1013,46881725060472832,Projétil I
 ITM_Name_1014,46881725064667136,Habilidade de Carne I
 ITM_Name_1015,46881725064667137,Proteção de Carne I
@@ -1903,26 +1903,26 @@ ITM_Name_1016,46881725064667138,Projétil II
 ITM_Name_1017,46881725064667139,Habilidade de Carne II
 ITM_Name_1018,46881725064667140,Proteção de Carne II
 ITM_Name_1019,46881725064667141,Projétil III
-ITM_Name_1020,46881725064667142,Habilidade de Carne
-ITM_Name_1021,46881725064667143,Proteção de Carne
+ITM_Name_1020,46881725064667142,Habilidade de Carne III
+ITM_Name_1021,46881725064667143,Proteção de Carne III
 ITM_Name_1022,48008300573220864,Longo Alcance I
 ITM_Name_1023,48008300573220865,Longo Alcance II
-ITM_Name_1024,48008300573220866,Longo Alcance
+ITM_Name_1024,48008300573220866,Longo Alcance III
 ITM_Name_1025,48008300573220867,Curto Alcance I
 ITM_Name_1026,48008300573220868,Curto Alcance II
-ITM_Name_1027,48008300573220869,Curto Alcance
+ITM_Name_1027,48008300573220869,Curto Alcance III
 ITM_1028_HE_0,48628779042463744,Ao Causar Dano a um Alvo [Eletrocutado]
 ITM_Name_1028,48280725907038208,Relâmpago I
 ITM_Name_1029,48280725907038209,Relâmpago II
-ITM_Name_1030,48280725907038210,Relâmpago
+ITM_Name_1030,48280725907038210,Relâmpago III
 ITM_1031_HE_0,48628779042463745,Ao Causar Dano a um Alvo com [Queimadura]
 ITM_Name_1031,48280725907038211,Incendiário I
 ITM_Name_1032,48280725907038212,Incendiário II
-ITM_Name_1033,48280725907038213,Incendiário
+ITM_Name_1033,48280725907038213,Incendiário III
 ITM_1034_HE_0,48628779042463746,Ao Causar Dano a um Alvo com [Geladura]
 ITM_Name_1034,48280725907038214,Queimadura de Frio I
 ITM_Name_1035,48280725907038215,Queimadura de Frio II
-ITM_Name_1036,48280725907038216,Queimadura de Frio
+ITM_Name_1036,48280725907038216,Queimadura de Frio III
 ITM_1037_HE_0,48628779042463748,Ao Causar Dano a um Alvo [Atordoado]
 ITM_Name_1037,48280725907038217,Cinético I
 ITM_Name_1038,48280725907038218,Cinético II
@@ -1930,10 +1930,10 @@ ITM_Name_1039,48280725907038219,Cinético III
 ITM_1040_HE_0,48598979758252032,Ao Causar Dano a um Alvo [Gosmento]
 ITM_Name_1040,48280725907038220,Salpicos I
 ITM_Name_1041,48280725907038221,Salpicos II
-ITM_Name_1042,48280725907038222,Salpicos
+ITM_Name_1042,48280725907038222,Salpicos III
 ITM_Name_1043,49034011132026880,Operações Secretas I
 ITM_Name_1044,49034011132026881,Operações Secretas II
-ITM_Name_1045,49034011132026882,Operações Secretas
+ITM_Name_1045,49034011132026882,Operações Secretas III
 ITM_Attr_476,51150823332241417,{0:+#.##;-#.##;+0} de Regeneração de Vida de Minichefe
 ITM_Attr_477,51150823332241418,{0:|+|+|+}{0:percent()}% de Regeneração de Vida de Minichefe
 ITM_Attr_478,51150823332241419,Regeneração de Vida de Minichefe x{0:0.##}
@@ -2192,10 +2192,10 @@ HE_Desc_167,63537517637394451,Causa +20% de Dano Extra contra Mutantes.
 HE_Desc_168,63537517637394452,Causa +20% de Dano Extra contra Omnicarnes.
 ITM_Name_1064,58751588414513152,Caçador I
 ITM_Name_1065,58751588414513153,Caçador II
-ITM_Name_1066,58751588414513154,Caçador
+ITM_Name_1066,58751588414513154,Caçador III
 ITM_Name_1067,58809432732065792,Atirador I
 ITM_Name_1068,58809432732065793,Atirador II
-ITM_Name_1069,58809432732065794,Atirador
+ITM_Name_1069,58809432732065794,Atirador III
 ITM_Name_1073,63537517687726080,Aquático I
 ITM_Name_1074,63537517687726081,Máquina I
 ITM_Name_1075,63537517687726082,Mutante I
@@ -2214,7 +2214,7 @@ ITM_Name_1087,63537517687726094,Aquático III
 ITM_Name_1088,63537517687726095,Máquina III
 ITM_Name_1089,63537517687726096,Mutante III
 ITM_Name_1090,63537517687726097,Franken III
-ITM_Name_1091,63537517687726098,Omnicarne
+ITM_Name_1091,63537517687726098,Omnicarne III
 ITM_Name_1092,63537517687726099,Insetoide III
 ITM_Name_1093,63537517687726100,Alienígena III
 ITM_Attr_509,64221606589751296,{0:|+|+|+}{0:percent()}% Mais Sorte com Recompensas de Subida de Nível
@@ -2519,13 +2519,13 @@ ART_Name_4,91432940955754496,Campo Gravitacional
 ART_Name_13,94597113466314753,Carl Mecânico
 CQ_Name_58,51558077172801536,O Senhor do Ringue v2 (Padrão)
 CQ_Name_95,65757147558830080,Coleção de Brasões
-CQ_Desc_95,65757147583995904,"A apresentação importa, Coxão Mole. Construí esta empresa em cima de carne de primeira E de uma apresentação de primeira. Dez peças de brasão são um começo e tanto. Você já tá começando a parecer alguém por aí."
+CQ_Desc_95,65757147583995904,"A apresentação importa, Coxão Mole. Construí esta empresa em cima de carne de primeira E de uma apresentação de primeira. Cinco peças de brasão são um começo e tanto. Você já tá começando a parecer alguém por aí."
 CQ_Name_96,65757147583995905,Brasão de Montão
-CQ_Desc_96,65757147583995906,"Tem um ditado no ramo dos restaurantes: vinte e cinco peças de brasão é o mínimo. Fui eu que inventei esse ditado, mas ele tá certíssimo. Continua colecionando — você tá representando a Rangus Corp por aí!"
+CQ_Desc_96,65757147583995906,"Tem um ditado no ramo dos restaurantes: quinze peças de brasão é o mínimo. Fui eu que inventei esse ditado, mas ele tá certíssimo. Continua colecionando, você tá representando a Rangus Corp por aí!"
 CQ_Name_97,65757147583995907,Embrazando
-CQ_Desc_97,65757147583995908,"Cinquenta peças de brasão. Fui pesquisar ""debonair"" pra ter certeza de que tava usando direito. Tava. É exatamente pra isso que essa palavra foi inventada. Continua."
+CQ_Desc_97,65757147583995908,"Vinte e cinco peças de brasão. Fui pesquisar ""debonair"" pra ter certeza de que tava usando direito. Tava. É exatamente pra isso que essa palavra foi inventada. Continua."
 CQ_Name_98,65757147583995909,Expressando o Seu Eu Verdadeiro
-CQ_Desc_98,65757147583995910,"Olha, eu não vou te mandar juntar cem peças de brasão. Isso é algo que eu jamais mandaria você fazer. Só quero que você pense no que cem peças de brasão diriam sobre você como pessoa. Como funcionário. Enfim. É totalmente por sua conta."
+CQ_Desc_98,65757147583995910,"Olha, eu não vou te mandar desbloquear trinta e sete peças de brasão. Isso é algo que eu jamais mandaria você fazer. Só quero que você pense no que trinta e sete peças de brasão diriam sobre você como pessoa. Como funcionário. Enfim. É totalmente por sua conta."
 CQ_Name_99,75588200087674880,P&D de Armas
 CQ_Desc_99,75588200096063488,"Aqui na Rangus a gente teve que criar uns departamentos ""únicos"" pra uma rede de fast food. Acontece que alimentar a galáxia não é só sobre sanduíches e sorrisos, é mais difícil do que parece! Desce lá no PeD de Armas e começa a subir o ranque do seu arsenal. Quanto mais variedade na cintura, mais fácil vai ser arranjar carne."
 CQ_Name_100,82285661372014592,Pesca e Companhia
@@ -3811,3 +3811,4 @@ STG_215_bd4046858d064a799c6fb2b83bbaf459,136795163437555715,"Oooh, essa vai ser 
 STG_215_d49e7800286545b881c6901d09cd40c9,136795163437555712,"Manda ver, Coxão Mole!"
 STG_215_d96b197a697c48159d7febd959a7b538,136795163433361408,"Beleza, falou e disse, parceirinho!"
 STG_215_ea7a3298574f446aa0059a8dc4b5141d,136795163437555716,"Isso, você consegue!"
+MEL_Name_56,157375023630184448,Caçador

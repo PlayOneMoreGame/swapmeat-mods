@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "name": "SWAPMEAT Chinese (Simplified)",
   "author": "One More Game",
+  "files": [
+    { "path": "swapmeat-zh-Hans.UIStrings.csv", "size": 81177, "sha256": "ccfb56642355f2296f9137ad76b89fdd16e9191c89e1319ea96aeb5deb8fe497" },
+    { "path": "swapmeat-zh-Hans.GeneratedStrings.csv", "size": 316698, "sha256": "bb86a23eff4b66694a711265f369a294f28096942be3a47e066cfe9961a86adf" }
+  ],
   "localization": {
     "locale": "zh-Hans",
     "displayName": "中文"

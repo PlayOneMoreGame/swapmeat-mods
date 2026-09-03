@@ -232,8 +232,6 @@ TRADER_TERMINAL_ACTION_SELL,58596954802741248,Vender
 TRADER_TERMINAL_ACTION_EXCHANGE,58597048063090688,Comprar
 TRADER_TERMINAL_ACTION_UNAVAILABLE_NO_CURRENCY,58597098013057024,Moedas insuficientes
 UI_REQUIREMENTS,58737776349143040,Requisitos:
-,59065052786782208,Não é possível ressurgir sob estado de fúria
-,59065063629058048,Segure [InputAction:Interact/Interact] para ressurgir
 ITEM_REWARD_NAME_FMT,63053428530601984,{ItemName}{ItemCount:| +{ItemCount}}
 SUBTITLE_LINE_FMT,63797240152449024,<color=#{SpeakerNameColor}>{SpeakerName}:</color> {SpeakerText}
 Drain Tunnel,64088669405609984,Túnel de Drenagem
@@ -448,7 +446,6 @@ DEATH_SCREEN_KILLED_BY_FMT,73552691249274880,<color=#FFC700>{CreatureName}</colo
 UI_ANNOUNCEMENT_LEVEL_UP_RESUME,74296320918020096,Retomando em {seconds} segundos
 UI_ANNOUNCEMENT_DIFFICULTY_FMT,74296319433236480,{difficulty}{ascension:cond:>0? Ascension {}|}
 UI_ANNOUNCEMENT_ENTER_PLANET_FMT,74296317638074368,Chegando em {planet}
-,71029377494671360,Ressurja ao custo de <color=#{ColorStr}>{CostSeconds}s</color> do <color=#{ColorStr}>Temporizador dos Caçadores</color>
 UI_REQUIREMENT_CARLQUEST_FMT,74971176676352000,"Conclua a Missão: ""{quest}"""
 UI_REQUIREMENT_SMARTMEAT_RANK,75676449292410880,Melhore sua Carne Inteligente para o Ranque {rank}
 UI_REQUIREMENT_CAUGHTFISH,75676451393757184,Pegue {count} {count:p:peixe|peixes}
@@ -1162,3 +1159,5 @@ UI_SAVEMGMT_MSGBOX_ABANDON_RUN_CONFIRM,176120214003376128,Abandonar partida
 UI_SAVEMGMT_MSGBOX_ABANDON_RUN_MSG,176120210866036736,Abandonar a partida em andamento do Funcionário {EmployeeNumber}?<br>Você voltará ao saguão. Isso não pode ser desfeito.
 UI_SAVEMGMT_MSGBOX_ABANDON_RUN_TITLE,176120204733964288,Abandonar partida?
 UI_SAVEMGMT_RUN_IN_PROGRESS,175380214638960640,Partida em andamento
+MODE_SELECT_CREDITS_BTN,192915189290491904,Créditos
+UI_OPTS_LOCALE_HELP_MESSAGE_MOD,193118195936124928,Selecione o idioma de sua preferência para visualizar o texto no jogo.<br><br>{ModName} foi adicionado por {Author}.

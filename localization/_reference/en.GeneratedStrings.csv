@@ -35,7 +35,7 @@ ABL_Desc_68,346366130774029,"Serve a treat that lures enemies, then damages and 
 ABL_Desc_69,346366130774031,"Throw a bomb that deals <#FFEB04><link=""Keyword:5"">[Kinetic]</link></color> damage."
 ABL_Desc_71,28309369228615680,"Create a blast wave that deals <#FFEB04><link=""Keyword:13"">[Fire]</link></color> damage and knocks back enemies."
 ABL_Name_73,346366130774034,Glizzy Gulp
-ABL_Desc_73,346366130774035,"Pound some Gulp and become a super hero!<br>+500% attack speed, 5x the damage, extra jumps and increased speed!"
+ABL_Desc_73,346366130774035,"It's TURBO TIME - +150% attack speed, double damage, infinite ammo, and a speed boost!"
 ABL_Desc_78,346366130774041,"Throw a bomb that deals <#FFEB04><link=""Keyword:14"">[Slime]</link></color> damage."
 ABL_Desc_79,28309369232809984,"Create a blast wave that deals <#FFEB04><link=""Keyword:14"">[Slime]</link></color> damage and knocks back enemies."
 ABL_Desc_80,28309369232809985,"Create a blast wave that deals <#FFEB04><link=""Keyword:12"">[Electric]</link></color> damage and knocks back enemies."
@@ -280,13 +280,13 @@ CQ_Desc_93,64263989780013058,"Look, Squishy — fishing in a Sludge Rift is not 
 CQ_Name_94,64263989780013059,Omnipotent Fisher
 CQ_Desc_94,64263989780013060,Brine Rift fish is our most premium menu item. Customers pay triple for it and don't know why. Neither do I. That's fine. Catch everything in there and don't fall in.
 CQ_Name_95,65757147558830080,Flair Collector
-CQ_Desc_95,65757147583995904,"Presentation matters, Squishy. I built this company on great meat AND great presentation. Ten flair is a solid start. You're starting to look like somebody out there."
+CQ_Desc_95,65757147583995904,"Presentation matters, Squishy. I built this company on great meat AND great presentation. Five flair items is a solid start. You're starting to look like somebody out there."
 CQ_Name_96,65757147583995905,The Flair Minimum
-CQ_Desc_96,65757147583995906,"There's a saying in the restaurant business: twenty-five pieces of flair is the minimum. I made that saying up, but it's right. Keep collecting - you're representing Rangus Corp out there!"
+CQ_Desc_96,65757147583995906,"There's a saying in the restaurant business: fifteen pieces of flair is the minimum. I made that saying up, but it's right. Keep collecting - you're representing Rangus Corp out there!"
 CQ_Name_97,65757147583995907,Flair Debonair
-CQ_Desc_97,65757147583995908,"Fifty flair. I looked up ""debonair"" to make sure I was using it right. I was. This is exactly what that word was invented for. Keep going."
+CQ_Desc_97,65757147583995908,"Twenty-five flair items. I looked up ""debonair"" to make sure I was using it right. I was. This is exactly what that word was invented for. Keep going."
 CQ_Name_98,65757147583995909,Truly Expressing Yourself
-CQ_Desc_98,65757147583995910,"Now, I'm not going to tell you to collect a hundred flair. That's not something I would ever tell you to do. I just want you to think about what a hundred flair would say about you as a person. As an employee. Anyway. It's completely up to you."
+CQ_Desc_98,65757147583995910,"Now, I'm not going to tell you to unlock thirty-seven flair items. That's not something I would ever tell you to do. I just want you to think about what thirty-seven flair items would say about you as a person. As an employee. Anyway. It's completely up to you."
 CQ_Name_99,75588200087674880,Weapon R&D
 CQ_Desc_99,75588200096063488,"Here at Rangus we’ve had to create some ""unique"" departments for a fast food chain. Turns out feeding the galaxy isn't just sandwiches and smiles, it's harder than it looks! Head down to Weapon R&D and start ranking up your kit. The more variety on your hip, the easier meat will be to procure."
 CQ_Name_100,82285661372014592,Go Fish
@@ -1264,28 +1264,29 @@ ITM_Name_604,1849357526622208,Brutal Curse
 ITM_Name_609,4779317228724224,Cryo Candy Buff
 ITM_Name_610,5102145664704512,Deputy I
 ITM_Name_611,5102145664704514,Deputy II
-ITM_Name_612,5102145664704516,Deputy
+ITM_Name_612,5102145664704516,Deputy III
 ITM_Name_613,5102145664704518,Ability Recharge I
 ITM_Name_614,5102145664704520,Ability Recharge II
+ITM_Name_615,5102145664704522,Ability Recharge III
 ITM_Name_617,5471888120733696,Archaeology I
 ITM_Name_618,5471888120733698,Archaeology II
-ITM_Name_619,5471888120733700,Archaeology
+ITM_Name_619,5471888120733700,Archaeology III
 ITM_Name_620,5471888120733702,Fishing I
 ITM_Name_621,5471888120733704,Fishing II
-ITM_Name_622,5471888120733706,Fishing
+ITM_Name_622,5471888120733706,Fishing III
 ITM_Name_623,5471888120733708,Geology I
 ITM_Name_624,5471888120733710,Geology II
-ITM_Name_625,5471888120733712,Geology
+ITM_Name_625,5471888120733712,Geology III
 ITM_Name_626,5471888120733714,Sheriff I
 ITM_626_HE_0,18935442668773376,50% Chance On Kill
 ITM_Name_627,5471888120733716,Sheriff II
 ITM_627_HE_0,18935442672967680,75% Chance On Kill
-ITM_Name_628,5471888120733718,Sheriff
+ITM_Name_628,5471888120733718,Sheriff III
 ITM_Name_629,5925295726981120,Butcher I
 ITM_629_HE_0,18935442672967681,15% Chance On Melee Kill
 ITM_Name_630,5925295726981122,Butcher II
 ITM_630_HE_0,18935442672967682,20% Chance On Melee Kill
-ITM_Name_631,5925295726981124,Butcher
+ITM_Name_631,5925295726981124,Butcher III
 ITM_631_HE_0,18935442672967683,25% Chance On Melee Kill
 ITM_Name_632,28316283748474884,Slayer I
 ITM_632_HE_0,18935442672967684,On Ranged Weapon Kill
@@ -1293,90 +1294,92 @@ ITM_Name_633,5925295726981128,Slayer Buff I
 ITM_Name_634,5925295726981130,Slayer Buff II
 ITM_Name_635,5925295726981132,Slayer Buff III
 ITM_Name_636,28316283748474885,Slayer II
-ITM_Name_637,28316283748474886,Slayer
+ITM_Name_637,28316283748474886,Slayer III
 ITM_Name_638,9851941352890368,Demolition I
 ITM_Name_639,9851941352890369,Demolition II
-ITM_Name_640,9851941352890370,Demolition
+ITM_Name_640,9851941352890370,Demolition III
 ITM_Name_641,9965603942031360,Shattered Curse
 ITM_Name_644,10231597377773568,Meatball I
 ITM_Desc_644,117055205214773248,+10% All Damage per missing meat part
 ITM_Name_645,10231597377773569,Meatball II
 ITM_Desc_645,14970698739998720,+15% All Damage per missing meat part
-ITM_Name_646,10231597377773570,Meatball
+ITM_Name_646,10231597377773570,Meatball III
 ITM_Desc_646,14970698739998721,+20% All Damage per missing meat part
 ITM_Name_651,13470112974626816,Ability Mastery I
 ITM_Name_659,14836559116476416,Enraged Hunter Grip
 ITM_Name_982,39085048019582976,Spider Weave
 ITM_Name_984,40359174763175936,Hollow Charge I
 ITM_Name_985,40359174763175937,Hollow Charge II
-ITM_Name_986,40359174763175938,Hollow Charge
+ITM_Name_986,40359174763175938,Hollow Charge III
 ITM_Name_987,40994790945316864,Burger Flipper I
 ITM_Name_988,40994790945316865,Minion Master I
 ITM_Name_989,40994790945316866,Swimmer I
 ITM_Name_990,40994790945316867,Burger Flipper II
 ITM_Name_991,40994790945316868,Minion Master II
 ITM_Name_992,40994790945316869,Swimmer II
-ITM_Name_993,40994790945316870,Burger Flipper
-ITM_Name_994,40994790945316871,Minion Master
-ITM_Name_995,40994790945316872,Swimmer
+ITM_Name_993,40994790945316870,Burger Flipper III
+ITM_Name_994,40994790945316871,Minion Master III
+ITM_Name_995,40994790945316872,Swimmer III
 ITM_Name_1010,46870603527872512,Healthy I
 ITM_Name_1011,46870603527872513,Healthy II
-ITM_Name_1012,46870603527872514,Healthy
+ITM_Name_1012,46870603527872514,Healthy III
 ITM_Name_1013,46881725060472832,Projectile I
 ITM_Name_1014,46881725064667136,Meat Ability I
 ITM_Name_1015,46881725064667137,Meat Shielding I
 ITM_Name_1016,46881725064667138,Projectile II
 ITM_Name_1017,46881725064667139,Meat Ability II
 ITM_Name_1018,46881725064667140,Meat Shielding II
-ITM_Name_1020,46881725064667142,Meat Ability
-ITM_Name_1021,46881725064667143,Meat Shielding
+ITM_Name_1019,46881725064667141,Projectile III
+ITM_Name_1020,46881725064667142,Meat Ability III
+ITM_Name_1021,46881725064667143,Meat Shielding III
 ITM_Name_1022,48008300573220864,Long Range I
 ITM_Name_1023,48008300573220865,Long Range II
-ITM_Name_1024,48008300573220866,Long Range
+ITM_Name_1024,48008300573220866,Long Range III
 ITM_Name_1025,48008300573220867,Close Quarters I
 ITM_Name_1026,48008300573220868,Close Quarters II
-ITM_Name_1027,48008300573220869,Close Quarters
+ITM_Name_1027,48008300573220869,Close Quarters III
 ITM_Name_1028,48280725907038208,Lightning I
 ITM_Desc_1028,118953930640056320,"Deal +10% damage to <#FFEB04><link=""Keyword:8"">[Electrified]</link></color> enemies"
 ITM_Name_1029,48280725907038209,Lightning II
 ITM_Desc_1029,118953930640056321,"Deal +15% damage to <#FFEB04><link=""Keyword:8"">[Electrified]</link></color> enemies"
-ITM_Name_1030,48280725907038210,Lightning
+ITM_Name_1030,48280725907038210,Lightning III
 ITM_Desc_1030,118953930640056322,"Deal +20% damage to <#FFEB04><link=""Keyword:8"">[Electrified]</link></color> enemies"
 ITM_Name_1031,48280725907038211,Incendiary I
 ITM_Desc_1031,118960669196279808,"Deal +10% damage to <#FFEB04><link=""Keyword:1"">[Burning]</link></color> enemies"
 ITM_Name_1032,48280725907038212,Incendiary II
 ITM_Desc_1032,118960669196279809,"Deal +15% damage to <#FFEB04><link=""Keyword:1"">[Burning]</link></color> enemies"
-ITM_Name_1033,48280725907038213,Incendiary
+ITM_Name_1033,48280725907038213,Incendiary III
 ITM_Desc_1033,118960669196279810,"Deal +20% damage to <#FFEB04><link=""Keyword:1"">[Burning]</link></color> enemies"
 ITM_Name_1034,48280725907038214,Frostbite I
 ITM_Desc_1034,118960669200474112,"Deal +10% damage to <#FFEB04><link=""Keyword:3"">[Chilled]</link></color> enemies"
 ITM_Name_1035,48280725907038215,Frostbite II
 ITM_Desc_1035,118960669200474113,"Deal +15% damage to <#FFEB04><link=""Keyword:3"">[Chilled]</link></color> enemies"
-ITM_Name_1036,48280725907038216,Frostbite
+ITM_Name_1036,48280725907038216,Frostbite III
 ITM_Desc_1036,118960669200474114,"Deal +20% damage to <#FFEB04><link=""Keyword:3"">[Chilled]</link></color> enemies"
 ITM_Name_1037,48280725907038217,Kinetic I
 ITM_Desc_1037,118960669200474115,"Deal +10% damage to <#FFEB04><link=""Keyword:7"">[Staggered]</link></color> enemies"
 ITM_Name_1038,48280725907038218,Kinetic II
 ITM_Desc_1038,118960669200474116,"Deal +15% damage to <#FFEB04><link=""Keyword:7"">[Staggered]</link></color> enemies"
+ITM_Name_1039,48280725907038219,Kinetic III
 ITM_Desc_1039,118960669200474117,"Deal +20% damage to <#FFEB04><link=""Keyword:7"">[Staggered]</link></color> enemies"
 ITM_Name_1040,48280725907038220,Splatter I
 ITM_Desc_1040,118960669200474118,"Deal +10% damage to <#FFEB04><link=""Keyword:2"">[Slimed]</link></color> enemies"
 ITM_Name_1041,48280725907038221,Splatter II
 ITM_Desc_1041,118960669200474119,"Deal +15% damage to <#FFEB04><link=""Keyword:2"">[Slimed]</link></color> enemies"
-ITM_Name_1042,48280725907038222,Splatter
+ITM_Name_1042,48280725907038222,Splatter III
 ITM_Desc_1042,118960669204668416,"Deal +20% damage to <#FFEB04><link=""Keyword:2"">[Slimed]</link></color> enemies"
 ITM_Name_1043,49034011132026880,Covert Ops I
 ITM_Name_1044,49034011132026881,Covert Ops II
-ITM_Name_1045,49034011132026882,Covert Ops
+ITM_Name_1045,49034011132026882,Covert Ops III
 ITM_Name_1064,58751588414513152,Hunter I
 ITM_Desc_1064,118953930648444928,Deal +30% damage to Hunters
 ITM_Name_1065,58751588414513153,Hunter II
 ITM_Desc_1065,118953930648444929,Deal +40% damage to Hunters
-ITM_Name_1066,58751588414513154,Hunter
+ITM_Name_1066,58751588414513154,Hunter III
 ITM_Desc_1066,118953930648444930,Deal +50% damage to Hunters
 ITM_Name_1067,58809432732065792,Marksman I
 ITM_Name_1068,58809432732065793,Marksman II
-ITM_Name_1069,58809432732065794,Marksman
+ITM_Name_1069,58809432732065794,Marksman III
 ITM_Name_1073,63537517687726080,Aquatic I
 ITM_Desc_1073,118953930648444931,Deal +10% damage to Aquatics
 ITM_Name_1074,63537517687726081,Machine I
@@ -1405,13 +1408,19 @@ ITM_Name_1085,63537517687726092,Insectoid II
 ITM_Desc_1085,118953930656833538,Deal +15% damage to Insectoids
 ITM_Name_1086,63537517687726093,Alien II
 ITM_Desc_1086,118953930656833539,Deal +15% damage to Aliens
+ITM_Name_1087,63537517687726094,Aquatic III
 ITM_Desc_1087,118953930656833540,Deal +20% damage to Aquatics
+ITM_Name_1088,63537517687726095,Machine III
 ITM_Desc_1088,118953930656833541,Deal +20% damage to Machines
+ITM_Name_1089,63537517687726096,Mutant III
 ITM_Desc_1089,118953930656833542,Deal +20% damage to Mutants
+ITM_Name_1090,63537517687726097,Franken III
 ITM_Desc_1090,118953930656833543,Deal +20% damage to Franken Meats
-ITM_Name_1091,63537517687726098,Omnimeat
+ITM_Name_1091,63537517687726098,Omnimeat III
 ITM_Desc_1091,118953930656833544,Deal +20% damage to Omnimeats
+ITM_Name_1092,63537517687726099,Insectoid III
 ITM_Desc_1092,118953930661027840,Deal +20% damage to Insectoids
+ITM_Name_1093,63537517687726100,Alien III
 ITM_Desc_1093,118953930661027841,Deal +20% damage to Aliens
 ITM_Name_1099,88480638204633088,Shrine of Mobility
 ITM_Name_1100,88480638208827392,Shrine of Luck
@@ -1522,9 +1531,6 @@ ITM_Name_1367,145709960610701312,Heal Self
 ITM_Name_1368,145709960610701313,Beefed Corn
 ITM_Name_1373,146946507980922882,MindControl Damage Buff
 ITM_Name_1374,148256709485256704,SkateboardLegs
-ITM_Name_1376,148604628461674496,PreservedHead
-ITM_Name_1377,148604628470063104,PreservedLegs
-ITM_Name_1378,148604628470063105,PreservedTorso
 KW_Desc_1,117104892261163008,"Deals <#FFEB04><link=""Keyword:13"">[Fire]</link></color> damage over time. Has a chance to <#FFEB04><link=""Keyword:19"">[Combust]</link></color>."
 KW_Desc_2,117104892269551616,"Take more damage and gain <#FFEB04><link=""Keyword:17"">[Conditions]</link></color> faster."
 KW_Desc_3,117104892269551617,Move and attack slower.
@@ -1723,6 +1729,7 @@ MEL_Name_52,142041378110562304,Rangus Medic Legs
 MEL_Name_53,145851750017916928,Hunter Legs
 MEL_Name_55,148256709527199744,Skateboard Legs
 MEL_Desc_55,148256709527199745,"""You did not quit skateboarding because you got old. You got old because you quit skateboarding."" - Jay Adams"
+MEL_Name_56,157375023630184448,Hunter
 MET_Name_15,346366155939872,Empty Meat Torso
 MET_Desc_15,346366155939873,"No body, no problem."
 MET_Name_153,346366155939874,Grill Ghost Torso
@@ -2381,6 +2388,7 @@ TPUP_Title_7_0,55533248523001859,Chainsawing
 TPUP_Desc_7_0,55533248523001860,<color=#FF3667>Ancient Gastronauts</color> now appear on your <color=#FF3667>compass</color>.<br>Find them to gather valuable <color=#FF3667>resources</color> used in crafting and trading.
 TPUP_CodexButton_8,64970684194811909,Gathering Fish
 TPUP_CodexDesc_8,64970684194811910,Fishing for fish
+TPUP_Title_8_0,55533248523001861,Fishing
 TPUP_Desc_8_0,55533248523001862,<color=#FF3667>Fishing Rifts</color> now appear on your <color=#FF3667>compass</color>.<br>Find them to gather valuable <color=#FF3667>resources</color> used in crafting and trading.
 TPUP_Desc_9_0,55533248523001863,You now have access to the <color=#FF3667>Ultimate Terminal</color>!<br><br>Access the terminal to unlock these <color=#FF3667>powerful abilities</color> to bring into your runs.
 TPUP_CodexButton_10,64970684194811913,Weapons Terminal

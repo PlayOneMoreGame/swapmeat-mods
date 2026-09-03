@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "name": "SWAPMEAT Japanese",
   "author": "One More Game",
+  "files": [
+    { "path": "swapmeat-ja.UIStrings.csv", "size": 93182, "sha256": "dada84a7f5547d6bc72f8e740e99a78a3016e04ddc705d98460ee9016f9acada" },
+    { "path": "swapmeat-ja.GeneratedStrings.csv", "size": 372018, "sha256": "b327497212b41c55dc6213d68b05cef173a767758a32eed3c3bd8a751eef575c" }
+  ],
   "localization": {
     "locale": "ja",
     "displayName": "日本語"

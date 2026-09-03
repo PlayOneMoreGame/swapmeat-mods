@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "name": "SWAPMEAT Korean",
   "author": "One More Game",
+  "files": [
+    { "path": "swapmeat-ko.UIStrings.csv", "size": 88638, "sha256": "cf4843012622861b8ebb79779786107f1938c242d1f01cfacb9f7c17fc5d635b" },
+    { "path": "swapmeat-ko.GeneratedStrings.csv", "size": 352155, "sha256": "b122b46c182a4a1282811cb64d4fc5953f3a39b74b5829007f96a193c11ec453" }
+  ],
   "localization": {
     "locale": "ko",
     "displayName": "한국어"

@@ -2,7 +2,7 @@
 
 This repository is a starting point, not a destination. It holds the language packs that ship with
 [SWAPMEAT](https://store.steampowered.com/app/2246060/) and the English text they were translated from, exported
-from the game every release. **It does not take pull requests** (any that are opened are closed automatically):
+from the game every release (`localization/EXPORT.json` names the release). **It does not accept pull requests**:
 a change merged here would simply be overwritten by the next export. What you make is yours to keep and ship.
 
 No Unity, no programming, no build. A translation is a spreadsheet of text.

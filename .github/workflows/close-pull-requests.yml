@@ -1,0 +1,28 @@
+name: close pull requests
+
+# This repository is an export from the game, regenerated every release. It does not take changes back:
+# a pull request here can only be overwritten by the next export. GitHub cannot switch pull requests off
+# for a public repository, so this closes any that get opened, with a note that points at the intended
+# path (fork it and ship your own pack). `pull_request_target` runs with this repo's token even for
+# pull requests from forks, which is what lets it comment and close.
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment and close
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh pr comment "$PR" --repo "$REPO" --body "Thanks for the interest, but this repository does not take pull requests. It is an export of SWAPMEAT's shipped language packs and English source strings, regenerated from the game every release, so anything merged here would be overwritten by the next export.
+
+          The intended path is to **fork** it: keep your fork, edit the CSVs there, and ship your language as a mod. Drop the pack into the game's \`mods/\` folder to use it offline, or publish it on the Steam Workshop so others can subscribe. The README explains both. Your fork is yours; nothing needs to come back here."
+          gh pr close "$PR" --repo "$REPO"

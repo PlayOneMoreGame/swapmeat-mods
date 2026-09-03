@@ -1,9 +1,8 @@
 name: validate
 
-# Runs on every pull request. A red check means a maintainer never has to hunt for the problem —
-# the log names it, the contributor fixes it, and humans only ever review green.
+# Runs on every push to main, which only ever comes from the game's export. A red check means an export
+# produced a pack the game's loader would refuse, and the log names the file and the rule.
 on:
-  pull_request:
   push:
     branches: [main]
 

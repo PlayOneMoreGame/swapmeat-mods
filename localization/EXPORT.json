@@ -1,0 +1,10 @@
+{
+  "game": "SWAPMEAT",
+  "release": "v1.7.0",
+  "releaseNote": "the latest release tag reachable from sourceCommit; strings added after that tag are in this export but ship with the next release",
+  "sourceRepo": "rog",
+  "sourceCommit": "01323187027342fb27fc0243620b6d0926706e6c",
+  "exportedUtc": "2026-09-03T19:35:27Z",
+  "exportedBy": "omg loc export-packs",
+  "summary": "es: UIStrings=1162 GeneratedStrings=3813; pt-BR: UIStrings=1162 GeneratedStrings=3813; ja: UIStrings=1162 GeneratedStrings=3813; ko: UIStrings=1162 GeneratedStrings=3813; zh-Hans: UIStrings=1162 GeneratedStrings=3813; en reference: UIStrings=1233 GeneratedStrings=3064"
+}
